@@ -1,0 +1,873 @@
+id,title,genre,director,year,runtime,rating,votes,revenue
+2001,"Guardians of the Galaxy","Action,Adventure,Sci-Fi","James Gunn",2014,121,8.1,757074,333.13
+2002,Prometheus,"Adventure,Mystery,Sci-Fi","Ridley Scott",2012,124,7,485820,126.46
+2004,Sing,"Animation,Comedy,Family","Christophe Lourdelet",2016,108,7.2,60545,270.32
+2005,"Suicide Squad","Action,Adventure,Fantasy","David Ayer",2016,123,6.2,393727,325.02
+2006,"The Great Wall","Action,Adventure,Fantasy","Yimou Zhang",2016,103,6.1,56036,45.13
+2007,"La La Land","Comedy,Drama,Music","Damien Chazelle",2016,128,8.3,258682,151.06
+2008,"The Lost City of Z","Action,Adventure,Biography","James Gray",2016,141,7.1,7188,8.01
+2009,Passengers,"Adventure,Drama,Romance","Morten Tyldum",2016,116,7,192177,100.01
+2010,"Fantastic Beasts and Where to Find Them","Adventure,Family,Fantasy","David Yates",2016,133,7.5,232072,234.02
+2011,"Hidden Figures","Biography,Drama,History","Theodore Melfi",2016,127,7.8,93103,169.27
+2012,"Rogue One","Action,Adventure,Sci-Fi","Gareth Edwards",2016,133,7.9,323118,532.17
+2013,Moana,"Animation,Adventure,Comedy","Ron Clements",2016,107,7.7,118151,248.75
+2014,Colossal,"Action,Comedy,Drama","Nacho Vigalondo",2016,109,6.4,8612,2.87
+2015,"The Secret Life of Pets","Animation,Adventure,Comedy","Chris Renaud",2016,87,6.6,120259,368.31
+2016,"Hacksaw Ridge","Biography,Drama,History","Mel Gibson",2016,139,8.2,211760,67.12
+2017,"Jason Bourne","Action,Thriller","Paul Greengrass",2016,123,6.7,150823,162.16
+2018,Lion,"Biography,Drama","Garth Davis",2016,118,8.1,102061,51.69
+2019,Arrival,"Drama,Mystery,Sci-Fi","Denis Villeneuve",2016,116,8,340798,100.5
+2020,Gold,"Adventure,Drama,Thriller","Stephen Gaghan",2016,120,6.7,19053,7.22
+2021,"Manchester by the Sea",Drama,"Kenneth Lonergan",2016,137,7.9,134213,47.7
+2022,Trolls,"Animation,Adventure,Comedy","Walt Dohrn",2016,92,6.5,38552,153.69
+2023,"Independence Day: Resurgence","Action,Adventure,Sci-Fi","Roland Emmerich",2016,120,5.3,127553,103.14
+2024,"Bahubali: The Beginning","Action,Adventure,Drama","S.S. Rajamouli",2015,159,8.3,76193,6.5
+2025,"Dead Awake","Horror,Thriller","Phillip Guzman",2016,99,4.7,523,0.01
+2026,"Bad Moms",Comedy,"Jon Lucas",2016,100,6.2,66540,113.08
+2027,"Assassin's Creed","Action,Adventure,Drama","Justin Kurzel",2016,115,5.9,112813,54.65
+2028,"Why Him?",Comedy,"John Hamburg",2016,111,6.3,48123,60.31
+2029,"Nocturnal Animals","Drama,Thriller","Tom Ford",2016,116,7.5,126030,10.64
+2030,"X-Men: Apocalypse","Action,Adventure,Sci-Fi","Bryan Singer",2016,144,7.1,275510,155.33
+2031,Deadpool,"Action,Adventure,Comedy","Tim Miller",2016,108,8,627797,363.02
+2032,"Resident Evil: The Final Chapter","Action,Horror,Sci-Fi","Paul W.S. Anderson",2016,107,5.6,46165,26.84
+2033,"Captain America: Civil War","Action,Adventure,Sci-Fi","Anthony Russo",2016,147,7.9,411656,408.08
+2034,Interstellar,"Adventure,Drama,Sci-Fi","Christopher Nolan",2014,169,8.6,1047747,187.99
+2035,"Doctor Strange","Action,Adventure,Fantasy","Scott Derrickson",2016,115,7.6,293732,232.6
+2036,"The Magnificent Seven","Action,Adventure,Western","Antoine Fuqua",2016,132,6.9,122853,93.38
+2037,"Sausage Party","Animation,Adventure,Comedy","Greg Tiernan",2016,89,6.3,120690,97.66
+2038,Moonlight,Drama,"Barry Jenkins",2016,111,7.5,135095,27.85
+2039,"The Founder","Biography,Drama,History","John Lee Hancock",2016,115,7.2,37033,12.79
+2040,Lowriders,Drama,"Ricardo de Montreuil",2016,99,6.3,279,4.21
+2041,"Pirates of the Caribbean: On Stranger Tides","Action,Adventure,Fantasy","Rob Marshall",2011,136,6.7,395025,241.06
+2042,"Miss Sloane","Drama,Thriller","John Madden",2016,132,7.3,17818,3.44
+2043,"Star Trek Beyond","Action,Adventure,Sci-Fi","Justin Lin",2016,122,7.1,164567,158.8
+2044,"Star Wars: Episode VII - The Force Awakens","Action,Adventure,Fantasy","J.J. Abrams",2015,136,8.1,661608,936.63
+2045,"Underworld: Blood Wars","Action,Adventure,Fantasy","Anna Foerster",2016,91,5.8,41362,30.35
+2046,"Mother's Day","Comedy,Drama","Garry Marshall",2016,118,5.6,20221,32.46
+2047,"John Wick","Action,Crime,Thriller","Chad Stahelski",2014,101,7.2,321933,43
+2048,"The Dark Knight","Action,Crime,Drama","Christopher Nolan",2008,152,9,1791916,533.32
+2049,Silence,"Adventure,Drama,History","Martin Scorsese",2016,161,7.3,49190,7.08
+2050,"Don't Breathe","Crime,Horror,Thriller","Fede Alvarez",2016,88,7.2,121103,89.21
+2051,"Me Before You","Drama,Romance","Thea Sharrock",2016,106,7.4,113322,56.23
+2052,"Their Finest","Comedy,Drama,Romance","Lone Scherfig",2016,117,7,3739,3.18
+2053,Sully,"Biography,Drama","Clint Eastwood",2016,96,7.5,137608,125.07
+2054,"Batman v Superman: Dawn of Justice","Action,Adventure,Sci-Fi","Zack Snyder",2016,151,6.7,472307,330.25
+2055,"The Girl on the Train","Crime,Drama,Mystery","Tate Taylor",2016,112,6.5,102177,75.31
+2056,"Fifty Shades of Grey","Drama,Romance,Thriller","Sam Taylor-Johnson",2015,125,4.1,244474,166.15
+2057,"The Prestige","Drama,Mystery,Sci-Fi","Christopher Nolan",2006,130,8.5,913152,53.08
+2058,"Kingsman: The Secret Service","Action,Adventure,Comedy","Matthew Vaughn",2014,129,7.7,440209,128.25
+2059,"Patriots Day","Drama,History,Thriller","Peter Berg",2016,133,7.4,39784,31.86
+2060,"Mad Max: Fury Road","Action,Adventure,Sci-Fi","George Miller",2015,120,8.1,632842,153.63
+2061,Wakefield,Drama,"Robin Swicord",2016,106,7.5,291,0.01
+2062,"Deepwater Horizon","Action,Drama,Thriller","Peter Berg",2016,107,7.2,89849,61.28
+2063,Allied,"Action,Drama,Romance","Robert Zemeckis",2016,124,7.1,78079,40.07
+2064,"A Monster Calls","Drama,Fantasy","J.A. Bayona",2016,108,7.5,39134,3.73
+2065,"Collateral Beauty","Drama,Romance","David Frankel",2016,97,6.8,43977,30.98
+2066,Zootopia,"Animation,Adventure,Comedy","Byron Howard",2016,108,8.1,296853,341.26
+2067,"Pirates of the Caribbean: At World's End","Action,Adventure,Fantasy","Gore Verbinski",2007,169,7.1,498821,309.4
+2068,"The Avengers","Action,Sci-Fi","Joss Whedon",2012,143,8.1,1045588,623.28
+2069,"Inglourious Basterds","Adventure,Drama,War","Quentin Tarantino",2009,153,8.3,959065,120.52
+2070,"Pirates of the Caribbean: Dead Man's Chest","Action,Adventure,Fantasy","Gore Verbinski",2006,151,7.3,552027,423.03
+2071,Ghostbusters,"Action,Comedy,Fantasy","Paul Feig",2016,116,5.3,147717,128.34
+2072,Inception,"Action,Adventure,Sci-Fi","Christopher Nolan",2010,148,8.8,1583625,292.57
+2073,"Captain Fantastic","Comedy,Drama","Matt Ross",2016,118,7.9,105081,5.88
+2074,"The Wolf of Wall Street","Biography,Comedy,Crime","Martin Scorsese",2013,180,8.2,865134,116.87
+2075,"Gone Girl","Crime,Drama,Mystery","David Fincher",2014,149,8.1,636243,167.74
+2076,"Furious Seven","Action,Crime,Thriller","James Wan",2015,137,7.2,301249,350.03
+2077,"Jurassic World","Action,Adventure,Sci-Fi","Colin Trevorrow",2015,124,7,455169,652.18
+2078,"Live by Night","Crime,Drama","Ben Affleck",2016,129,6.4,27869,10.38
+2079,Avatar,"Action,Adventure,Fantasy","James Cameron",2009,162,7.8,935408,760.51
+2080,"The Hateful Eight","Crime,Drama,Mystery","Quentin Tarantino",2015,187,7.8,341170,54.12
+2081,"The Accountant","Action,Crime,Drama","Gavin O'Connor",2016,128,7.4,162122,86.2
+2082,Prisoners,"Crime,Drama,Mystery","Denis Villeneuve",2013,153,8.1,431185,60.96
+2083,Warcraft,"Action,Adventure,Fantasy","Duncan Jones",2016,123,7,187547,47.17
+2084,"The Help",Drama,"Tate Taylor",2011,146,8.1,342429,169.71
+2085,"War Dogs","Comedy,Crime,Drama","Todd Phillips",2016,114,7.1,106463,43.02
+2086,"Avengers: Age of Ultron","Action,Adventure,Sci-Fi","Joss Whedon",2015,141,7.4,516895,458.99
+2087,"The Nice Guys","Action,Comedy,Crime","Shane Black",2016,116,7.4,175067,36.25
+2088,"Kimi no na wa","Animation,Drama,Fantasy","Makoto Shinkai",2016,106,8.6,34110,4.68
+2089,"The Void","Horror,Mystery,Sci-Fi","Jeremy Gillespie",2016,90,5.8,9247,0.15
+2090,"Personal Shopper","Drama,Mystery,Thriller","Olivier Assayas",2016,105,6.3,10181,1.29
+2091,"The Departed","Crime,Drama,Thriller","Martin Scorsese",2006,151,8.5,937414,132.37
+2092,Legend,"Biography,Crime,Drama","Brian Helgeland",2015,132,7,108836,1.87
+2093,Thor,"Action,Adventure,Fantasy","Kenneth Branagh",2011,115,7,570814,181.02
+2094,"The Martian","Adventure,Drama,Sci-Fi","Ridley Scott",2015,144,8,556097,228.43
+2095,"The Man from U.N.C.L.E.","Action,Adventure,Comedy","Guy Ritchie",2015,116,7.3,202973,45.43
+2096,"Hell or High Water","Crime,Drama,Thriller","David Mackenzie",2016,102,7.7,115546,26.86
+2097,"The Comedian",Comedy,"Taylor Hackford",2016,120,5.4,1954,1.66
+2098,"The Legend of Tarzan","Action,Adventure,Drama","David Yates",2016,110,6.3,117590,126.59
+2099,"Ex Machina","Drama,Mystery,Sci-Fi","Alex Garland",2014,108,7.7,339797,25.44
+2100,"The Belko Experiment","Action,Horror,Thriller","Greg McLean",2016,89,6.3,3712,10.16
+2101,"12 Years a Slave","Biography,Drama,History","Steve McQueen",2013,134,8.1,486338,56.67
+2102,300,"Action,Fantasy,War","Zack Snyder",2006,117,7.7,637104,210.59
+2103,"Harry Potter and the Deathly Hallows: Part 2","Adventure,Drama,Fantasy","David Yates",2011,130,8.1,590595,380.96
+2104,"Office Christmas Party",Comedy,"Josh Gordon",2016,105,5.8,30761,54.73
+2105,"The Neon Demon","Horror,Thriller","Nicolas Winding Refn",2016,118,6.2,50359,1.33
+2106,Dangal,"Action,Biography,Drama","Nitesh Tiwari",2016,161,8.8,48969,11.15
+2107,"10 Cloverfield Lane","Drama,Horror,Mystery","Dan Trachtenberg",2016,104,7.2,192968,71.9
+2108,"Finding Dory","Animation,Adventure,Comedy","Andrew Stanton",2016,97,7.4,157026,486.29
+2109,"Miss Peregrine's Home for Peculiar Children","Adventure,Drama,Family","Tim Burton",2016,127,6.7,101058,87.24
+2110,Divergent,"Adventure,Mystery,Sci-Fi","Neil Burger",2014,139,6.7,362093,150.83
+2111,"Mike and Dave Need Wedding Dates","Adventure,Comedy,Romance","Jake Szymanski",2016,98,6,53183,46.01
+2112,"The Dark Knight Rises","Action,Thriller","Christopher Nolan",2012,164,8.5,1222645,448.13
+2113,"The Jungle Book","Adventure,Drama,Family","Jon Favreau",2016,106,7.5,198243,364
+2114,"Transformers: Age of Extinction","Action,Adventure,Sci-Fi","Michael Bay",2014,165,5.7,255483,245.43
+2115,Nerve,"Adventure,Crime,Mystery","Henry Joost",2016,96,6.6,69651,38.56
+2116,"Mamma Mia!","Comedy,Family,Musical","Phyllida Lloyd",2008,108,6.4,153481,143.7
+2117,"The Revenant","Adventure,Drama,Thriller","Alejandro González Iñárritu",2015,156,8,499424,183.64
+2118,Fences,Drama,"Denzel Washington",2016,139,7.3,50953,57.64
+2119,"Into the Woods","Adventure,Comedy,Drama","Rob Marshall",2014,125,6,109756,128
+2120,"The Shallows","Drama,Horror,Thriller","Jaume Collet-Serra",2016,86,6.4,78328,55.12
+2121,Whiplash,"Drama,Music","Damien Chazelle",2014,107,8.5,477276,13.09
+2122,"Furious 6","Action,Crime,Thriller","Justin Lin",2013,130,7.1,318051,238.67
+2123,"The Place Beyond the Pines","Crime,Drama,Thriller","Derek Cianfrance",2012,140,7.3,200090,21.38
+2124,"No Country for Old Men","Crime,Drama,Thriller","Ethan Coen",2007,122,8.1,660286,74.27
+2125,"The Great Gatsby","Drama,Romance","Baz Luhrmann",2013,143,7.3,386102,144.81
+2126,"Shutter Island","Mystery,Thriller","Martin Scorsese",2010,138,8.1,855604,127.97
+2127,"Star Trek","Action,Adventure,Sci-Fi","J.J. Abrams",2009,127,8,526324,257.7
+2128,"Diary of a Wimpy Kid","Comedy,Family","Thor Freudenthal",2010,94,6.2,34184,64
+2129,"The Big Short","Biography,Comedy,Drama","Adam McKay",2015,130,7.8,246360,70.24
+2130,Room,Drama,"Lenny Abrahamson",2015,118,8.2,224132,14.68
+2131,"Django Unchained","Drama,Western","Quentin Tarantino",2012,165,8.4,1039115,162.8
+2132,Ah-ga-ssi,"Drama,Mystery,Romance","Chan-wook Park",2016,144,8.1,33418,2.01
+2133,"The Edge of Seventeen","Comedy,Drama","Kelly Fremon Craig",2016,104,7.4,47694,14.26
+2134,Watchmen,"Action,Drama,Mystery","Zack Snyder",2009,162,7.6,410249,107.5
+2135,Superbad,Comedy,"Greg Mottola",2007,113,7.6,442082,121.46
+2136,Inferno,"Action,Adventure,Crime","Ron Howard",2016,121,6.2,97623,34.26
+2137,"The BFG","Adventure,Family,Fantasy","Steven Spielberg",2016,117,6.4,50853,55.47
+2138,"The Hunger Games","Adventure,Sci-Fi,Thriller","Gary Ross",2012,142,7.2,735604,408
+2139,"White Girl",Drama,"Elizabeth Wood",2016,88,5.8,4299,0.2
+2140,Sicario,"Action,Crime,Drama","Denis Villeneuve",2015,121,7.6,243230,46.88
+2141,"Aliens vs Predator - Requiem","Action,Horror,Sci-Fi","Colin Strause",2007,94,4.7,97618,41.8
+2142,"Pacific Rim","Action,Adventure,Sci-Fi","Guillermo del Toro",2013,131,7,400519,101.79
+2143,"Crazy, Stupid, Love.","Comedy,Drama,Romance","Glenn Ficarra",2011,118,7.4,396714,84.24
+2144,"Scott Pilgrim vs. the World","Action,Comedy,Fantasy","Edgar Wright",2010,112,7.5,291457,31.49
+2145,"Hot Fuzz","Action,Comedy,Mystery","Edgar Wright",2007,121,7.9,373244,23.62
+2146,"Free Fire","Action,Comedy,Crime","Ben Wheatley",2016,90,7,6946,1.8
+2147,"X-Men: Days of Future Past","Action,Adventure,Sci-Fi","Bryan Singer",2014,132,8,552298,233.91
+2148,"Jack Reacher: Never Go Back","Action,Adventure,Crime","Edward Zwick",2016,118,6.1,78043,58.4
+2149,"Casino Royale","Action,Adventure,Thriller","Martin Campbell",2006,144,8,495106,167.01
+2150,Twilight,"Drama,Fantasy,Romance","Catherine Hardwicke",2008,122,5.2,361449,191.45
+2151,"Now You See Me 2","Action,Adventure,Comedy","Jon M. Chu",2016,129,6.5,156567,65.03
+2152,"Woman in Gold","Biography,Drama,History","Simon Curtis",2015,109,7.3,39723,33.31
+2153,"13 Hours","Action,Drama,History","Michael Bay",2016,144,7.3,76935,52.82
+2154,Spectre,"Action,Adventure,Thriller","Sam Mendes",2015,148,6.8,308981,200.07
+2155,Nightcrawler,"Crime,Drama,Thriller","Dan Gilroy",2014,118,7.9,332476,32.28
+2156,"Kubo and the Two Strings","Animation,Adventure,Family","Travis Knight",2016,101,7.9,72778,48.02
+2157,Her,"Drama,Romance,Sci-Fi","Spike Jonze",2013,126,8,390531,25.56
+2158,Frozen,"Animation,Adventure,Comedy","Chris Buck",2013,102,7.5,451894,400.74
+2159,Tomorrowland,"Action,Adventure,Family","Brad Bird",2015,130,6.5,143069,93.42
+2160,"Dawn of the Planet of the Apes","Action,Adventure,Drama","Matt Reeves",2014,130,7.6,337777,208.54
+2161,"Tropic Thunder","Action,Comedy","Ben Stiller",2008,107,7,321442,110.42
+2162,"The Conjuring 2","Horror,Mystery,Thriller","James Wan",2016,134,7.4,137203,102.46
+2163,Ant-Man,"Action,Adventure,Comedy","Peyton Reed",2015,117,7.3,368912,180.19
+2164,"Bridget Jones's Baby","Comedy,Romance","Sharon Maguire",2016,118,6.7,43086,24.09
+2165,"The VVitch: A New-England Folktale","Horror,Mystery","Robert Eggers",2015,92,6.8,101781,25.14
+2166,Cinderella,"Drama,Family,Fantasy","Kenneth Branagh",2015,105,7,117018,201.15
+2167,Forushande,"Drama,Thriller","Asghar Farhadi",2016,124,8,22389,3.4
+2168,"Billy Lynn's Long Halftime Walk","Drama,War","Ang Lee",2016,113,6.3,11944,1.72
+2169,"Crimson Peak","Drama,Fantasy,Horror","Guillermo del Toro",2015,119,6.6,97454,31.06
+2170,Drive,"Crime,Drama","Nicolas Winding Refn",2011,100,7.8,461509,35.05
+2171,Trainwreck,"Comedy,Drama,Romance","Judd Apatow",2015,125,6.3,106364,110.01
+2172,"The Light Between Oceans","Drama,Romance","Derek Cianfrance",2016,133,7.2,27382,12.53
+2173,Spotlight,"Crime,Drama,History","Tom McCarthy",2015,128,8.1,268282,44.99
+2174,Morgan,"Horror,Sci-Fi,Thriller","Luke Scott",2016,92,5.8,22107,3.91
+2175,Warrior,"Action,Drama,Sport","Gavin O'Connor",2011,140,8.2,355722,13.65
+2176,"Captain America: The First Avenger","Action,Adventure,Sci-Fi","Joe Johnston",2011,124,6.9,547368,176.64
+2177,"Into the Wild","Adventure,Biography,Drama","Sean Penn",2007,148,8.1,459304,18.35
+2178,"The Imitation Game","Biography,Drama,Thriller","Morten Tyldum",2014,114,8.1,532353,91.12
+2179,"Central Intelligence","Action,Comedy,Crime","Rawson Marshall Thurber",2016,107,6.3,97082,127.38
+2180,"Edge of Tomorrow","Action,Adventure,Sci-Fi","Doug Liman",2014,113,7.9,471815,100.19
+2181,"A Cure for Wellness","Drama,Fantasy,Horror","Gore Verbinski",2016,146,6.5,12193,8.1
+2182,Snowden,"Biography,Drama,Thriller","Oliver Stone",2016,134,7.3,79855,21.48
+2183,"Iron Man","Action,Adventure,Sci-Fi","Jon Favreau",2008,126,7.9,737719,318.3
+2184,Allegiant,"Action,Adventure,Mystery","Robert Schwentke",2016,120,5.7,70504,66
+2185,"X: First Class","Action,Adventure,Sci-Fi","Matthew Vaughn",2011,132,7.8,550011,146.41
+2186,"Raw (II)","Drama,Horror","Julia Ducournau",2016,99,7.5,5435,0.51
+2187,Paterson,"Comedy,Drama,Romance","Jim Jarmusch",2016,118,7.5,26089,2.14
+2188,Bridesmaids,"Comedy,Romance","Paul Feig",2011,125,6.8,227912,169.08
+2189,"San Andreas","Action,Adventure,Drama","Brad Peyton",2015,114,6.1,161396,155.18
+2190,"Spring Breakers",Drama,"Harmony Korine",2012,94,5.3,114290,14.12
+2191,Transformers,"Action,Adventure,Sci-Fi","Michael Bay",2007,144,7.1,531112,318.76
+2192,"Thor: The Dark World","Action,Adventure,Fantasy","Alan Taylor",2013,112,7,443584,206.36
+2193,"Gods of Egypt","Action,Adventure,Fantasy","Alex Proyas",2016,126,5.5,73568,31.14
+2194,"Captain America: The Winter Soldier","Action,Adventure,Sci-Fi","Anthony Russo",2014,136,7.8,542362,259.75
+2195,"Monster Trucks","Action,Adventure,Comedy","Chris Wedge",2016,104,5.7,7044,33.04
+2196,Kick-Ass,"Action,Comedy","Matthew Vaughn",2010,117,7.7,456749,48.04
+2197,"Hardcore Henry","Action,Adventure,Sci-Fi","Ilya Naishuller",2015,96,6.7,61098,9.24
+2198,Cars,"Animation,Adventure,Comedy","John Lasseter",2006,117,7.1,283445,244.05
+2199,"It Follows","Horror,Mystery","David Robert Mitchell",2014,100,6.9,136399,14.67
+2200,"The Girl with the Dragon Tattoo","Crime,Drama,Mystery","David Fincher",2011,158,7.8,348551,102.52
+2201,"We're the Millers","Comedy,Crime","Rawson Marshall Thurber",2013,110,7,334867,150.37
+2202,"American Honey",Drama,"Andrea Arnold",2016,163,7,19660,0.66
+2203,"The Lobster","Comedy,Drama,Romance","Yorgos Lanthimos",2015,119,7.1,121313,8.7
+2204,Predators,"Action,Adventure,Sci-Fi","Nimród Antal",2010,107,6.4,179450,52
+2205,Maleficent,"Action,Adventure,Family","Robert Stromberg",2014,97,7,268877,241.41
+2206,"Pan's Labyrinth","Drama,Fantasy,War","Guillermo del Toro",2006,118,8.2,498879,37.62
+2207,"A Kind of Murder","Crime,Drama,Thriller","Andy Goddard",2016,95,5.2,3305,0
+2208,Apocalypto,"Action,Adventure,Drama","Mel Gibson",2006,139,7.8,247926,50.86
+2209,"Mission: Impossible - Rogue Nation","Action,Adventure,Thriller","Christopher McQuarrie",2015,131,7.4,257472,195
+2210,"The Huntsman: Winter's War","Action,Adventure,Drama","Cedric Nicolas-Troyan",2016,114,6.1,66766,47.95
+2211,"The Perks of Being a Wallflower","Drama,Romance","Stephen Chbosky",2012,102,8,377336,17.74
+2212,Jackie,"Biography,Drama,History","Pablo Larraín",2016,100,6.8,41446,13.96
+2213,"The Disappointments Room","Drama,Horror,Thriller","D.J. Caruso",2016,85,3.9,4895,2.41
+2214,"The Grand Budapest Hotel","Adventure,Comedy,Drama","Wes Anderson",2014,99,8.1,530881,59.07
+2215,"The Host","Action,Adventure,Romance","Andrew Niccol",2013,125,5.9,96852,26.62
+2216,Fury,"Action,Drama,War","David Ayer",2014,134,7.6,332234,85.71
+2217,"Inside Out","Animation,Adventure,Comedy","Pete Docter",2015,95,8.2,416689,356.45
+2218,"Rock Dog","Animation,Adventure,Comedy","Ash Brannon",2016,90,5.8,1109,9.4
+2219,"Terminator Genisys","Action,Adventure,Sci-Fi","Alan Taylor",2015,126,6.5,205365,89.73
+2220,"Percy Jackson & the Olympians: The Lightning Thief","Adventure,Family,Fantasy","Chris Columbus",2010,118,5.9,148949,88.76
+2221,"Les Misérables","Drama,Musical,Romance","Tom Hooper",2012,158,7.6,257426,148.78
+2222,"Children of Men","Drama,Sci-Fi,Thriller","Alfonso Cuarón",2006,109,7.9,382910,35.29
+2223,"20th Century Women","Comedy,Drama","Mike Mills",2016,119,7.4,14708,5.66
+2224,Spy,"Action,Comedy,Crime","Paul Feig",2015,119,7.1,188017,110.82
+2225,"The Intouchables","Biography,Comedy,Drama","Olivier Nakache",2011,112,8.6,557965,13.18
+2226,"Bonjour Anne","Comedy,Drama,Romance","Eleanor Coppola",2016,92,4.9,178,0.32
+2227,Kynodontas,"Drama,Thriller","Yorgos Lanthimos",2009,94,7.3,50946,0.11
+2228,"Straight Outta Compton","Biography,Drama,History","F. Gary Gray",2015,147,7.9,139831,161.03
+2229,"The Amazing Spider-Man 2","Action,Adventure,Sci-Fi","Marc Webb",2014,142,6.7,342183,202.85
+2230,"The Conjuring","Horror,Mystery,Thriller","James Wan",2013,112,7.5,330305,137.39
+2231,"The Hangover",Comedy,"Todd Phillips",2009,100,7.8,611563,277.31
+2232,Battleship,"Action,Adventure,Sci-Fi","Peter Berg",2012,131,5.8,210349,65.17
+2233,"Rise of the Planet of the Apes","Action,Drama,Sci-Fi","Rupert Wyatt",2011,105,7.6,422290,176.74
+2234,"Lights Out",Horror,"David F. Sandberg",2016,81,6.4,69823,67.24
+2235,"Norman: The Moderate Rise and Tragic Fall of a New York Fixer","Drama,Thriller","Joseph Cedar",2016,118,7.1,664,2.27
+2236,"Birdman or (The Unexpected Virtue of Ignorance)","Comedy,Drama,Romance","Alejandro González Iñárritu",2014,119,7.8,440299,42.34
+2237,"Black Swan","Drama,Thriller","Darren Aronofsky",2010,108,8,581518,106.95
+2238,"Dear White People","Comedy,Drama","Justin Simien",2014,108,6.2,21715,4.4
+2239,"Nymphomaniac: Vol. I",Drama,"Lars von Trier",2013,117,7,90556,0.79
+2240,"Teenage Mutant Ninja Turtles: Out of the Shadows","Action,Adventure,Comedy","Dave Green",2016,112,6,59312,0.54
+2241,"Knock Knock","Drama,Horror,Thriller","Eli Roth",2015,99,4.9,53441,0.03
+2242,"Dirty Grandpa",Comedy,"Dan Mazer",2016,102,6,75137,35.54
+2243,"Cloud Atlas","Drama,Sci-Fi","Tom Tykwer",2012,172,7.5,298651,27.1
+2244,"X-Men Origins: Wolverine","Action,Adventure,Sci-Fi","Gavin Hood",2009,107,6.7,388447,179.88
+2245,Skyfall,"Action,Adventure,Thriller","Sam Mendes",2012,143,7.8,547386,304.36
+2246,"The Hobbit: An Unexpected Journey","Adventure,Fantasy","Peter Jackson",2012,169,7.9,668651,303
+2247,"21 Jump Street","Action,Comedy,Crime","Phil Lord",2012,110,7.2,432046,138.45
+2248,"Sing Street","Comedy,Drama,Music","John Carney",2016,106,8,52144,3.23
+2249,Oblivion,"Action,Adventure,Mystery","Joseph Kosinski",2013,124,7,410125,89.02
+2250,"22 Jump Street","Action,Comedy,Crime","Phil Lord",2014,112,7.1,280110,191.62
+2251,Zodiac,"Crime,Drama,History","David Fincher",2007,157,7.7,329683,33.05
+2252,"Everybody Wants Some!!",Comedy,"Richard Linklater",2016,117,7,36312,3.37
+2253,"Iron Man Three","Action,Adventure,Sci-Fi","Shane Black",2013,130,7.2,591023,408.99
+2254,"Now You See Me","Crime,Mystery,Thriller","Louis Leterrier",2013,115,7.3,492324,117.7
+2255,"Sherlock Holmes","Action,Adventure,Crime","Guy Ritchie",2009,128,7.6,501769,209.02
+2256,"The Danish Girl","Biography,Drama,Romance","Tom Hooper",2015,119,7,110773,12.71
+2257,Hercules,"Action,Adventure","Brett Ratner",2014,98,6,122838,72.66
+2258,"Sucker Punch","Action,Fantasy","Zack Snyder",2011,110,6.1,204874,36.38
+2259,"Keeping Up with the Joneses","Action,Comedy","Greg Mottola",2016,105,5.8,30405,14.9
+2260,"Jupiter Ascending","Action,Adventure,Sci-Fi","Lana Wachowski",2015,127,5.3,150121,47.38
+2261,Masterminds,"Action,Comedy,Crime","Jared Hess",2016,95,5.8,26508,17.36
+2262,Busanhaeng,"Action,Drama,Horror","Sang-ho Yeon",2016,118,7.5,58782,2.13
+2263,"Pitch Perfect","Comedy,Music,Romance","Jason Moore",2012,112,7.2,226631,65
+2264,"Neighbors 2: Sorority Rising",Comedy,"Nicholas Stoller",2016,92,5.7,76327,55.29
+2265,"Man of Steel","Action,Adventure,Fantasy","Zack Snyder",2013,143,7.1,577010,291.02
+2266,"The Choice","Drama,Romance","Ross Katz",2016,111,6.6,20514,18.71
+2267,"Ice Age: Collision Course","Animation,Adventure,Comedy","Mike Thurmeier",2016,94,5.7,34523,64.06
+2268,"The Devil Wears Prada","Comedy,Drama","David Frankel",2006,109,6.8,302268,124.73
+2269,"The Infiltrator","Biography,Crime,Drama","Brad Furman",2016,127,7.1,43929,15.43
+2270,"There Will Be Blood","Drama,History","Paul Thomas Anderson",2007,158,8.1,400682,40.22
+2271,"The Equalizer","Action,Crime,Thriller","Antoine Fuqua",2014,132,7.2,249425,101.53
+2272,"Lone Survivor","Action,Biography,Drama","Peter Berg",2013,121,7.5,218996,125.07
+2273,"The Cabin in the Woods",Horror,"Drew Goddard",2012,95,7,295554,42.04
+2274,"The House Bunny","Comedy,Romance","Fred Wolf",2008,97,5.5,67033,48.24
+2275,"She's Out of My League","Comedy,Romance","Jim Field Smith",2010,104,6.4,105619,31.58
+2276,"Inherent Vice","Comedy,Crime,Drama","Paul Thomas Anderson",2014,148,6.7,69509,8.09
+2277,"Alice Through the Looking Glass","Adventure,Family,Fantasy","James Bobin",2016,113,6.2,57207,77.04
+2278,"The Fast and the Furious: Tokyo Drift","Action,Crime,Thriller","Justin Lin",2006,104,6,193479,62.49
+2279,"How to Be Single","Comedy,Romance","Christian Ditter",2016,110,6.1,59886,46.81
+2280,"The Blind Side","Biography,Drama,Sport","John Lee Hancock",2009,129,7.7,237221,255.95
+2281,"La vie d'Adèle","Drama,Romance","Abdellatif Kechiche",2013,180,7.8,103150,2.2
+2282,"The Babadook","Drama,Horror","Jennifer Kent",2014,93,6.8,132580,0.92
+2283,"The Hobbit: The Battle of the Five Armies","Adventure,Fantasy","Peter Jackson",2014,144,7.4,385598,255.11
+2284,"Harry Potter and the Order of the Phoenix","Adventure,Family,Fantasy","David Yates",2007,138,7.5,385325,292
+2285,Snowpiercer,"Action,Drama,Sci-Fi","Bong Joon Ho",2013,126,7,199048,4.56
+2286,"The 5th Wave","Action,Adventure,Sci-Fi","J Blakeson",2016,112,5.2,73093,34.91
+2287,"The Visit","Comedy,Horror,Thriller","M. Night Shyamalan",2015,94,6.2,81429,65.07
+2288,"Fast Five","Action,Crime,Thriller","Justin Lin",2011,131,7.3,300803,209.81
+2289,"Step Up","Crime,Drama,Music","Anne Fletcher",2006,104,6.5,95960,65.27
+2290,Lovesong,Drama,"So Yong Kim",2016,84,6.4,616,0.01
+2291,RocknRolla,"Action,Crime,Thriller","Guy Ritchie",2008,114,7.3,203096,5.69
+2292,"In Time","Action,Sci-Fi,Thriller","Andrew Niccol",2011,109,6.7,319025,37.55
+2293,"The Social Network","Biography,Drama","David Fincher",2010,120,7.7,510100,96.92
+2294,"The Last Witch Hunter","Action,Adventure,Fantasy","Breck Eisner",2015,106,6,71149,27.36
+2295,"Victor Frankenstein","Drama,Horror,Sci-Fi","Paul McGuigan",2015,110,6,37975,5.77
+2296,"A Street Cat Named Bob","Biography,Comedy,Drama","Roger Spottiswoode",2016,103,7.4,12643,0.04
+2297,"Green Room","Crime,Horror,Thriller","Jeremy Saulnier",2015,95,7,62885,3.22
+2298,Blackhat,"Crime,Drama,Mystery","Michael Mann",2015,133,5.4,43085,7.1
+2299,Storks,"Animation,Adventure,Comedy","Nicholas Stoller",2016,87,6.9,34248,72.66
+2300,"American Sniper","Action,Biography,Drama","Clint Eastwood",2014,133,7.3,353305,350.12
+2301,"Dallas Buyers Club","Biography,Drama","Jean-Marc Vallée",2013,117,8,352801,27.3
+2302,Lincoln,"Biography,Drama,History","Steven Spielberg",2012,150,7.4,207497,182.2
+2303,Rush,"Action,Biography,Drama","Ron Howard",2013,123,8.1,339722,26.9
+2304,"Silver Linings Playbook","Comedy,Drama,Romance","David O. Russell",2012,122,7.8,564364,132.09
+2305,"The Fault in Our Stars","Drama,Romance","Josh Boone",2014,126,7.8,271301,124.87
+2306,Blended,"Comedy,Romance","Frank Coraci",2014,117,6.5,93764,46.28
+2307,"Fast & Furious","Action,Crime,Thriller","Justin Lin",2009,107,6.6,217464,155.02
+2308,Looper,"Action,Crime,Drama","Rian Johnson",2012,119,7.4,452369,66.47
+2309,"White House Down","Action,Drama,Thriller","Roland Emmerich",2013,131,6.4,173320,73.1
+2310,"Pete's Dragon","Adventure,Family,Fantasy","David Lowery",2016,102,6.8,36322,76.2
+2311,"Spider-Man 3","Action,Adventure","Sam Raimi",2007,139,6.2,406219,336.53
+2312,"The Three Musketeers","Action,Adventure,Romance","Paul W.S. Anderson",2011,110,5.8,92329,20.32
+2313,Stardust,"Adventure,Family,Fantasy","Matthew Vaughn",2007,127,7.7,220664,38.35
+2314,"American Hustle","Crime,Drama","David O. Russell",2013,138,7.3,379088,150.12
+2315,"Jennifer's Body","Comedy,Horror","Karyn Kusama",2009,102,5.1,96617,16.2
+2316,"Midnight in Paris","Comedy,Fantasy,Romance","Woody Allen",2011,94,7.7,320323,56.82
+2317,Joy,Drama,"David O. Russell",2015,124,6.6,97679,56.44
+2318,"The Dressmaker","Comedy,Drama","Jocelyn Moorhouse",2015,119,7.1,33352,2.02
+2319,"Café Society","Comedy,Drama,Romance","Woody Allen",2016,96,6.7,45579,11.08
+2320,Insurgent,"Adventure,Sci-Fi,Thriller","Robert Schwentke",2015,119,6.3,171970,130
+2321,"Seventh Son","Action,Adventure,Fantasy","Sergei Bodrov",2014,102,5.5,59958,17.18
+2322,"The Theory of Everything","Biography,Drama,Romance","James Marsh",2014,123,7.7,299718,35.89
+2323,"This Is the End","Comedy,Fantasy","Evan Goldberg",2013,107,6.6,327838,101.47
+2324,"About Time","Comedy,Drama,Fantasy","Richard Curtis",2013,123,7.8,221600,15.29
+2325,"Step Brothers",Comedy,"Adam McKay",2008,98,6.9,223065,100.47
+2326,Clown,"Horror,Thriller","Jon Watts",2014,100,5.7,14248,0.05
+2327,"Star Trek Into Darkness","Action,Adventure,Sci-Fi","J.J. Abrams",2013,132,7.8,417663,228.76
+2328,Zombieland,"Adventure,Comedy,Horror","Ruben Fleischer",2009,88,7.7,409403,75.59
+2329,"Hail, Caesar!","Comedy,Mystery","Ethan Coen",2016,106,6.3,89059,30
+2330,"Slumdog Millionaire",Drama,"Danny Boyle",2008,120,8,677044,141.32
+2331,"The Twilight Saga: Breaking Dawn - Part 2","Adventure,Drama,Fantasy","Bill Condon",2012,115,5.5,194329,292.3
+2332,"The Amazing Spider-Man","Action,Adventure","Marc Webb",2012,136,7,474320,262.03
+2333,Ben-Hur,"Action,Adventure,Drama","Timur Bekmambetov",2016,123,5.7,28326,26.38
+2334,Sleight,"Action,Drama,Sci-Fi","J.D. Dillard",2016,89,6,702,3.85
+2335,"The Maze Runner","Action,Mystery,Sci-Fi","Wes Ball",2014,113,6.8,335531,102.41
+2336,Criminal,"Action,Crime,Drama","Ariel Vromen",2016,113,6.3,38430,14.27
+2337,Wanted,"Action,Crime,Fantasy","Timur Bekmambetov",2008,110,6.7,312495,134.57
+2338,"Florence Foster Jenkins","Biography,Comedy,Drama","Stephen Frears",2016,111,6.9,31776,27.37
+2339,Collide,"Action,Crime,Thriller","Eran Creevy",2016,99,5.7,7583,2.2
+2340,"Black Mass","Biography,Crime,Drama","Scott Cooper",2015,123,6.9,135706,62.56
+2341,Creed,"Drama,Sport","Ryan Coogler",2015,133,7.6,175673,109.71
+2342,"Swiss Army Man","Adventure,Comedy,Drama","Dan Kwan",2016,97,7.1,61812,4.21
+2343,"The Expendables 3","Action,Adventure,Thriller","Patrick Hughes",2014,126,6.1,137568,39.29
+2344,"What We Do in the Shadows","Comedy,Fantasy,Horror","Jemaine Clement",2014,86,7.6,84016,3.33
+2345,Southpaw,"Drama,Sport","Antoine Fuqua",2015,124,7.4,169083,52.42
+2346,"Bridge of Spies","Drama,History,Thriller","Steven Spielberg",2015,142,7.6,217938,72.31
+2347,"The Lego Movie","Animation,Action,Adventure","Phil Lord",2014,100,7.8,266508,257.76
+2348,Everest,"Action,Adventure,Drama","Baltasar Kormákur",2015,121,7.1,154647,43.25
+2349,Pixels,"Action,Comedy,Family","Chris Columbus",2015,105,5.6,101092,78.75
+2350,"Robin Hood","Action,Adventure,Drama","Ridley Scott",2010,140,6.7,221117,105.22
+2351,"The Wolverine","Action,Adventure,Sci-Fi","James Mangold",2013,126,6.7,355362,132.55
+2352,"John Carter","Action,Adventure,Sci-Fi","Andrew Stanton",2012,132,6.6,220667,73.06
+2353,Keanu,"Action,Comedy","Peter Atencio",2016,100,6.3,31913,20.57
+2354,"The Gunman","Action,Crime,Drama","Pierre Morel",2015,115,5.8,31194,10.64
+2355,"Steve Jobs","Biography,Drama","Danny Boyle",2015,122,7.2,116112,17.75
+2356,"Grown Ups 2",Comedy,"Dennis Dugan",2013,101,5.4,114482,133.67
+2357,"The Age of Adaline","Drama,Fantasy,Romance","Lee Toland Krieger",2015,112,7.2,112288,42.48
+2358,"The Incredible Hulk","Action,Adventure,Sci-Fi","Louis Leterrier",2008,112,6.8,342355,134.52
+2359,"Couples Retreat",Comedy,"Peter Billingsley",2009,113,5.5,86417,109.18
+2360,"Magic Mike","Comedy,Drama","Steven Soderbergh",2012,110,6.1,113686,113.71
+2361,Minions,"Animation,Action,Adventure","Kyle Balda",2015,91,6.4,159830,336.03
+2362,Bronson,"Action,Biography,Crime","Nicolas Winding Refn",2008,92,7.1,93972,0.1
+2363,"Despicable Me","Animation,Adventure,Comedy","Pierre Coffin",2010,95,7.7,410607,251.5
+2364,"The Best of Me","Drama,Romance","Michael Hoffman",2014,118,6.7,49041,26.76
+2365,"The Invitation","Drama,Mystery,Thriller","Karyn Kusama",2015,100,6.7,40529,0.23
+2366,"Zero Dark Thirty","Drama,History,Thriller","Kathryn Bigelow",2012,157,7.4,226661,95.72
+2367,Tangled,"Animation,Adventure,Comedy","Nathan Greno",2010,100,7.8,316459,200.81
+2368,"The Hunger Games: Mockingjay - Part 2","Action,Adventure,Sci-Fi","Francis Lawrence",2015,137,6.6,202380,281.67
+2369,Vacation,"Adventure,Comedy","John Francis Daley",2015,99,6.1,74589,58.88
+2370,Taken,"Action,Thriller","Pierre Morel",2008,93,7.8,502961,145
+2371,"Pitch Perfect 2","Comedy,Music","Elizabeth Banks",2015,115,6.5,108306,183.44
+2372,"Monsters University","Animation,Adventure,Comedy","Dan Scanlon",2013,104,7.3,252119,268.49
+2373,"Mechanic: Resurrection","Action,Adventure,Crime","Dennis Gansel",2016,98,5.6,48161,21.2
+2374,Tusk,"Comedy,Drama,Horror","Kevin Smith",2014,102,5.4,34546,1.82
+2375,Atonement,"Drama,Mystery,Romance","Joe Wright",2007,123,7.8,202890,50.92
+2376,"Harry Potter and the Deathly Hallows: Part 1","Adventure,Family,Fantasy","David Yates",2010,146,7.7,357213,294.98
+2377,Shame,Drama,"Steve McQueen",2011,101,7.2,155010,4
+2378,Hanna,"Action,Drama,Thriller","Joe Wright",2011,111,6.8,164208,40.25
+2379,"The Babysitters",Drama,"David Ross",2007,88,5.7,8914,0.04
+2380,"Pride and Prejudice and Zombies","Action,Horror,Romance","Burr Steers",2016,108,5.8,35003,10.91
+2381,"300: Rise of an Empire","Action,Drama,Fantasy","Noam Murro",2014,102,6.2,237887,106.37
+2382,"London Has Fallen","Action,Crime,Drama","Babak Najafi",2016,99,5.9,100702,62.4
+2383,"The Curious Case of Benjamin Button","Drama,Fantasy,Romance","David Fincher",2008,166,7.8,485075,127.49
+2384,"Sin City: A Dame to Kill For","Action,Crime,Thriller","Frank Miller",2014,102,6.5,122185,13.75
+2385,"The Bourne Ultimatum","Action,Mystery,Thriller","Paul Greengrass",2007,115,8.1,525700,227.14
+2386,"The Purge: Election Year","Action,Horror,Sci-Fi","James DeMonaco",2016,109,6,54216,79
+2387,"3 Idiots","Comedy,Drama","Rajkumar Hirani",2009,170,8.4,238789,6.52
+2388,"Zoolander 2",Comedy,"Ben Stiller",2016,102,4.7,48297,28.84
+2389,"World War Z","Action,Adventure,Horror","Marc Forster",2013,116,7,494819,202.35
+2390,"Mission: Impossible - Ghost Protocol","Action,Adventure,Thriller","Brad Bird",2011,132,7.4,382459,209.36
+2391,Filth,"Comedy,Crime,Drama","Jon S. Baird",2013,97,7.1,81301,0.03
+2392,"The Longest Ride","Drama,Romance","George Tillman Jr.",2015,123,7.1,58421,37.43
+2393,"The imposible","Drama,Thriller","J.A. Bayona",2012,114,7.6,156189,19
+2394,"Kick-Ass 2","Action,Comedy,Crime","Jeff Wadlow",2013,103,6.6,214825,28.75
+2395,"Oz the Great and Powerful","Adventure,Family,Fantasy","Sam Raimi",2013,130,6.3,181521,234.9
+2396,Brooklyn,"Drama,Romance","John Crowley",2015,117,7.5,94977,38.32
+2397,Coraline,"Animation,Family,Fantasy","Henry Selick",2009,100,7.7,156620,75.28
+2398,"Blue Valentine","Drama,Romance","Derek Cianfrance",2010,112,7.4,151409,9.7
+2399,"Silent Hill","Adventure,Horror,Mystery","Christophe Gans",2006,125,6.6,184152,46.98
+2400,Dredd,"Action,Sci-Fi","Pete Travis",2012,95,7.1,213764,13.4
+2401,"Hunt for the Wilderpeople","Adventure,Comedy,Drama","Taika Waititi",2016,101,7.9,52331,5.2
+2402,"Big Hero 6","Animation,Action,Adventure","Don Hall",2014,102,7.8,309186,222.49
+2403,Carrie,"Drama,Horror","Kimberly Peirce",2013,100,5.9,113272,35.27
+2404,"Iron Man 2","Action,Adventure,Sci-Fi","Jon Favreau",2010,124,7,556666,312.06
+2405,Demolition,"Comedy,Drama","Jean-Marc Vallée",2015,101,7,58720,1.82
+2406,Pandorum,"Action,Horror,Mystery","Christian Alvart",2009,108,6.8,126656,10.33
+2407,"Olympus Has Fallen","Action,Thriller","Antoine Fuqua",2013,119,6.5,214994,98.9
+2408,"I Am Number Four","Action,Adventure,Sci-Fi","D.J. Caruso",2011,109,6.1,202682,55.09
+2409,Jagten,Drama,"Thomas Vinterberg",2012,115,8.3,192263,0.61
+2410,"The Proposal","Comedy,Drama,Romance","Anne Fletcher",2009,108,6.7,241709,163.95
+2411,"Get Hard","Comedy,Crime","Etan Cohen",2015,100,6,95119,90.35
+2412,"Just Go with It","Comedy,Romance","Dennis Dugan",2011,117,6.4,182069,103.03
+2413,"Revolutionary Road","Drama,Romance","Sam Mendes",2008,119,7.3,159736,22.88
+2414,"The Town","Crime,Drama,Thriller","Ben Affleck",2010,125,7.6,294553,92.17
+2415,"The Boy","Horror,Mystery,Thriller","William Brent Bell",2016,97,6,51235,35.79
+2416,Denial,"Biography,Drama","Mick Jackson",2016,109,6.6,8229,4.07
+2417,Goosebumps,"Adventure,Comedy,Family","Rob Letterman",2015,103,6.3,57602,80.02
+2418,"Sherlock Holmes: A Game of Shadows","Action,Adventure,Crime","Guy Ritchie",2011,129,7.5,357436,186.83
+2419,Salt,"Action,Crime,Mystery","Phillip Noyce",2010,100,6.4,255813,118.31
+2420,Enemy,"Mystery,Thriller","Denis Villeneuve",2013,91,6.9,111558,1.01
+2421,"District 9","Action,Sci-Fi,Thriller","Neill Blomkamp",2009,112,8,556794,115.65
+2422,"The Other Guys","Action,Comedy,Crime","Adam McKay",2010,107,6.7,199900,119.22
+2423,"American Gangster","Biography,Crime,Drama","Ridley Scott",2007,157,7.8,337835,130.13
+2424,"Marie Antoinette","Biography,Drama,History","Sofia Coppola",2006,123,6.4,83941,15.96
+2425,2012,"Action,Adventure,Sci-Fi","Roland Emmerich",2009,158,5.8,297984,166.11
+2426,"Harry Potter and the Half-Blood Prince","Adventure,Family,Fantasy","David Yates",2009,153,7.5,351059,301.96
+2427,Argo,"Biography,Drama,History","Ben Affleck",2012,120,7.7,481274,136.02
+2428,"Eddie the Eagle","Biography,Comedy,Drama","Dexter Fletcher",2016,106,7.4,56332,15.79
+2429,"The Lives of Others","Drama,Thriller","Florian Henckel von Donnersmarck",2006,137,8.5,278103,11.28
+2430,"Forgetting Sarah Marshall","Comedy,Drama,Romance","Nicholas Stoller",2008,111,7.2,226619,62.88
+2431,"The Giver","Drama,Romance,Sci-Fi","Phillip Noyce",2014,97,6.5,93799,45.09
+2432,"Triple 9","Action,Crime,Drama","John Hillcoat",2016,115,6.3,48400,12.63
+2433,"Angry Birds","Animation,Action,Adventure","Clay Kaytis",2016,97,6.3,55781,107.51
+2434,"Moonrise Kingdom","Adventure,Comedy,Drama","Wes Anderson",2012,94,7.8,254446,45.51
+2435,Hairspray,"Comedy,Drama,Family","Adam Shankman",2007,117,6.7,102954,118.82
+2436,"Safe Haven","Drama,Romance,Thriller","Lasse Hallström",2013,115,6.7,84765,71.35
+2437,Focus,"Comedy,Crime,Drama","Glenn Ficarra",2015,105,6.6,166489,53.85
+2438,Ratatouille,"Animation,Comedy,Family","Brad Bird",2007,111,8,504039,206.44
+2439,"Stake Land","Drama,Horror,Sci-Fi","Jim Mickle",2010,98,6.5,36091,0.02
+2440,"The Book of Eli","Action,Adventure,Drama","Albert Hughes",2010,118,6.9,241359,94.82
+2441,Cloverfield,"Action,Horror,Sci-Fi","Matt Reeves",2008,85,7,313803,80.03
+2442,"Point Break","Action,Crime,Sport","Ericson Core",2015,114,5.3,44553,28.77
+2443,"Under the Skin","Drama,Horror,Sci-Fi","Jonathan Glazer",2013,108,6.3,94707,2.61
+2444,"I Am Legend","Drama,Horror,Sci-Fi","Francis Lawrence",2007,101,7.2,565721,256.39
+2445,"Men in Black 3","Action,Adventure,Comedy","Barry Sonnenfeld",2012,106,6.8,278379,179.02
+2446,"Super 8","Mystery,Sci-Fi,Thriller","J.J. Abrams",2011,112,7.1,298913,126.98
+2447,"Law Abiding Citizen","Crime,Drama,Thriller","F. Gary Gray",2009,109,7.4,228339,73.34
+2448,Up,"Animation,Adventure,Comedy","Pete Docter",2009,96,8.3,722203,292.98
+2449,"Maze Runner: The Scorch Trials","Action,Sci-Fi,Thriller","Wes Ball",2015,131,6.3,159364,81.69
+2450,Carol,"Drama,Romance","Todd Haynes",2015,118,7.2,77995,0.25
+2451,Youth,"Comedy,Drama,Music","Paolo Sorrentino",2015,124,7.3,52636,2.7
+2452,Savages,"Crime,Drama,Thriller","Oliver Stone",2012,131,6.5,107960,47.31
+2453,"(500) Days of Summer","Comedy,Drama,Romance","Marc Webb",2009,95,7.7,398972,32.39
+2454,"Movie 43","Comedy,Romance","Elizabeth Banks",2013,94,4.3,83625,8.83
+2455,Gravity,"Drama,Sci-Fi,Thriller","Alfonso Cuarón",2013,91,7.8,622089,274.08
+2456,"The Boy in the Striped Pyjamas","Drama,War","Mark Herman",2008,94,7.8,144614,9.03
+2457,Shooter,"Action,Crime,Drama","Antoine Fuqua",2007,124,7.2,267820,46.98
+2458,"The Happening","Sci-Fi,Thriller","M. Night Shyamalan",2008,91,5,170897,64.51
+2459,"Bone Tomahawk","Adventure,Drama,Horror","S. Craig Zahler",2015,132,7.1,47289,66.01
+2460,"Easy A","Comedy,Drama,Romance","Will Gluck",2010,92,7.1,294950,58.4
+2461,"Exodus: Gods and Kings","Action,Adventure,Drama","Ridley Scott",2014,150,6,137299,65.01
+2462,Chappie,"Action,Crime,Drama","Neill Blomkamp",2015,120,6.9,188769,31.57
+2463,"The Hobbit: The Desolation of Smaug","Adventure,Fantasy","Peter Jackson",2013,161,7.9,513744,258.36
+2464,"Half of a Yellow Sun","Drama,Romance","Biyi Bandele",2013,111,6.2,1356,0.05
+2465,Anthropoid,"Biography,History,Thriller","Sean Ellis",2016,120,7.2,24100,2.96
+2466,"The Counselor","Crime,Drama,Thriller","Ridley Scott",2013,117,5.3,84927,16.97
+2467,Viking,"Action,Drama,History","Andrey Kravchuk",2016,133,4.7,1830,23.05
+2468,Trust,"Crime,Drama,Thriller","David Schwimmer",2010,106,7,36043,0.06
+2469,"Birth of the Dragon","Action,Biography,Drama","George Nolfi",2016,103,3.9,552,93.05
+2470,"The Green Inferno","Adventure,Horror","Eli Roth",2013,100,5.4,26461,7.19
+2471,Godzilla,"Action,Adventure,Sci-Fi","Gareth Edwards",2014,123,6.4,318058,200.66
+2472,"The Bourne Legacy","Action,Adventure,Mystery","Tony Gilroy",2012,135,6.7,245374,113.17
+2473,"A Good Year","Comedy,Drama,Romance","Ridley Scott",2006,117,6.9,74674,7.46
+2474,"Friend Request","Horror,Thriller","Simon Verhoeven",2016,92,5.4,12758,64.03
+2475,Lucy,"Action,Sci-Fi,Thriller","Luc Besson",2014,89,6.4,352698,126.55
+2476,"A Quiet Passion","Biography,Drama","Terence Davies",2016,125,7.2,1024,1.08
+2477,"Need for Speed","Action,Crime,Drama","Scott Waugh",2014,132,6.5,143389,43.57
+2478,"Jack Reacher","Action,Crime,Mystery","Christopher McQuarrie",2012,130,7,250811,58.68
+2479,"The Do-Over","Action,Adventure,Comedy","Steven Brill",2016,108,5.7,24761,0.54
+2480,"The Ghost Writer","Mystery,Thriller","Roman Polanski",2010,128,7.2,137964,15.52
+2481,Limitless,"Mystery,Sci-Fi,Thriller","Neil Burger",2011,105,7.4,444417,79.24
+2482,"P.S. I Love You","Drama,Romance","Richard LaGravenese",2007,126,7.1,177247,53.68
+2483,"Midnight Special","Drama,Mystery,Sci-Fi","Jeff Nichols",2016,112,6.7,54787,3.71
+2484,"Don't Think Twice","Comedy,Drama","Mike Birbiglia",2016,92,6.8,10485,4.42
+2485,"Alice in Wonderland","Adventure,Family,Fantasy","Tim Burton",2010,108,6.5,324898,334.19
+2486,Chuck,"Biography,Drama,Sport","Philippe Falardeau",2016,98,6.8,391,0.11
+2487,"The Break-Up","Comedy,Drama,Romance","Peyton Reed",2006,106,5.8,106381,118.68
+2488,Loving,"Biography,Drama,Romance","Jeff Nichols",2016,123,7.1,17141,7.7
+2489,"Fantastic Four","Action,Adventure,Sci-Fi","Josh Trank",2015,100,4.3,121847,56.11
+2490,"The Boy Next Door","Mystery,Thriller","Rob Cohen",2015,91,4.6,30180,35.39
+2491,"The Gift","Mystery,Thriller","Joel Edgerton",2015,108,7.1,96688,43.77
+2492,"Dracula Untold","Action,Drama,Fantasy","Gary Shore",2014,92,6.3,148504,55.94
+2493,"In the Heart of the Sea","Action,Adventure,Biography","Ron Howard",2015,122,6.9,90372,24.99
+2494,Idiocracy,"Adventure,Comedy,Sci-Fi","Mike Judge",2006,84,6.6,115355,0.44
+2495,"The Expendables","Action,Adventure,Thriller","Sylvester Stallone",2010,103,6.5,283282,102.98
+2496,"Evil Dead","Fantasy,Horror","Fede Alvarez",2013,91,6.5,133113,54.24
+2497,Sinister,"Horror,Mystery","Scott Derrickson",2012,110,6.8,171169,48.06
+2498,"Wreck-It Ralph","Animation,Adventure,Comedy","Rich Moore",2012,101,7.8,290559,189.41
+2499,"Snow White and the Huntsman","Action,Adventure,Drama","Rupert Sanders",2012,127,6.1,239772,155.11
+2500,Pan,"Adventure,Family,Fantasy","Joe Wright",2015,111,5.8,47804,34.96
+2501,"Transformers: Dark of the Moon","Action,Adventure,Sci-Fi","Michael Bay",2011,154,6.3,338369,352.36
+2502,Juno,"Comedy,Drama","Jason Reitman",2007,96,7.5,432461,143.49
+2503,"A Hologram for the King","Comedy,Drama","Tom Tykwer",2016,98,6.1,26521,4.2
+2504,"Money Monster","Crime,Drama,Thriller","Jodie Foster",2016,98,6.5,68654,41.01
+2505,"The Other Woman","Comedy,Romance","Nick Cassavetes",2014,109,6,110825,83.91
+2506,Enchanted,"Animation,Comedy,Family","Kevin Lima",2007,107,7.1,150353,127.71
+2507,"The Intern","Comedy,Drama","Nancy Meyers",2015,121,7.1,159582,75.27
+2508,"Little Miss Sunshine","Comedy,Drama","Jonathan Dayton",2006,101,7.8,374044,59.89
+2509,"Bleed for This","Biography,Drama,Sport","Ben Younger",2016,117,6.8,11900,4.85
+2510,"Clash of the Titans","Action,Adventure,Fantasy","Louis Leterrier",2010,106,5.8,238206,163.19
+2511,"The Finest Hours","Action,Drama,History","Craig Gillespie",2016,117,6.8,44425,27.55
+2512,Tron,"Action,Adventure,Sci-Fi","Joseph Kosinski",2010,125,6.8,273959,172.05
+2513,"The Hunger Games: Catching Fire","Action,Adventure,Mystery","Francis Lawrence",2013,146,7.6,525646,424.65
+2514,"All Good Things","Crime,Drama,Mystery","Andrew Jarecki",2010,101,6.3,44158,0.58
+2515,"Kickboxer: Vengeance",Action,"John Stockwell",2016,90,4.9,6809,131.56
+2516,"Sex Tape","Comedy,Romance","Jake Kasdan",2014,94,5.1,89885,38.54
+2517,"What to Expect When You're Expecting","Comedy,Drama,Romance","Kirk Jones",2012,110,5.7,60059,41.1
+2518,Moneyball,"Biography,Drama,Sport","Bennett Miller",2011,133,7.6,297395,75.61
+2519,"Ghost Rider","Action,Fantasy,Thriller","Mark Steven Johnson",2007,114,5.2,190673,115.8
+2520,Unbroken,"Biography,Drama,Sport","Angelina Jolie",2014,137,7.2,114006,115.6
+2521,Immortals,"Action,Drama,Fantasy","Tarsem Singh",2011,110,6,142900,83.5
+2522,Sunshine,"Adventure,Sci-Fi,Thriller","Danny Boyle",2007,107,7.3,199860,3.68
+2523,Brave,"Animation,Adventure,Comedy","Mark Andrews",2012,93,7.2,293941,237.28
+2524,"Män som hatar kvinnor","Drama,Mystery,Thriller","Niels Arden Oplev",2009,152,7.8,182074,10.1
+2525,Adoration,"Drama,Romance","Anne Fontaine",2013,112,6.2,25208,0.32
+2526,"The Drop","Crime,Drama,Mystery","Michaël R. Roskam",2014,106,7.1,116118,10.72
+2527,"She's the Man","Comedy,Romance,Sport","Andy Fickman",2006,105,6.4,122864,2.34
+2528,"Daddy's Home","Comedy,Family","Sean Anders",2015,96,6.1,68306,150.32
+2529,"Let Me In","Drama,Horror,Mystery","Matt Reeves",2010,116,7.2,97141,12.13
+2530,"Never Back Down","Action,Drama,Sport","Jeff Wadlow",2008,110,6.6,84083,24.85
+2531,Grimsby,"Action,Adventure,Comedy","Louis Leterrier",2016,83,6.2,63408,6.86
+2532,Moon,"Drama,Mystery,Sci-Fi","Duncan Jones",2009,97,7.9,277123,5.01
+2533,Megamind,"Animation,Action,Comedy","Tom McGrath",2010,95,7.3,183926,148.34
+2534,"Gangster Squad","Action,Crime,Drama","Ruben Fleischer",2013,113,6.7,181432,46
+2535,"Blood Father","Action,Crime,Drama","Jean-François Richet",2016,88,6.4,40357,93.95
+2536,"Kung Fu Panda 3","Animation,Action,Adventure","Alessandro Carloni",2016,95,7.2,89791,143.52
+2537,"The Rise of the Krays","Crime,Drama","Zackary Adler",2015,110,5.1,1630,6.53
+2538,"Horrible Bosses","Comedy,Crime","Seth Gordon",2011,98,6.9,368556,117.53
+2539,Mommy,Drama,"Xavier Dolan",2014,139,8.1,33560,3.49
+2540,"Hellboy II: The Golden Army","Action,Adventure,Fantasy","Guillermo del Toro",2008,120,7,216932,75.75
+2541,"Beautiful Creatures","Drama,Fantasy,Romance","Richard LaGravenese",2013,124,6.2,71822,19.45
+2542,"Toni Erdmann","Comedy,Drama","Maren Ade",2016,162,7.6,24387,1.48
+2543,"The Lovely Bones","Drama,Fantasy,Thriller","Peter Jackson",2009,135,6.7,130702,43.98
+2544,"The Assassination of Jesse James by the Coward Robert Ford","Biography,Crime,Drama","Andrew Dominik",2007,160,7.5,143564,3.9
+2545,"Don Jon","Comedy,Drama,Romance","Joseph Gordon-Levitt",2013,90,6.6,199973,24.48
+2546,"Bastille Day","Action,Crime,Drama","James Watkins",2016,92,6.3,21089,0.04
+2547,"2307: Winter's Dream",Sci-Fi,"Joey Curtis",2016,101,4,277,20.76
+2548,"Mr. Right","Action,Comedy,Romance","Paco Cabezas",2015,95,6.3,30053,0.03
+2549,"The Secret Life of Walter Mitty","Adventure,Comedy,Drama","Ben Stiller",2013,114,7.3,249877,58.23
+2550,Dope,"Comedy,Crime,Drama","Rick Famuyiwa",2015,103,7.3,66400,17.47
+2551,"Underworld Awakening","Action,Fantasy,Horror","Måns Mårlind",2012,88,6.4,127157,62.32
+2552,Antichrist,"Drama,Horror","Lars von Trier",2009,108,6.6,94069,0.4
+2553,"Friday the 13th",Horror,"Marcus Nispel",2009,97,5.6,78631,65
+2554,"Taken 3","Action,Thriller","Olivier Megaton",2014,109,6,144715,89.25
+2555,"Total Recall","Action,Adventure,Mystery","Len Wiseman",2012,118,6.3,210965,58.88
+2556,"X-Men: The Last Stand","Action,Adventure,Fantasy","Brett Ratner",2006,104,6.7,406540,234.36
+2557,"Night at the Museum: Secret of the Tomb","Adventure,Comedy,Family","Shawn Levy",2014,98,6.2,74886,113.73
+2558,"Love & Other Drugs","Comedy,Drama,Romance","Edward Zwick",2010,112,6.7,151519,32.36
+2559,"The Interview",Comedy,"Evan Goldberg",2014,112,6.6,261536,6.11
+2560,"The Host","Comedy,Drama,Horror","Bong Joon Ho",2006,120,7,73491,2.2
+2561,WALL·E,"Animation,Adventure,Family","Andrew Stanton",2008,98,8.4,776897,223.81
+2562,"Knocked Up","Comedy,Romance","Judd Apatow",2007,129,7,309398,148.73
+2563,"Source Code","Mystery,Romance,Sci-Fi","Duncan Jones",2011,93,7.5,404884,54.7
+2564,Lawless,"Crime,Drama","John Hillcoat",2012,116,7.3,195360,37.4
+2565,Unfriended,"Drama,Horror,Mystery","Levan Gabriadze",2014,83,5.6,50402,31.54
+2566,"American Reunion",Comedy,"Jon Hurwitz",2012,113,6.7,178471,56.72
+2567,"The Pursuit of Happyness","Biography,Drama","Gabriele Muccino",2006,117,8,361105,162.59
+2568,"Relatos salvajes","Comedy,Drama,Thriller","Damián Szifron",2014,122,8.1,110100,3.08
+2569,Frantz,"Drama,History,War","François Ozon",2016,113,7.5,4304,0.86
+2570,"Gran Torino",Drama,"Clint Eastwood",2008,116,8.2,595779,148.09
+2571,Burnt,"Comedy,Drama","John Wells",2015,101,6.6,76469,13.65
+2572,"Sleeping Beauty","Drama,Romance","Julia Leigh",2011,101,5.3,27006,0.03
+2573,"Vampire Academy","Action,Comedy,Fantasy","Mark Waters",2014,104,5.6,44111,7.79
+2574,"Sweeney Todd: The Demon Barber of Fleet Street","Drama,Horror,Musical","Tim Burton",2007,116,7.4,296289,52.88
+2575,Insidious,"Horror,Mystery,Thriller","James Wan",2010,103,6.8,219916,53.99
+2576,"Popstar: Never Stop Never Stopping","Comedy,Music","Akiva Schaffer",2016,87,6.7,30875,9.39
+2577,"Public Enemies","Biography,Crime,Drama","Michael Mann",2009,140,7,240323,97.03
+2578,Boyhood,Drama,"Richard Linklater",2014,165,7.9,286722,25.36
+2579,"Teenage Mutant Ninja Turtles","Action,Adventure,Comedy","Jonathan Liebesman",2014,101,5.9,178527,190.87
+2580,"Eastern Promises","Crime,Drama,Mystery","David Cronenberg",2007,100,7.7,198006,17.11
+2581,"The Daughter",Drama,"Simon Stone",2015,96,6.7,2798,0.03
+2582,"Pineapple Express","Action,Comedy,Crime","David Gordon Green",2008,111,7,267872,87.34
+2583,"The First Time","Comedy,Drama,Romance","Jon Kasdan",2012,95,6.9,54027,0.02
+2584,"Gone Baby Gone","Crime,Drama,Mystery","Ben Affleck",2007,114,7.7,206707,20.3
+2585,"The Heat","Action,Comedy,Crime","Paul Feig",2013,117,6.6,140151,159.58
+2586,L'avenir,Drama,"Mia Hansen-Løve",2016,102,7.1,5796,0.28
+2587,"Anna Karenina","Drama,Romance","Joe Wright",2012,129,6.6,75291,12.8
+2588,Regression,"Crime,Drama,Mystery","Alejandro Amenábar",2015,106,5.7,26320,0.05
+2589,"Ted 2","Adventure,Comedy,Romance","Seth MacFarlane",2015,115,6.3,136323,81.26
+2590,"Pain & Gain","Comedy,Crime,Drama","Michael Bay",2013,129,6.5,168875,49.87
+2591,"Blood Diamond","Adventure,Drama,Thriller","Edward Zwick",2006,143,8,422014,57.37
+2592,"Child 44","Crime,Drama,Thriller","Daniel Espinosa",2015,137,6.5,47703,1.21
+2593,"The Hurt Locker","Drama,History,Thriller","Kathryn Bigelow",2008,131,7.6,352023,15.7
+2594,"Green Lantern","Action,Adventure,Sci-Fi","Martin Campbell",2011,114,5.6,231907,116.59
+2595,"The Mist",Horror,"Frank Darabont",2007,126,7.2,233346,25.59
+2596,"Escape Plan","Action,Crime,Mystery","Mikael Håfström",2013,115,6.7,188004,25.12
+2597,"Love, Rosie","Comedy,Romance","Christian Ditter",2014,102,7.2,80415,0.01
+2598,"The DUFF",Comedy,"Ari Sandel",2015,101,6.5,57874,34.02
+2599,"The Age of Shadows","Action,Drama,Thriller","Jee-woon Kim",2016,140,7.2,2403,0.54
+2600,"The Hunger Games: Mockingjay - Part 1","Action,Adventure,Sci-Fi","Francis Lawrence",2014,123,6.7,331902,337.1
+2601,"We Need to Talk About Kevin","Drama,Mystery,Thriller","Lynne Ramsay",2011,112,7.5,104953,1.74
+2602,"Love & Friendship","Comedy,Drama,Romance","Whit Stillman",2016,90,6.5,16164,14.01
+2603,"The Mortal Instruments: City of Bones","Action,Fantasy,Horror","Harald Zwart",2013,130,5.9,112313,31.17
+2604,"Seven Pounds","Drama,Romance","Gabriele Muccino",2008,123,7.7,245144,69.95
+2605,"The King's Speech","Biography,Drama","Tom Hooper",2010,118,8,534388,138.8
+2606,Hunger,"Biography,Drama","Steve McQueen",2008,96,7.6,54486,0.15
+2607,Jumper,"Action,Adventure,Sci-Fi","Doug Liman",2008,88,6.1,252503,80.17
+2608,"Toy Story 3","Animation,Adventure,Comedy","Lee Unkrich",2010,103,8.3,586669,414.98
+2609,"Tinker Tailor Soldier Spy","Drama,Mystery,Thriller","Tomas Alfredson",2011,122,7.1,157053,24.1
+2610,"Resident Evil: Retribution","Action,Horror,Sci-Fi","Paul W.S. Anderson",2012,96,5.4,114144,42.35
+2611,"Dear Zindagi","Drama,Romance","Gauri Shinde",2016,151,7.8,23540,1.4
+2612,Genius,"Biography,Drama","Michael Grandage",2016,104,6.5,10708,1.36
+2613,Pompeii,"Action,Adventure,Drama","Paul W.S. Anderson",2014,105,5.5,90188,23.22
+2614,"Life of Pi","Adventure,Drama,Fantasy","Ang Lee",2012,127,7.9,471109,124.98
+2615,"10 Years","Comedy,Drama,Romance","Jamie Linden",2011,100,6.1,19636,0.2
+2616,"I Origins","Drama,Romance,Sci-Fi","Mike Cahill",2014,106,7.3,86271,0.33
+2617,"Live Free or Die Hard","Action,Adventure,Thriller","Len Wiseman",2007,128,7.2,347567,134.52
+2618,"Funny Games","Crime,Drama,Horror","Michael Haneke",2007,111,6.5,73835,1.29
+2619,Ted,"Comedy,Fantasy","Seth MacFarlane",2012,106,7,494641,218.63
+2620,RED,"Action,Comedy,Crime","Robert Schwentke",2010,111,7.1,250012,90.36
+2621,Australia,"Adventure,Drama,Romance","Baz Luhrmann",2008,165,6.6,106115,49.55
+2622,Faster,"Action,Crime,Drama","George Tillman Jr.",2010,98,6.5,83788,23.23
+2623,"The Adjustment Bureau","Romance,Sci-Fi,Thriller","George Nolfi",2011,106,7.1,208632,62.45
+2624,"The Hollars","Comedy,Drama,Romance","John Krasinski",2016,88,6.5,5908,1.02
+2625,"The Judge","Crime,Drama","David Dobkin",2014,141,7.4,146812,47.11
+2626,"Closed Circuit","Crime,Drama,Mystery","John Crowley",2013,96,6.2,18437,5.73
+2627,"Transformers: Revenge of the Fallen","Action,Adventure,Sci-Fi","Michael Bay",2009,150,6,335757,402.08
+2628,"La tortue rouge","Animation,Fantasy","Michael Dudok de Wit",2016,80,7.6,11482,0.92
+2629,"The Book of Life","Animation,Adventure,Comedy","Jorge R. Gutiérrez",2014,95,7.3,50388,50.15
+2630,Incendies,"Drama,Mystery,War","Denis Villeneuve",2010,131,8.2,92863,6.86
+2631,"The Heartbreak Kid","Comedy,Romance","Bobby Farrelly",2007,116,5.8,74664,36.77
+2632,"Happy Feet","Animation,Comedy,Family","George Miller",2006,108,6.5,141141,197.99
+2633,Entourage,Comedy,"Doug Ellin",2015,104,6.6,64557,32.36
+2634,"The Strangers","Horror,Mystery,Thriller","Bryan Bertino",2008,86,6.2,96718,52.53
+2635,Noah,"Action,Adventure,Drama","Darren Aronofsky",2014,138,5.8,209700,101.16
+2636,Neighbors,Comedy,"Nicholas Stoller",2014,97,6.4,236500,150.06
+2637,"Nymphomaniac: Vol. II",Drama,"Lars von Trier",2013,123,6.7,65824,0.33
+2638,Wild,"Adventure,Biography,Drama","Jean-Marc Vallée",2014,115,7.1,95553,37.88
+2639,"Grown Ups",Comedy,"Dennis Dugan",2010,102,6,190385,162
+2640,"Blair Witch","Horror,Thriller","Adam Wingard",2016,89,5.1,26088,20.75
+2641,"The Karate Kid","Action,Drama,Family","Harald Zwart",2010,140,6.2,127983,176.59
+2642,"Dark Shadows","Comedy,Fantasy,Horror","Tim Burton",2012,113,6.2,209326,79.71
+2643,"Friends with Benefits","Comedy,Romance","Will Gluck",2011,109,6.6,286543,55.8
+2644,"The Illusionist","Drama,Mystery,Romance","Neil Burger",2006,110,7.6,309934,39.83
+2645,"The A-Team","Action,Adventure,Comedy","Joe Carnahan",2010,117,6.8,219116,77.21
+2646,"The Guest",Thriller,"Adam Wingard",2014,100,6.7,71069,0.32
+2647,"The Internship",Comedy,"Shawn Levy",2013,119,6.3,166342,44.67
+2648,Paul,"Adventure,Comedy,Sci-Fi","Greg Mottola",2011,104,7,201707,37.37
+2649,"The Da Vinci Code","Mystery,Thriller","Ron Howard",2006,149,6.6,338280,217.54
+2650,"Mr. Church","Comedy,Drama","Bruce Beresford",2016,104,7.7,16163,0.69
+2651,Hugo,"Adventure,Drama,Family","Martin Scorsese",2011,126,7.5,259182,73.82
+2652,"The Blackcoat's Daughter","Horror,Thriller","Oz Perkins",2015,93,5.6,4155,0.02
+2653,"Body of Lies","Action,Drama,Romance","Ridley Scott",2008,128,7.1,182305,39.38
+2654,"Knight of Cups","Drama,Romance","Terrence Malick",2015,118,5.7,17439,0.56
+2655,"The Mummy: Tomb of the Dragon Emperor","Action,Adventure,Fantasy","Rob Cohen",2008,112,5.2,124554,102.18
+2656,"The Boss",Comedy,"Ben Falcone",2016,99,5.4,29642,63.03
+2657,"Hands of Stone","Action,Biography,Drama","Jonathan Jakubowicz",2016,111,6.6,8998,4.71
+2658,"El secreto de sus ojos","Drama,Mystery,Romance","Juan José Campanella",2009,129,8.2,144524,20.17
+2659,"True Grit","Adventure,Drama,Western","Ethan Coen",2010,110,7.6,254904,171.03
+2660,"We Are Your Friends","Drama,Music,Romance","Max Joseph",2015,96,6.2,25903,3.59
+2661,"A Million Ways to Die in the West","Comedy,Romance,Western","Seth MacFarlane",2014,116,6.1,144779,42.62
+2662,"Rules Don't Apply","Comedy,Drama,Romance","Warren Beatty",2016,127,5.7,3731,3.65
+2663,"Ouija: Origin of Evil","Horror,Thriller","Mike Flanagan",2016,99,6.1,30035,34.9
+2664,"Percy Jackson: Sea of Monsters","Adventure,Family,Fantasy","Thor Freudenthal",2013,106,5.9,91684,68.56
+2665,Fracture,"Crime,Drama,Mystery","Gregory Hoblit",2007,113,7.2,148943,39
+2666,Oculus,"Horror,Mystery","Mike Flanagan",2013,104,6.5,92875,27.69
+2667,"In Bruges","Comedy,Crime,Drama","Martin McDonagh",2008,107,7.9,322536,7.76
+2668,"This Means War","Action,Comedy,Romance",McG,2012,103,6.3,154400,54.76
+2669,"The Road","Adventure,Drama","John Hillcoat",2009,111,7.3,187302,0.06
+2670,"Conan the Barbarian","Action,Adventure,Fantasy","Marcus Nispel",2011,113,5.2,84893,21.27
+2671,"The Fighter","Action,Biography,Drama","David O. Russell",2010,116,7.8,290056,93.57
+2672,"August Rush","Drama,Music","Kirsten Sheridan",2007,114,7.5,91229,31.66
+2673,Chef,"Comedy,Drama","Jon Favreau",2014,114,7.3,151970,31.24
+2674,"Eye in the Sky","Drama,Thriller,War","Gavin Hood",2015,102,7.3,57826,18.7
+2675,"Eagle Eye","Action,Mystery,Thriller","D.J. Caruso",2008,118,6.6,156158,101.11
+2676,"The Purge","Horror,Sci-Fi,Thriller","James DeMonaco",2013,85,5.7,154588,64.42
+2677,PK,"Comedy,Drama,Romance","Rajkumar Hirani",2014,153,8.2,103279,10.57
+2678,"Ender's Game","Action,Sci-Fi","Gavin Hood",2013,114,6.7,194236,61.66
+2679,"Indiana Jones and the Kingdom of the Crystal Skull","Action,Adventure,Fantasy","Steven Spielberg",2008,122,6.2,351361,317.01
+2680,"Paper Towns","Drama,Mystery,Romance","Jake Schreier",2015,109,6.3,72515,31.99
+2681,High-Rise,Drama,"Ben Wheatley",2015,119,5.7,25928,0.34
+2682,"Quantum of Solace","Action,Adventure,Thriller","Marc Forster",2008,106,6.6,347798,168.37
+2683,"How to Train Your Dragon","Animation,Action,Adventure","Dean DeBlois",2010,98,8.1,523893,217.39
+2684,"Lady in the Water","Drama,Fantasy,Mystery","M. Night Shyamalan",2006,110,5.6,82701,42.27
+2685,"The Fountain","Drama,Sci-Fi","Darren Aronofsky",2006,96,7.3,199193,10.14
+2686,"Cars 2","Animation,Adventure,Comedy","John Lasseter",2011,106,6.2,110490,191.45
+2687,31,"Horror,Thriller","Rob Zombie",2016,102,5.1,10871,0.78
+2688,"The Man Who Knew Infinity","Biography,Drama","Matt Brown",2015,108,7.2,29912,3.86
+2689,Unknown,"Action,Mystery,Thriller","Jaume Collet-Serra",2011,113,6.9,218679,61.09
+2690,Self/less,"Action,Mystery,Sci-Fi","Tarsem Singh",2015,117,6.5,67196,12.28
+2691,"Mr. Brooks","Crime,Drama,Thriller","Bruce A. Evans",2007,120,7.3,128146,28.48
+2692,"Before We Go","Comedy,Drama,Romance","Chris Evans",2014,95,6.9,31370,0.04
+2693,"Captain Phillips","Biography,Drama,Thriller","Paul Greengrass",2013,134,7.8,346154,107.1
+2694,"Max Steel","Action,Adventure,Family","Stewart Hendler",2016,92,4.6,11555,3.77
+2695,"Hotel Transylvania 2","Animation,Comedy,Family","Genndy Tartakovsky",2015,89,6.7,69157,169.69
+2696,Hancock,"Action,Crime,Drama","Peter Berg",2008,92,6.4,366138,227.95
+2697,Sisters,Comedy,"Jason Moore",2015,118,6,50241,87.03
+2698,"The Family","Comedy,Crime,Thriller","Luc Besson",2013,111,6.3,92868,36.92
+2699,"Zack and Miri Make a Porno","Comedy,Romance","Kevin Smith",2008,101,6.6,154936,31.45
+2700,"Ma vie de Courgette","Animation,Comedy,Drama","Claude Barras",2016,66,7.8,4370,0.29
+2701,"Man on a Ledge","Action,Crime,Thriller","Asger Leth",2012,102,6.6,129252,18.6
+2702,"No Strings Attached","Comedy,Romance","Ivan Reitman",2011,108,6.2,178243,70.63
+2703,"Rescue Dawn","Adventure,Biography,Drama","Werner Herzog",2006,120,7.3,87887,5.48
+2704,"Despicable Me 2","Animation,Adventure,Comedy","Pierre Coffin",2013,98,7.4,304837,368.05
+2705,"A Walk Among the Tombstones","Crime,Drama,Mystery","Scott Frank",2014,114,6.5,93883,25.98
+2706,"The World's End","Action,Comedy,Sci-Fi","Edgar Wright",2013,109,7,199813,26
+2707,"Seven Psychopaths","Comedy,Crime","Martin McDonagh",2012,110,7.2,196652,14.99
+2708,Beowulf,"Animation,Action,Adventure","Robert Zemeckis",2007,115,6.2,146566,82.16
+2709,"Jack Ryan: Shadow Recruit","Action,Drama,Thriller","Kenneth Branagh",2014,105,6.2,103681,50.55
+2710,1408,"Fantasy,Horror","Mikael Håfström",2007,104,6.8,221073,71.98
+2711,"The Gambler","Crime,Drama,Thriller","Rupert Wyatt",2014,111,6,52537,33.63
+2712,"Prince of Persia: The Sands of Time","Action,Adventure,Fantasy","Mike Newell",2010,116,6.6,233148,90.76
+2713,"The Spectacular Now","Comedy,Drama,Romance","James Ponsoldt",2013,95,7.1,115751,6.85
+2714,"A United Kingdom","Biography,Drama,Romance","Amma Asante",2016,111,6.8,4771,3.9
+2715,"Turbo Kid","Action,Adventure,Comedy","François Simard",2015,93,6.7,19309,0.05
+2716,Mama,"Horror,Thriller","Andrés Muschietti",2013,100,6.2,142560,71.59
+2717,Orphan,"Horror,Mystery,Thriller","Jaume Collet-Serra",2009,123,7,153448,41.57
+2718,"To Rome with Love","Comedy,Romance","Woody Allen",2012,112,6.3,72050,16.68
+2719,"Fantastic Mr. Fox","Animation,Adventure,Comedy","Wes Anderson",2009,87,7.8,149779,21
+2720,"Inside Man","Crime,Drama,Mystery","Spike Lee",2006,129,7.6,285441,88.5
+2721,"127 Hours","Adventure,Biography,Drama","Danny Boyle",2010,94,7.6,294010,18.33
+2722,Annabelle,"Horror,Mystery,Thriller","John R. Leonetti",2014,99,5.4,91106,84.26
+2723,"The Imaginarium of Doctor Parnassus","Adventure,Fantasy,Mystery","Terry Gilliam",2009,123,6.8,130153,7.69
+2724,"G.I. Joe: The Rise of Cobra","Action,Adventure,Sci-Fi","Stephen Sommers",2009,118,5.8,180105,150.17
+2725,Christine,"Biography,Drama","Antonio Campos",2016,119,7,5855,0.3
+2726,"Shut In","Drama,Horror,Thriller","Farren Blackburn",2016,91,4.6,5715,6.88
+2727,Grindhouse,"Action,Horror,Thriller","Robert Rodriguez",2007,191,7.6,160350,25.03
+2728,"Disaster Movie",Comedy,"Jason Friedberg",2008,87,1.9,77207,14.17
+2729,"Rocky Balboa","Drama,Sport","Sylvester Stallone",2006,102,7.2,171356,70.27
+2730,"Diary of a Wimpy Kid: Dog Days","Comedy,Family","David Bowers",2012,94,6.4,16917,49
+2731,"Jane Eyre","Drama,Romance","Cary Joji Fukunaga",2011,120,7.4,67464,11.23
+2732,"Fool's Gold","Action,Adventure,Comedy","Andy Tennant",2008,112,5.7,62719,70.22
+2733,"The Dictator",Comedy,"Larry Charles",2012,83,6.4,225394,59.62
+2734,"The Loft","Mystery,Romance,Thriller","Erik Van Looy",2014,108,6.3,38804,5.98
+2735,Bacalaureat,"Crime,Drama","Cristian Mungiu",2016,128,7.5,5531,0.13
+2736,"You Don't Mess with the Zohan","Action,Comedy","Dennis Dugan",2008,113,5.5,163144,100.02
+2737,"Horrible Bosses 2","Comedy,Crime","Sean Anders",2014,108,6.3,125190,54.41
+2738,"A Bigger Splash","Drama,Thriller","Luca Guadagnino",2015,125,6.4,15232,1.98
+2739,Melancholia,Drama,"Lars von Trier",2011,135,7.1,137117,3.03
+2740,"The Princess and the Frog","Animation,Adventure,Comedy","Ron Clements",2009,97,7.1,95480,104.37
+2741,Unstoppable,"Action,Thriller","Tony Scott",2010,98,6.8,157499,81.56
+2742,Flight,"Drama,Thriller","Robert Zemeckis",2012,138,7.3,276347,93.75
+2743,Home,"Animation,Adventure,Comedy","Tim Johnson",2015,94,6.7,77447,177.34
+2744,"La migliore offerta","Crime,Drama,Mystery","Giuseppe Tornatore",2013,131,7.8,77986,0.09
+2745,42,"Biography,Drama,Sport","Brian Helgeland",2013,128,7.5,69659,95
+2746,21,"Crime,Drama,Thriller","Robert Luketic",2008,123,6.8,198395,81.16
+2747,"Begin Again","Drama,Music","John Carney",2013,104,7.4,111875,16.17
+2748,"Out of the Furnace","Crime,Drama,Thriller","Scott Cooper",2013,116,6.8,88829,11.33
+2749,"Vicky Cristina Barcelona","Drama,Romance","Woody Allen",2008,96,7.1,208770,23.21
+2750,"Kung Fu Panda","Animation,Action,Adventure","Mark Osborne",2008,92,7.6,329788,215.4
+2751,"Barbershop: The Next Cut","Comedy,Drama","Malcolm D. Lee",2016,111,5.9,9993,54.01
+2752,"Terminator Salvation","Action,Adventure,Drama",McG,2009,115,6.6,297093,125.32
+2753,"Freedom Writers","Biography,Crime,Drama","Richard LaGravenese",2007,123,7.5,55648,36.58
+2754,"The Hills Have Eyes",Horror,"Alexandre Aja",2006,107,6.4,136642,41.78
+2755,Changeling,"Biography,Drama,Mystery","Clint Eastwood",2008,141,7.8,206793,35.71
+2756,"Remember Me","Drama,Romance","Allen Coulter",2010,113,7.2,119376,19.06
+2757,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Comedy,Family","Miguel Arteta",2014,81,6.2,32310,66.95
+2758,Locke,Drama,"Steven Knight",2013,85,7.1,100890,1.36
+2759,Horns,"Drama,Fantasy,Horror","Alexandre Aja",2013,120,6.5,61060,0.16
+2760,Indignation,"Drama,Romance","James Schamus",2016,110,6.9,7402,3.4
+2761,"The Stanford Prison Experiment","Biography,Drama,History","Kyle Patrick Alvarez",2015,122,6.9,20907,0.64
+2762,"Diary of a Wimpy Kid: Rodrick Rules","Comedy,Family","David Bowers",2011,99,6.6,20194,52.69
+2763,"Mission: Impossible III","Action,Adventure,Thriller","J.J. Abrams",2006,126,6.9,270429,133.38
+2764,"En man som heter Ove","Comedy,Drama","Hannes Holm",2015,116,7.7,21569,3.36
+2765,"Dragonball Evolution","Action,Adventure,Fantasy","James Wong",2009,85,2.7,59512,9.35
+2766,"Red Dawn","Action,Thriller","Dan Bradley",2012,93,5.4,64584,44.8
+2767,"One Day","Drama,Romance","Lone Scherfig",2011,107,7,113599,13.77
+2768,"Life as We Know It","Comedy,Drama,Romance","Greg Berlanti",2010,114,6.6,101301,53.36
+2769,"28 Weeks Later","Drama,Horror,Sci-Fi","Juan Carlos Fresnadillo",2007,100,7,221858,28.64
+2770,"Warm Bodies","Comedy,Horror,Romance","Jonathan Levine",2013,98,6.9,193579,66.36
+2771,"Blue Jasmine",Drama,"Woody Allen",2013,98,7.3,160592,33.4
+2772,"G.I. Joe: Retaliation","Action,Adventure,Sci-Fi","Jon M. Chu",2013,110,5.8,152145,122.51
+2773,"Wrath of the Titans","Action,Adventure,Fantasy","Jonathan Liebesman",2012,99,5.8,159230,83.64
+2774,"Shin Gojira","Action,Adventure,Drama","Hideaki Anno",2016,120,6.9,8365,1.91
+2775,"Saving Mr. Banks","Biography,Comedy,Drama","John Lee Hancock",2013,125,7.5,125693,83.3
+2776,Transcendence,"Drama,Mystery,Romance","Wally Pfister",2014,119,6.3,184564,23.01
+2777,Rio,"Animation,Adventure,Comedy","Carlos Saldanha",2011,96,6.9,173919,143.62
+2778,Equals,"Drama,Romance,Sci-Fi","Drake Doremus",2015,101,6.1,16361,0.03
+2779,Babel,Drama,"Alejandro González Iñárritu",2006,143,7.5,253417,34.3
+2780,"The Tree of Life","Drama,Fantasy","Terrence Malick",2011,139,6.8,143517,13.3
+2781,"The Lucky One","Drama,Romance","Scott Hicks",2012,101,6.5,82874,60.44
+2782,"Piranha 3D","Comedy,Horror,Thriller","Alexandre Aja",2010,88,5.5,75262,25
+2783,50/50,"Comedy,Drama,Romance","Jonathan Levine",2011,100,7.7,281625,34.96
+2784,"This Is 40","Comedy,Romance","Judd Apatow",2012,134,6.2,108156,67.52
+2785,"Real Steel","Action,Drama,Family","Shawn Levy",2011,127,7.1,264480,85.46
+2786,"Sex and the City","Comedy,Drama,Romance","Michael Patrick King",2008,145,5.5,102547,152.64
+2787,Rambo,"Action,Thriller,War","Sylvester Stallone",2008,92,7.1,187077,42.72
+2788,Concussion,"Biography,Drama,Sport","Peter Landesman",2015,123,7.1,61274,34.53
+2789,"The Fall","Adventure,Comedy,Drama","Tarsem Singh",2006,117,7.9,93036,2.28
+2790,"The Ugly Truth","Comedy,Romance","Robert Luketic",2009,96,6.5,172558,88.92
+2791,"Bride Wars","Comedy,Romance","Gary Winick",2009,89,5.5,83976,58.72
+2792,"Sleeping with Other People","Comedy,Drama,Romance","Leslye Headland",2015,101,6.5,27730,0.81
+2793,"Snakes on a Plane","Action,Adventure,Crime","David R. Ellis",2006,105,5.6,118905,34.01
+2794,"What If","Comedy,Romance","Michael Dowse",2013,98,6.8,55243,3.45
+2795,"How to Train Your Dragon 2","Animation,Action,Adventure","Dean DeBlois",2014,102,7.9,237565,177
+2796,RoboCop,"Action,Crime,Sci-Fi","José Padilha",2014,117,6.2,190833,58.61
+2797,"Hello, My Name Is Doris","Comedy,Drama,Romance","Michael Showalter",2015,95,6.7,12361,14.44
+2798,"Ocean's Thirteen","Crime,Thriller","Steven Soderbergh",2007,122,6.9,269581,117.14
+2799,Slither,"Comedy,Horror,Sci-Fi","James Gunn",2006,95,6.5,64351,7.77
+2800,Contagion,"Drama,Thriller","Steven Soderbergh",2011,106,6.6,187004,75.64
+2801,"Il racconto dei racconti - Tale of Tales","Drama,Fantasy,Horror","Matteo Garrone",2015,133,6.4,17565,0.08
+2802,"Bridge to Terabithia","Adventure,Drama,Family","Gabor Csupo",2007,96,7.2,117297,82.23
+2803,Coherence,"Mystery,Sci-Fi,Thriller","James Ward Byrkit",2013,89,7.2,66265,0.07
+2804,Notorious,"Biography,Crime,Drama","George Tillman Jr.",2009,122,6.7,33007,36.84
+2805,Goksung,"Drama,Fantasy,Horror","Hong-jin Na",2016,156,7.5,17962,0.79
+2806,"The Expendables 2","Action,Adventure,Thriller","Simon West",2012,103,6.6,257395,85.02
+2807,"Perfume: The Story of a Murderer","Crime,Drama,Fantasy","Tom Tykwer",2006,147,7.5,199387,2.21
+2808,"The Golden Compass","Adventure,Family,Fantasy","Chris Weitz",2007,113,6.1,155078,70.08
+2809,Centurion,"Action,Adventure,Drama","Neil Marshall",2010,97,6.4,67801,0.12
+2810,"Scouts Guide to the Zombie Apocalypse","Action,Comedy,Horror","Christopher Landon",2015,93,6.3,31651,3.64
+2811,"17 Again","Comedy,Drama,Family","Burr Steers",2009,102,6.4,152808,64.15
+2812,"No Escape","Action,Thriller","John Erick Dowdle",2015,103,6.8,57921,27.29
+2813,"Superman Returns","Action,Adventure,Sci-Fi","Bryan Singer",2006,154,6.1,246797,200.07
+2814,"The Twilight Saga: Breaking Dawn - Part 1","Adventure,Drama,Fantasy","Bill Condon",2011,117,4.9,190244,281.28
+2815,Precious,Drama,"Lee Daniels",2009,110,7.3,91623,47.54
+2816,"The Sea of Trees",Drama,"Gus Van Sant",2015,110,5.9,7475,0.02
+2817,"The Master",Drama,"Paul Thomas Anderson",2012,144,7.1,112902,16.38
+2818,Footloose,"Comedy,Drama,Music","Craig Brewer",2011,113,5.9,39380,51.78
+2819,"If I Stay","Drama,Fantasy,Music","R.J. Cutler",2014,107,6.8,92170,50.46
+2820,"The Love Witch","Comedy,Horror","Anna Biller",2016,120,6.2,4669,0.22
+2821,"Talladega Nights: The Ballad of Ricky Bobby","Action,Comedy,Sport","Adam McKay",2006,108,6.6,137502,148.21
+2822,"The Human Centipede (First Sequence)",Horror,"Tom Six",2009,92,4.4,60655,0.18
+2823,Super,"Comedy,Drama","James Gunn",2010,96,6.8,64535,0.32
+2824,"Up in the Air","Drama,Romance","Jason Reitman",2009,109,7.4,279694,83.81
+2825,"The Midnight Meat Train","Horror,Mystery","Ryûhei Kitamura",2008,98,6.1,50255,0.07
+2826,"The Twilight Saga: Eclipse","Adventure,Drama,Fantasy","David Slade",2010,124,4.9,192740,300.52
+2827,"What's Your Number?","Comedy,Romance","Mark Mylod",2011,106,6.1,62095,13.99
+2828,Riddick,"Action,Sci-Fi,Thriller","David Twohy",2013,119,6.4,132098,42
+2829,"The Butler","Biography,Drama","Lee Daniels",2013,132,7.2,93322,116.63
+2830,"King Cobra","Crime,Drama","Justin Kelly",2016,91,5.6,3990,0.03
+2831,"After Earth","Action,Adventure,Sci-Fi","M. Night Shyamalan",2013,100,4.9,166512,60.52
+2832,Kicks,Adventure,"Justin Tipping",2016,80,6.1,2417,0.15
+2833,"Me and Earl and the Dying Girl","Comedy,Drama","Alfonso Gomez-Rejon",2015,105,7.8,92076,6.74
+2834,"The Descendants","Comedy,Drama","Alexander Payne",2011,115,7.3,211348,82.62
+2835,"Sex and the City 2","Comedy,Drama,Romance","Michael Patrick King",2010,146,4.3,62403,95.33
+2836,"The Kings of Summer","Adventure,Comedy,Drama","Jordan Vogt-Roberts",2013,95,7.2,65653,1.29
+2837,"Death Race","Action,Sci-Fi,Thriller","Paul W.S. Anderson",2008,105,6.4,173731,36.06
+2838,"That Awkward Moment","Comedy,Romance","Tom Gormican",2014,94,6.2,81823,26.05
+2839,Legion,"Action,Fantasy,Horror","Scott Stewart",2010,100,5.2,84158,40.17
+2840,"End of Watch","Crime,Drama,Thriller","David Ayer",2012,109,7.7,192190,40.98
+2841,"3 Days to Kill","Action,Drama,Thriller",McG,2014,117,6.2,73567,30.69
+2842,"Lucky Number Slevin","Crime,Drama,Mystery","Paul McGuigan",2006,110,7.8,271940,22.49
+2843,Trance,"Crime,Drama,Mystery","Danny Boyle",2013,101,7,97141,2.32
+2844,"Into the Forest","Drama,Sci-Fi,Thriller","Patricia Rozema",2015,101,5.9,10220,0.01
+2845,"The Other Boleyn Girl","Biography,Drama,History","Justin Chadwick",2008,115,6.7,88260,26.81
+2846,"I Spit on Your Grave","Crime,Horror,Thriller","Steven R. Monroe",2010,108,6.3,60133,0.09
+2847,"The Walk","Adventure,Biography,Crime","Robert Zemeckis",2015,123,7.3,92378,10.14
+2848,"The Lone Ranger","Action,Adventure,Western","Gore Verbinski",2013,150,6.5,190855,89.29
+2849,"Texas Chainsaw 3D","Horror,Thriller","John Luessenhop",2013,92,4.8,37060,34.33
+2850,Disturbia,"Drama,Mystery,Thriller","D.J. Caruso",2007,105,6.9,193491,80.05
+2851,"Rock of Ages","Comedy,Drama,Musical","Adam Shankman",2012,123,5.9,64513,38.51
+2852,"Scream 4","Horror,Mystery","Wes Craven",2011,111,6.2,108544,38.18
+2853,"Queen of Katwe","Biography,Drama,Sport","Mira Nair",2016,124,7.4,6753,8.81
+2854,"My Big Fat Greek Wedding 2","Comedy,Family,Romance","Kirk Jones",2016,94,6,20966,59.57
+2855,"The Skin I Live In","Drama,Thriller","Pedro Almodóvar",2011,120,7.6,108772,3.19
+2856,"Miracles from Heaven","Biography,Drama,Family","Patricia Riggen",2016,109,7,12048,61.69
+2857,Annie,"Comedy,Drama,Family","Will Gluck",2014,118,5.3,27312,85.91
+2858,"Across the Universe","Drama,Fantasy,Musical","Julie Taymor",2007,133,7.4,95172,24.34
+2859,"Let's Be Cops",Comedy,"Luke Greenfield",2014,104,6.5,112729,82.39
+2860,Max,"Adventure,Family","Boaz Yakin",2015,111,6.8,21405,42.65
+2861,"Your Highness","Adventure,Comedy,Fantasy","David Gordon Green",2011,102,5.6,87904,21.56
+2862,"Final Destination 5","Horror,Thriller","Steven Quale",2011,92,5.9,88000,42.58
+2863,"Endless Love","Drama,Romance","Shana Feste",2014,104,6.3,33688,23.39
+2864,Selma,"Biography,Drama,History","Ava DuVernay",2014,128,7.5,67637,52.07
+2865,"Underworld: Rise of the Lycans","Action,Adventure,Fantasy","Patrick Tatopoulos",2009,92,6.6,129708,45.8
+2866,"Taare Zameen Par","Drama,Family,Music","Aamir Khan",2007,165,8.5,102697,1.2
+2867,"Take Me Home Tonight","Comedy,Drama,Romance","Michael Dowse",2011,97,6.3,45419,6.92
+2868,"Resident Evil: Afterlife","Action,Adventure,Horror","Paul W.S. Anderson",2010,97,5.9,140900,60.13
+2869,"Project X",Comedy,"Nima Nourizadeh",2012,88,6.7,164088,54.72
+2870,"Hostel: Part II",Horror,"Eli Roth",2007,94,5.5,73152,17.54
+2871,"Step Up 2: The Streets","Drama,Music,Romance","Jon M. Chu",2008,98,6.2,70699,58.01
+2872,"Nine Lives","Comedy,Family,Fantasy","Barry Sonnenfeld",2016,87,5.3,12435,19.64
+2873,Iratta,"Triller,Suspense","Rohit M.G. Krishnan",2023,111,7.7,6800,25000000
