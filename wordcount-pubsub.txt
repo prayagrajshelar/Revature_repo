@@ -1,0 +1,76 @@
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to gifted-dreamer-457109-a8.
+Use `gcloud config set project [PROJECT_ID]` to change to a different project.
+prayagraj_shelar@cloudshell:~ (gifted-dreamer-457109-a8)$ gcloud pubsub subscriptions pull wordcount-sub --auto-ack --limit=10
+ERROR: (gcloud.pubsub.subscriptions.pull) NOT_FOUND: Resource not found (resource=wordcount-sub). This command is authenticated as prayagraj.shelar@gmail.com which is the active account specified by the [core/account] property.
+prayagraj_shelar@cloudshell:~ (gifted-dreamer-457109-a8)$ gcloud pubsub subscriptions pull wordCount-sub --auto-ack --limit=10
+DATA: halter: 1
+MESSAGE_ID: 14553265118988703
+ORDERING_KEY: 
+ATTRIBUTES: 
+DELIVERY_ATTEMPT: 
+ACK_STATUS: SUCCESS
+
+DATA: Approach: 1
+MESSAGE_ID: 14553265118988704
+ORDERING_KEY: 
+ATTRIBUTES: 
+DELIVERY_ATTEMPT: 
+ACK_STATUS: SUCCESS
+
+DATA: laid: 1
+MESSAGE_ID: 14553265118988705
+ORDERING_KEY: 
+ATTRIBUTES: 
+DELIVERY_ATTEMPT: 
+ACK_STATUS: SUCCESS
+
+DATA: bootless: 1
+MESSAGE_ID: 14553265118988706
+ORDERING_KEY: 
+ATTRIBUTES: 
+DELIVERY_ATTEMPT: 
+ACK_STATUS: SUCCESS
+
+DATA: swallows: 1
+MESSAGE_ID: 14553265118988707
+ORDERING_KEY: 
+ATTRIBUTES: 
+DELIVERY_ATTEMPT: 
+ACK_STATUS: SUCCESS
+
+DATA: determine: 2
+MESSAGE_ID: 14553265118988708
+ORDERING_KEY: 
+ATTRIBUTES: 
+DELIVERY_ATTEMPT: 
+ACK_STATUS: SUCCESS
+
+DATA: nature's: 1
+MESSAGE_ID: 14553265118988709
+ORDERING_KEY: 
+ATTRIBUTES: 
+DELIVERY_ATTEMPT: 
+ACK_STATUS: SUCCESS
+
+DATA: poorest: 2
+MESSAGE_ID: 14553265118988710
+ORDERING_KEY: 
+ATTRIBUTES: 
+DELIVERY_ATTEMPT: 
+ACK_STATUS: SUCCESS
+
+DATA: Be: 16
+MESSAGE_ID: 14553265118988711
+ORDERING_KEY: 
+ATTRIBUTES: 
+DELIVERY_ATTEMPT: 
+ACK_STATUS: SUCCESS
+
+DATA: said: 7
+MESSAGE_ID: 14553265118988712
+ORDERING_KEY: 
+ATTRIBUTES: 
+DELIVERY_ATTEMPT: 
+ACK_STATUS: SUCCESS
+prayagraj_shelar@cloudshell:~ (gifted-dreamer-457109-a8)$ 
