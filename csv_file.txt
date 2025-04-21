@@ -1,0 +1,1098 @@
+Microsoft Windows [Version 10.0.19045.5737]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Prayagraj>spark-shell
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Spark context Web UI available at http://DESKTOP-NUPP3R1.mshome.net:4040
+Spark context available as 'sc' (master = local[*], app id = local-1745229483836).
+Spark session available as 'spark'.
+Welcome to
+      ____              __
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /___/ .__/\_,_/_/ /_/\_\   version 3.4.4
+      /_/
+
+Using Scala version 2.12.17 (Java HotSpot(TM) 64-Bit Server VM, Java 1.8.0_202)
+Type in expressions to have them evaluated.
+Type :help for more information.
+
+scala> val x = sc.textFile("C:/Users/Prayagraj/Desktop/data.txt");
+x: org.apache.spark.rdd.RDD[String] = C:/Users/Prayagraj/Desktop/data.txt MapPartitionsRDD[1] at textFile at <console>:23
+
+scala> val y = x.map(_.toUpperCase)
+y: org.apache.spark.rdd.RDD[String] = MapPartitionsRDD[2] at map at <console>:23
+
+scala> y.take(5).foreach(println)
+INDIA
+CHINA
+US
+AFRICA
+ANTARCTICA
+
+scala> y.foreach(println)
+INDIA
+CHINA
+US
+INDIA
+CHINA
+AFRICA
+INDIA
+ANTARCTICA
+CHINA
+CHINA
+
+scala> val rddFromFile = spark.sparkContext.textFile("C:/Users/Prayagraj/Desktop/Revature/datasets/people1.csv")
+rddFromFile: org.apache.spark.rdd.RDD[String] = C:/Users/Prayagraj/Desktop/Revature/datasets/people1.csv MapPartitionsRDD[4] at textFile at <console>:22
+
+scala> val rdd = rddFromFile.map(f=>{
+     |     f.split(",")
+     |   })
+rdd: org.apache.spark.rdd.RDD[Array[String]] = MapPartitionsRDD[5] at map at <console>:23
+
+scala> rdd.foreach(f=>{
+     | )
+<console>:2: error: illegal start of statement
+       )
+       ^
+
+scala> rdd.foreach(f=>{
+     | println("Col1:"+f(0)+",Col2:"+f(1),Col3:"+f(2)+",Col4:"+f(3),Col5:"+f(4))
+<console>:2: error: identifier expected but string literal found.
+       println("Col1:"+f(0)+",Col2:"+f(1),Col3:"+f(2)+",Col4:"+f(3),Col5:"+f(4))
+                                               ^
+
+scala> rdd.foreach(f=>{
+     | println("Col1:"+f(0)+",Col2:"+f(1),Col3:"+f(2)+",Col4:"+f(3),Col5:"+f(4))
+<console>:2: error: identifier expected but string literal found.
+       println("Col1:"+f(0)+",Col2:"+f(1),Col3:"+f(2)+",Col4:"+f(3),Col5:"+f(4))
+                                               ^
+
+scala> rdd.foreach(f=>{
+     | println("Col1:"+f(0)+",Col2:"+f(1),Col3:"+f(2)+",Col4:"+f(3),Col5:"+f(4))})
+<console>:2: error: identifier expected but string literal found.
+       println("Col1:"+f(0)+",Col2:"+f(1),Col3:"+f(2)+",Col4:"+f(3),Col5:"+f(4))})
+                                               ^
+<console>:2: error: ')' expected but '}' found.
+       println("Col1:"+f(0)+",Col2:"+f(1),Col3:"+f(2)+",Col4:"+f(3),Col5:"+f(4))})
+                                                                                ^
+
+scala> rdd.foreach(f=>{
+     | println("Col1:"+f(0)+",Col2:"+f(1),Col3:"+f(2)+",Col4:"+f(3),Col5:"+f(4))
+<console>:2: error: identifier expected but string literal found.
+       println("Col1:"+f(0)+",Col2:"+f(1),Col3:"+f(2)+",Col4:"+f(3),Col5:"+f(4))
+                                               ^
+
+scala> rdd.foreach(f=>{
+     | println("Col1:"+f(0)+",Col2:"+f(1))
+     | })
+Col1:ID,Col2:Name
+Col1:251,Col2:Alyssa Mercado
+Col1:252,Col2:Joshua Nguyen
+Col1:1,Col2:Jasmine Hebert
+Col1:253,Col2:Heather Patel
+Col1:254,Col2:Trevor Carroll
+Col1:2,Col2:Natasha Cruz
+Col1:255,Col2:Lisa Johnson
+Col1:256,Col2:Linda Jackson
+Col1:3,Col2:Angela Costa
+Col1:257,Col2:Johnny Simmons
+Col1:258,Col2:Michael Bell
+Col1:4,Col2:Timothy Adkins
+Col1:259,Col2:Jonathan Diaz
+Col1:5,Col2:Nicole Wilcox
+Col1:260,Col2:Michael Hoffman
+Col1:6,Col2:Miranda Holmes
+Col1:261,Col2:James Johnson
+Col1:7,Col2:Jonathan Moreno
+Col1:8,Col2:Tracy Wilson
+Col1:262,Col2:Christopher Ramos
+Col1:263,Col2:Jennifer Jones
+Col1:9,Col2:Tanner Fleming
+Col1:10,Col2:Cory Riley
+Col1:264,Col2:Donald Raymond
+Col1:265,Col2:Brian Page
+Col1:11,Col2:John Barajas
+Col1:266,Col2:Mrs. Brandy King
+Col1:267,Col2:Roger Gray
+Col1:12,Col2:Carrie Estes
+Col1:268,Col2:Bridget Adams
+Col1:13,Col2:Stephen Brown
+Col1:269,Col2:Hannah Stanley
+Col1:14,Col2:Lisa Gibbs
+Col1:270,Col2:Mckenzie Barrera
+Col1:15,Col2:Mark Gates
+Col1:271,Col2:Aaron Lang
+Col1:16,Col2:Kelly Fowler
+Col1:17,Col2:Tonya Thompson
+Col1:272,Col2:Donna Estrada
+Col1:18,Col2:Ryan Riley
+Col1:273,Col2:Matthew Lane
+Col1:19,Col2:Alexandria Carr
+Col1:20,Col2:Elizabeth Johnson
+Col1:274,Col2:Amy Jones
+Col1:21,Col2:Arthur Wilson
+Col1:275,Col2:Tracey Bridges
+Col1:22,Col2:Ashley Garcia
+Col1:276,Col2:Amanda Franco
+Col1:23,Col2:Sydney Davila
+Col1:277,Col2:Richard Allen
+Col1:24,Col2:Beth Taylor
+Col1:278,Col2:Edward Espinoza
+Col1:25,Col2:Jodi Thomas
+Col1:279,Col2:Lindsey Hill
+Col1:26,Col2:Robert Avila
+Col1:280,Col2:Dr. Stanley Holmes
+Col1:27,Col2:Aaron Long
+Col1:281,Col2:Robert Beasley
+Col1:28,Col2:Patricia Jones
+Col1:282,Col2:Derek Miller
+Col1:283,Col2:David Torres
+Col1:29,Col2:Chelsey Davis
+Col1:30,Col2:Kenneth Jefferson
+Col1:284,Col2:Charles Fuller
+Col1:31,Col2:Christopher Patterson
+Col1:285,Col2:Ashley Holland
+Col1:32,Col2:Andrew Mora
+Col1:286,Col2:Mary Ray
+Col1:33,Col2:Matthew Barnes
+Col1:287,Col2:Elizabeth Garcia
+Col1:288,Col2:Sean Nicholson
+Col1:34,Col2:Rebecca Brown
+Col1:289,Col2:John Campbell
+Col1:35,Col2:Richard Lawrence
+Col1:36,Col2:Christopher Pena
+Col1:290,Col2:Elizabeth Wright
+Col1:37,Col2:Caitlyn Rodriguez
+Col1:291,Col2:Kari Horne
+Col1:38,Col2:Tamara Lindsey
+Col1:292,Col2:Nicole Buck
+Col1:39,Col2:Stephen Moss
+Col1:293,Col2:Ashley Brown
+Col1:40,Col2:Jason Shaffer
+Col1:294,Col2:William Sanders
+Col1:41,Col2:Luis Day
+Col1:42,Col2:Donna Turner
+Col1:295,Col2:Reginald Jones
+Col1:43,Col2:Kevin Moss
+Col1:296,Col2:Jordan Stewart
+Col1:44,Col2:Ryan Saunders
+Col1:45,Col2:William Park
+Col1:297,Col2:Curtis Clarke
+Col1:46,Col2:Stephen Davis
+Col1:298,Col2:Tara Benjamin
+Col1:47,Col2:Daniel Schmitt
+Col1:48,Col2:Angela Martin
+Col1:49,Col2:Crystal Hernandez
+Col1:299,Col2:Chase Sanchez
+Col1:50,Col2:Yolanda Baker
+Col1:300,Col2:Kenneth Thornton
+Col1:301,Col2:Stephen Chavez
+Col1:51,Col2:Lydia Scott
+Col1:302,Col2:Megan Jones
+Col1:303,Col2:Jennifer Manning
+Col1:304,Col2:Donald Bradley
+Col1:52,Col2:Justin Murphy
+Col1:53,Col2:Kenneth Ferguson
+Col1:305,Col2:Hunter Yang
+Col1:54,Col2:Mr. Victor Cooper
+Col1:55,Col2:Allen Vaughn
+Col1:306,Col2:Donna Lewis
+Col1:56,Col2:Joe Lawrence
+Col1:57,Col2:Stephen Wilson
+Col1:307,Col2:Ronald Diaz
+Col1:58,Col2:Amy Allen
+Col1:308,Col2:Steven Smith
+Col1:59,Col2:Maria Turner
+Col1:309,Col2:Scott Newton
+Col1:60,Col2:Ronald Garcia
+Col1:310,Col2:Melanie Hendricks
+Col1:61,Col2:Matthew Mcbride
+Col1:311,Col2:Kelly Martin
+Col1:62,Col2:Jeremiah Winters
+Col1:312,Col2:Timothy Anderson
+Col1:63,Col2:Alex Weaver
+Col1:313,Col2:Joshua Morrison
+Col1:64,Col2:Victor Gordon
+Col1:314,Col2:Eric Jones
+Col1:65,Col2:Taylor Good
+Col1:315,Col2:Maria Gray
+Col1:316,Col2:Tyler Espinoza
+Col1:66,Col2:Donna Lewis
+Col1:317,Col2:James Roth
+Col1:67,Col2:Lisa Love
+Col1:318,Col2:David Moore
+Col1:68,Col2:Matthew Kelly
+Col1:319,Col2:Brandy Morse
+Col1:69,Col2:Kim Bean
+Col1:320,Col2:Mary Lloyd
+Col1:70,Col2:Matthew Garcia
+Col1:321,Col2:Nichole Ashley
+Col1:71,Col2:Billy Graham
+Col1:322,Col2:Amanda Copeland
+Col1:72,Col2:Shelley Padilla
+Col1:323,Col2:Darius Mullins
+Col1:73,Col2:Leah Mitchell
+Col1:324,Col2:Kathryn Powell
+Col1:74,Col2:Margaret Williams
+Col1:325,Col2:Paul Smith MD
+Col1:75,Col2:Rose Brandt
+Col1:326,Col2:Barbara Brown
+Col1:76,Col2:Bradley Russell
+Col1:327,Col2:Jonathan Williams
+Col1:77,Col2:Jose Hart
+Col1:328,Col2:Stacey Bullock
+Col1:78,Col2:Megan Rogers
+Col1:329,Col2:Megan Smith MD
+Col1:79,Col2:Natalie Roth
+Col1:330,Col2:Holly Guzman
+Col1:80,Col2:Randall Obrien
+Col1:331,Col2:James Lam
+Col1:81,Col2:Diamond Williamson
+Col1:332,Col2:Mr. Frank George
+Col1:82,Col2:Carrie Cunningham
+Col1:333,Col2:Cristina Strickland
+Col1:83,Col2:Cody Green
+Col1:334,Col2:Kathryn Harris
+Col1:84,Col2:Lisa Orr
+Col1:335,Col2:Phillip Woods
+Col1:85,Col2:Eric Moyer
+Col1:336,Col2:Hannah Jones
+Col1:86,Col2:Tyler Pruitt
+Col1:337,Col2:Zoe Padilla
+Col1:87,Col2:Tracy Garcia
+Col1:338,Col2:Linda Ewing
+Col1:88,Col2:Desiree Martinez
+Col1:339,Col2:Natalie Zamora
+Col1:89,Col2:John Daniels
+Col1:340,Col2:Mary Li
+Col1:90,Col2:Cynthia Tran
+Col1:341,Col2:Lauren Bell
+Col1:91,Col2:David Jacobs
+Col1:342,Col2:Adam Davis
+Col1:92,Col2:Dr. Jeremy Anderson
+Col1:343,Col2:Nicole Reilly
+Col1:93,Col2:Andrea Fuentes
+Col1:344,Col2:Ashley Garcia
+Col1:94,Col2:Jenna Hubbard
+Col1:345,Col2:Cynthia Duncan
+Col1:95,Col2:Jeremy Burns
+Col1:346,Col2:David Coleman
+Col1:96,Col2:Danielle Cannon
+Col1:347,Col2:Cynthia Sanchez
+Col1:97,Col2:Meghan Ramos
+Col1:348,Col2:Cassandra Brooks
+Col1:98,Col2:Joan Jackson
+Col1:349,Col2:Joseph Gay
+Col1:99,Col2:Jessica Collins
+Col1:350,Col2:Donna Johnson
+Col1:100,Col2:Ms. Sarah Martinez
+Col1:351,Col2:Kelly Lopez
+Col1:101,Col2:Colleen Davis
+Col1:352,Col2:Michael Crawford
+Col1:102,Col2:Robert Solomon
+Col1:353,Col2:Kimberly Steele
+Col1:103,Col2:Laura Ortiz
+Col1:354,Col2:Larry Gaines
+Col1:104,Col2:Michael Mendoza
+Col1:355,Col2:Jessica Williams
+Col1:105,Col2:Ashlee Hammond
+Col1:356,Col2:Richard Hall
+Col1:106,Col2:William Blankenship
+Col1:357,Col2:Dr. Donald Davis
+Col1:358,Col2:Stephanie Johnson
+Col1:107,Col2:Jennifer Johnson
+Col1:359,Col2:Dawn Hart
+Col1:108,Col2:Kimberly Stone
+Col1:360,Col2:Kathleen Cook
+Col1:109,Col2:Mark Wright
+Col1:361,Col2:Darin Sullivan
+Col1:110,Col2:Martin Thornton
+Col1:362,Col2:Cheryl King
+Col1:111,Col2:Connor Smith
+Col1:363,Col2:Jane Kennedy
+Col1:112,Col2:Mr. Christopher Carter
+Col1:364,Col2:Olivia Brown
+Col1:113,Col2:Jimmy Patel
+Col1:365,Col2:Patrick Frey
+Col1:114,Col2:Raymond Taylor
+Col1:366,Col2:Elizabeth Smith
+Col1:115,Col2:David Stevens
+Col1:367,Col2:Felicia Johnson
+Col1:116,Col2:Joanna Small
+Col1:368,Col2:Kathleen Baker
+Col1:117,Col2:Valerie Schmidt
+Col1:369,Col2:Brady Cooper
+Col1:118,Col2:Scott Novak
+Col1:370,Col2:Gerald Stevens
+Col1:119,Col2:Stephanie Jones
+Col1:371,Col2:Anna Glass
+Col1:120,Col2:Jake Wright
+Col1:372,Col2:Katrina Camacho
+Col1:121,Col2:Mr. Patrick Thornton IV
+Col1:122,Col2:Stephen Barnes
+Col1:373,Col2:Jonathan Johns MD
+Col1:123,Col2:Cory Castillo
+Col1:124,Col2:Kathy Miller
+Col1:374,Col2:Morgan Lopez
+Col1:125,Col2:Wesley Ross
+Col1:126,Col2:Holly Johnson
+Col1:375,Col2:Dustin Colon
+Col1:127,Col2:Brianna Payne
+Col1:376,Col2:Stephanie Barnes
+Col1:128,Col2:Jacob Downs
+Col1:377,Col2:Laura Murillo
+Col1:129,Col2:Mark Russell
+Col1:378,Col2:Elizabeth Smith
+Col1:130,Col2:Alexis Thompson
+Col1:379,Col2:William Rush
+Col1:131,Col2:Justin Montgomery
+Col1:380,Col2:Mark Wallace
+Col1:132,Col2:Gina Walker
+Col1:381,Col2:Dustin Fernandez
+Col1:133,Col2:Nancy Golden
+Col1:382,Col2:Douglas Morales
+Col1:134,Col2:Steven Steele
+Col1:383,Col2:Ryan Roman
+Col1:135,Col2:Mary Joyce
+Col1:384,Col2:Jay Santana
+Col1:136,Col2:Danielle Phillips
+Col1:385,Col2:Mr. Justin Jackson
+Col1:137,Col2:Jeffrey Martin
+Col1:386,Col2:Mark Eaton
+Col1:387,Col2:Scott Brown
+Col1:138,Col2:Matthew Mccann
+Col1:388,Col2:Ralph Green
+Col1:139,Col2:Julie Peterson
+Col1:389,Col2:Patricia Williams
+Col1:140,Col2:Beverly Hall
+Col1:390,Col2:Isaac Miller
+Col1:141,Col2:Nicholas Lopez
+Col1:391,Col2:Steven Callahan
+Col1:142,Col2:Jennifer Smith
+Col1:392,Col2:Brian Huang
+Col1:143,Col2:Derrick Evans
+Col1:393,Col2:Sheri Good
+Col1:144,Col2:Julia Cooper
+Col1:394,Col2:Andrew Page
+Col1:145,Col2:April Obrien
+Col1:395,Col2:James Buchanan
+Col1:146,Col2:Alice Carter
+Col1:396,Col2:Megan Butler
+Col1:147,Col2:Rebecca Reed
+Col1:397,Col2:Rebecca Williams
+Col1:148,Col2:Denise Best
+Col1:398,Col2:Chelsey Allen
+Col1:149,Col2:Gregory Anderson
+Col1:399,Col2:Christopher Macias
+Col1:150,Col2:Christian Santiago
+Col1:400,Col2:John Livingston
+Col1:151,Col2:Shane Parks
+Col1:401,Col2:Rachel Hill
+Col1:152,Col2:Scott Davila
+Col1:402,Col2:Raymond Simmons MD
+Col1:403,Col2:Amy Andrews
+Col1:153,Col2:Jody Pope
+Col1:404,Col2:Joshua Rivas
+Col1:154,Col2:Nicholas Bradshaw
+Col1:405,Col2:Maria Figueroa
+Col1:155,Col2:Jared Baker
+Col1:406,Col2:Jo Reed
+Col1:156,Col2:Timothy Hogan
+Col1:407,Col2:Penny Hernandez
+Col1:157,Col2:Joyce Floyd
+Col1:408,Col2:Justin Ho
+Col1:158,Col2:Matthew Jackson
+Col1:409,Col2:Laura Nelson
+Col1:159,Col2:Michael Morgan
+Col1:410,Col2:Caitlin Howard
+Col1:160,Col2:James Gonzalez
+Col1:411,Col2:Blake Terry
+Col1:161,Col2:John Ball
+Col1:412,Col2:Janice Jensen
+Col1:162,Col2:Juan Barker
+Col1:413,Col2:Katelyn Parker
+Col1:163,Col2:James Taylor
+Col1:414,Col2:Bradley Barnes
+Col1:164,Col2:Margaret Preston
+Col1:415,Col2:Emily Roberts
+Col1:165,Col2:James Gardner
+Col1:416,Col2:Garrett Hanson
+Col1:166,Col2:Michelle Mitchell
+Col1:417,Col2:Barbara Williams
+Col1:167,Col2:Michael Hayes
+Col1:418,Col2:Jill Taylor
+Col1:168,Col2:Frank Shepard
+Col1:419,Col2:Jennifer Pennington
+Col1:169,Col2:Rachel Huang
+Col1:170,Col2:Nathan Pittman
+Col1:420,Col2:Victoria West
+Col1:171,Col2:Joseph Allen
+Col1:421,Col2:Tyler Murphy
+Col1:172,Col2:Austin Owens
+Col1:422,Col2:Corey Hall
+Col1:173,Col2:Debra Vega
+Col1:423,Col2:Betty Whitney
+Col1:174,Col2:Martin Jimenez
+Col1:424,Col2:Julie Ibarra
+Col1:175,Col2:Brandon Green
+Col1:425,Col2:Kristen Mcconnell
+Col1:176,Col2:Rebecca Moore PhD
+Col1:426,Col2:Andrew Rivera
+Col1:177,Col2:Sarah Gonzales
+Col1:427,Col2:Rachael Bryant
+Col1:178,Col2:April Obrien
+Col1:428,Col2:Rachel Harris
+Col1:179,Col2:Karen Adams
+Col1:429,Col2:Lawrence Johnson
+Col1:180,Col2:Jeff Saunders
+Col1:430,Col2:Mark Williams
+Col1:181,Col2:Daniel Monroe
+Col1:431,Col2:John Cox
+Col1:182,Col2:Tara Davis
+Col1:432,Col2:Bridget Friedman
+Col1:183,Col2:Heidi Marquez
+Col1:433,Col2:Dana Waller
+Col1:184,Col2:Brenda Brown
+Col1:434,Col2:Karen Watts
+Col1:435,Col2:Mary Scott
+Col1:185,Col2:Justin Myers                                          (0 + 2) / 2]
+Col1:436,Col2:Barbara Lindsey
+Col1:437,Col2:Jacqueline Coleman
+Col1:186,Col2:Matthew Miller
+Col1:438,Col2:Dustin Watson
+Col1:187,Col2:Joseph Miles
+Col1:439,Col2:Margaret Coleman
+Col1:440,Col2:Mary Reid
+Col1:188,Col2:Melissa Walker
+Col1:441,Col2:Nicholas Taylor
+Col1:189,Col2:Kelly Branch
+Col1:442,Col2:Ashlee Fowler
+Col1:190,Col2:Megan Rivera
+Col1:443,Col2:Kenneth Perkins
+Col1:191,Col2:Jermaine Miller
+Col1:444,Col2:Sarah Watson
+Col1:192,Col2:Denise Foster
+Col1:445,Col2:Kristen Adams
+Col1:193,Col2:Carol Williams
+Col1:446,Col2:Emily Smith
+Col1:194,Col2:Cynthia Anderson
+Col1:447,Col2:Pamela Charles
+Col1:195,Col2:Katherine Phillips
+Col1:448,Col2:Ian Grimes
+Col1:196,Col2:William Ellison
+Col1:449,Col2:Tanya Flowers
+Col1:197,Col2:Samantha Riggs
+Col1:450,Col2:Jordan Peters
+Col1:198,Col2:Gavin Wilson
+Col1:451,Col2:James Lloyd
+Col1:199,Col2:Joseph Roberson
+Col1:452,Col2:Mr. Donald Silva
+Col1:453,Col2:Brittany Rodriguez
+Col1:200,Col2:Stephanie Hernandez
+Col1:454,Col2:Timothy Webster
+Col1:201,Col2:Nicole Long
+Col1:202,Col2:Nancy Benson
+Col1:455,Col2:Henry Stone
+Col1:456,Col2:Matthew Rojas
+Col1:203,Col2:Janice Matthews
+Col1:457,Col2:Diana Castro
+Col1:204,Col2:Charles Thompson
+Col1:458,Col2:Lucas Levine
+Col1:205,Col2:Jonathan Ramirez
+Col1:459,Col2:Shannon Jones
+Col1:206,Col2:Holly Foster
+Col1:207,Col2:Mike Hunter PhD
+Col1:460,Col2:Jennifer Cervantes
+Col1:208,Col2:Kelly Cannon
+Col1:461,Col2:Ricardo Brown
+Col1:209,Col2:Anita Marshall
+Col1:462,Col2:William Sanders
+Col1:210,Col2:Lisa Wilson
+Col1:463,Col2:Joshua Garcia
+Col1:211,Col2:Gabriel Nelson
+Col1:464,Col2:Scott Ramos
+Col1:212,Col2:Leslie Mills
+Col1:465,Col2:Oscar Jones
+Col1:213,Col2:Joshua Rodriguez
+Col1:466,Col2:Carlos Holt
+Col1:214,Col2:John Payne MD
+Col1:215,Col2:Janice Wilcox
+Col1:467,Col2:Tracey Hall
+Col1:216,Col2:Cheryl Douglas
+Col1:468,Col2:Steve Moore
+Col1:217,Col2:Allison Burke
+Col1:469,Col2:Emily Martinez
+Col1:218,Col2:Robert Davis
+Col1:470,Col2:Amanda Blair
+Col1:219,Col2:Denise Huynh
+Col1:220,Col2:Rebecca Winters
+Col1:471,Col2:Rhonda Ruiz
+Col1:221,Col2:Derek Maldonado
+Col1:472,Col2:Alex Bell
+Col1:222,Col2:James Jones
+Col1:473,Col2:Keith Rodriguez
+Col1:223,Col2:William Wright
+Col1:474,Col2:Curtis Martin
+Col1:224,Col2:Zoe Mullen
+Col1:475,Col2:Dillon Wilson
+Col1:225,Col2:Timothy Martinez
+Col1:476,Col2:Carrie David
+Col1:226,Col2:Vanessa Bass
+Col1:477,Col2:Courtney Patel
+Col1:227,Col2:Maria Jimenez
+Col1:478,Col2:James Bishop
+Col1:228,Col2:Dr. Eric Ingram
+Col1:479,Col2:Olivia Wilson
+Col1:229,Col2:Cesar Henry
+Col1:230,Col2:Michael Wiley
+Col1:480,Col2:Amy Schneider
+Col1:231,Col2:Anita Jensen MD
+Col1:481,Col2:Zachary Robinson
+Col1:232,Col2:Ashley Hamilton
+Col1:482,Col2:Eric Webb
+Col1:233,Col2:Richard Bryan
+Col1:483,Col2:Gabriella Dougherty
+Col1:234,Col2:Courtney Martin
+Col1:484,Col2:David Ramos
+Col1:235,Col2:Bryan Rivas
+Col1:485,Col2:Rebecca Alvarez
+Col1:236,Col2:Ryan Mitchell
+Col1:486,Col2:Tyrone Walker
+Col1:237,Col2:Amanda Mercado
+Col1:487,Col2:Theresa Reed
+Col1:238,Col2:Antonio Campbell
+Col1:488,Col2:Paul Lee
+Col1:239,Col2:Anna Brown
+Col1:489,Col2:Catherine Brown
+Col1:240,Col2:Theresa Lucero
+Col1:490,Col2:Taylor Blackburn
+Col1:241,Col2:Nicholas Owens
+Col1:491,Col2:Paige Mitchell
+Col1:242,Col2:Jessica Thompson
+Col1:492,Col2:Brendan Pollard
+Col1:243,Col2:Christopher Hodges
+Col1:244,Col2:Benjamin Watson
+Col1:493,Col2:Ashley Allen
+Col1:245,Col2:Robert Robinson
+Col1:494,Col2:Ashley Melendez
+Col1:246,Col2:Robert Anderson
+Col1:495,Col2:Joshua Martin
+Col1:247,Col2:Debra Quinn
+Col1:496,Col2:John Harris
+Col1:248,Col2:Julie Scott
+Col1:497,Col2:Dr. Melissa Graham
+Col1:249,Col2:Miguel Reyes
+Col1:498,Col2:Lauren Kelly
+Col1:250,Col2:David Powers
+Col1:499,Col2:Natalie Adams
+
+scala> val rdd3 = spark.sparkContext.textFile("C:/Users/Prayagraj/Desktop/Revature/datasets/people1.csv")
+rdd3: org.apache.spark.rdd.RDD[String] = C:/Users/Prayagraj/Desktop/Revature/datasets/people1.csv MapPartitionsRDD[7] at textFile at <console>:22
+
+scala> rdd3.foreach(f=>{
+     |   println(f)
+     | })
+ID,Name,Age,City,Email
+251,Alyssa Mercado,45,Patrickfort,sandra98@example.net
+252,Joshua Nguyen,58,Scottland,johnnygray@example.org
+1,Jasmine Hebert,46,New Ianborough,garciachristian@example.net
+2,Natasha Cruz,22,Rothstad,zspencer@example.org
+253,Heather Patel,59,New Rossmouth,nelsonlaurie@example.com
+3,Angela Costa,31,West Michaelhaven,williamsrobert@example.net
+4,Timothy Adkins,21,Comptonchester,fredericktodd@example.com
+254,Trevor Carroll,41,Hansonchester,frank94@example.net
+255,Lisa Johnson,23,East Melissatown,madison40@example.net
+5,Nicole Wilcox,54,New Seanview,jacqueline59@example.org
+256,Linda Jackson,40,Daniellehaven,downscurtis@example.org
+6,Miranda Holmes,56,Lake David,norma12@example.org
+257,Johnny Simmons,21,South Soniaside,marissamann@example.org
+7,Jonathan Moreno,60,Christinachester,rodriguezcrystal@example.org
+258,Michael Bell,25,Port Rhonda,christopher08@example.org
+8,Tracy Wilson,42,Richardview,johnsonpamela@example.com
+259,Jonathan Diaz,22,South Steven,joshuajones@example.org
+9,Tanner Fleming,23,Elizabethfurt,wtaylor@example.com
+10,Cory Riley,46,Scottstad,lharris@example.com
+260,Michael Hoffman,56,South Courtneyhaven,yolanda78@example.org
+11,John Barajas,25,East Krista,alexiswilson@example.org
+261,James Johnson,38,Hannahberg,ylara@example.org
+12,Carrie Estes,49,Port Kristinbury,christy21@example.net
+13,Stephen Brown,30,Acostaview,ashley19@example.net
+262,Christopher Ramos,41,North Deannaview,glovercharles@example.net
+14,Lisa Gibbs,36,East Robertland,michael65@example.org
+263,Jennifer Jones,50,Lake Catherine,brettsmith@example.com
+15,Mark Gates,49,Ryanshire,arthur28@example.net
+264,Donald Raymond,48,West Douglastown,jasmine39@example.org
+265,Brian Page,55,Maryshire,luke08@example.org
+16,Kelly Fowler,34,Port Monique,ryan17@example.org
+17,Tonya Thompson,29,South Michaelborough,robin21@example.org
+266,Mrs. Brandy King,41,West Breanna,katelynallen@example.org
+18,Ryan Riley,41,West Nancyhaven,ross22@example.net
+267,Roger Gray,53,West Lori,kenneth94@example.com
+19,Alexandria Carr,42,Rojasmouth,victoriahale@example.com
+20,Elizabeth Johnson,44,Gutierrezborough,ibryan@example.com
+268,Bridget Adams,42,South Kayla,martinezkaren@example.com
+21,Arthur Wilson,38,New Steven,faithkirby@example.org
+269,Hannah Stanley,56,North Kevinport,michelewalton@example.net
+22,Ashley Garcia,45,Andrewport,jalvarez@example.org
+270,Mckenzie Barrera,32,Melanieland,julie06@example.com
+271,Aaron Lang,36,Lake Christopherside,rodriguezjose@example.org
+23,Sydney Davila,59,Port Williamstad,lterry@example.net
+272,Donna Estrada,35,West Vanessafort,adamsjoshua@example.org
+273,Matthew Lane,43,Yangfort,owilcox@example.com
+24,Beth Taylor,56,East Jennaland,erin68@example.org
+274,Amy Jones,58,Lake Michele,fnelson@example.net
+25,Jodi Thomas,49,Samanthaland,darrell79@example.com
+275,Tracey Bridges,50,Millerview,davidphillips@example.org
+26,Robert Avila,48,Loriborough,nunezcrystal@example.net
+276,Amanda Franco,44,New Carriehaven,christina63@example.com
+277,Richard Allen,36,Raymondhaven,jessicaorozco@example.com
+27,Aaron Long,40,South Kristinamouth,dunlapgregory@example.org
+278,Edward Espinoza,51,Scottchester,smithkelly@example.com
+28,Patricia Jones,44,Delgadoberg,tracey75@example.net
+29,Chelsey Davis,57,Terrystad,lori58@example.com
+279,Lindsey Hill,47,Ashleyberg,deborah98@example.net
+30,Kenneth Jefferson,44,New Stephaniechester,anthony43@example.com
+31,Christopher Patterson,55,Randyton,tcox@example.com
+280,Dr. Stanley Holmes,36,Ellenstad,heatherweber@example.net
+32,Andrew Mora,55,East Jerry,adrianjames@example.org
+281,Robert Beasley,37,Chavezport,stephaniesmall@example.net
+33,Matthew Barnes,38,Davidchester,stephanie78@example.org
+282,Derek Miller,51,Carrollton,mcarpenter@example.com
+283,David Torres,51,Reginashire,kennethgilbert@example.org
+34,Rebecca Brown,48,Port Michaelmouth,moorejessica@example.org
+284,Charles Fuller,55,North Michelle,karen81@example.org
+35,Richard Lawrence,36,Megantown,dennisibarra@example.net
+285,Ashley Holland,42,East Kristin,ortizkyle@example.com
+36,Christopher Pena,43,East Carrie,josecunningham@example.net
+286,Mary Ray,51,East Shirley,angelica80@example.net
+37,Caitlyn Rodriguez,22,Brandonview,alyssaward@example.com
+38,Tamara Lindsey,20,South Michelefort,thomas43@example.org
+287,Elizabeth Garcia,29,West Benjamin,carolyn26@example.net
+39,Stephen Moss,26,Smithbury,gillespiegarrett@example.net
+288,Sean Nicholson,47,Port Eric,sarahallen@example.com
+40,Jason Shaffer,58,Reedberg,stacy79@example.net
+289,John Campbell,49,Lisafort,kara09@example.net
+290,Elizabeth Wright,47,Kristenland,eric33@example.net
+41,Luis Day,49,West Jefferymouth,andrea67@example.net
+42,Donna Turner,42,Port Gregoryborough,mccarthylinda@example.com
+291,Kari Horne,60,West Steven,wtran@example.net
+43,Kevin Moss,38,Lake Jenniferside,mitchellthomas@example.org
+292,Nicole Buck,24,Johnland,ycabrera@example.org
+44,Ryan Saunders,34,Port Joshua,wrightdiana@example.com
+293,Ashley Brown,31,West Kimberly,lgrimes@example.org
+45,William Park,45,North Stevenmouth,alisonrivas@example.org
+294,William Sanders,54,Jonesmouth,aguirrekelli@example.com
+46,Stephen Davis,50,Grahammouth,erinmartinez@example.com
+295,Reginald Jones,22,West Kimberly,wayne50@example.org
+47,Daniel Schmitt,27,Christopherberg,sanchezkelly@example.com
+296,Jordan Stewart,32,West Jochester,lmiller@example.com
+48,Angela Martin,49,West Josephmouth,psmith@example.com
+49,Crystal Hernandez,38,Whiteshire,oyoung@example.com
+297,Curtis Clarke,38,North Melindaland,rmartinez@example.org
+50,Yolanda Baker,44,New Kristimouth,montgomeryzoe@example.org
+298,Tara Benjamin,25,West Kenneth,ashley70@example.com
+51,Lydia Scott,28,North Brent,halljennifer@example.com
+299,Chase Sanchez,49,Melissatown,michellejones@example.com
+52,Justin Murphy,48,South Lori,whitekatrina@example.org
+300,Kenneth Thornton,38,Youngville,jamescastillo@example.org
+53,Kenneth Ferguson,38,South Susan,robert04@example.org
+301,Stephen Chavez,54,Williamsonfurt,katherine45@example.org
+302,Megan Jones,31,Proctorview,wilcoxamber@example.net
+303,Jennifer Manning,36,Wellsberg,kristina36@example.net
+54,Mr. Victor Cooper,40,Amandashire,elizabeth59@example.org
+304,Donald Bradley,55,North Kenneth,wellstimothy@example.com
+55,Allen Vaughn,46,West Nicholas,lowerycharles@example.net
+305,Hunter Yang,20,Lake Taylorberg,bautistarobert@example.org
+56,Joe Lawrence,51,East Rodneyfort,allenjoan@example.org
+306,Donna Lewis,42,New Patricia,yeseniasweeney@example.net
+57,Stephen Wilson,30,Dylanville,crosbybilly@example.net
+307,Ronald Diaz,60,Stuartside,nicholascarter@example.org
+58,Amy Allen,25,Foxhaven,tdaniel@example.org
+59,Maria Turner,52,Juliefurt,whitejohn@example.org
+308,Steven Smith,52,South George,antonio76@example.org
+60,Ronald Garcia,36,Johnsonburgh,chapmanmike@example.com
+309,Scott Newton,37,Port Jennifer,christopherharris@example.com
+61,Matthew Mcbride,34,Rodriguezhaven,yvonnerangel@example.com
+62,Jeremiah Winters,58,Carlosfurt,marciagriffin@example.com
+310,Melanie Hendricks,24,Smithville,jamesterri@example.net
+63,Alex Weaver,31,Leemouth,kennethbruce@example.com
+64,Victor Gordon,34,Biancaport,cruzjason@example.net
+311,Kelly Martin,26,South Tracy,daniel71@example.net
+65,Taylor Good,51,Chandlermouth,riverasamantha@example.org
+312,Timothy Anderson,35,New Kelseyton,zarias@example.net
+66,Donna Lewis,57,New Andrewland,robertmcguire@example.net
+313,Joshua Morrison,52,Johnsonville,sean69@example.net
+67,Lisa Love,37,Edwardview,mbarnett@example.org
+314,Eric Jones,58,North Michelle,romerospencer@example.net
+68,Matthew Kelly,27,East Andrewhaven,sheltonjeremiah@example.com
+315,Maria Gray,25,Hancockton,phillipsdakota@example.org
+69,Kim Bean,41,New Melissa,kristahale@example.net
+316,Tyler Espinoza,39,New Morgan,zdennis@example.org
+70,Matthew Garcia,32,North Micheleport,leroyscott@example.net
+317,James Roth,32,New Heathershire,sandersbradley@example.org
+71,Billy Graham,28,Penningtonport,pamela06@example.com
+318,David Moore,31,New Shelbymouth,frederick21@example.org
+319,Brandy Morse,36,Lake Anthony,reynoldschad@example.com
+72,Shelley Padilla,23,Lake Lisa,pmullen@example.net
+320,Mary Lloyd,60,West Lauren,diazjoel@example.org
+73,Leah Mitchell,60,East Erica,brendapatton@example.org
+321,Nichole Ashley,25,Andersonside,claudiaboyd@example.net
+74,Margaret Williams,40,Wolfside,erika33@example.org
+322,Amanda Copeland,36,Lake Jonathonstad,gary31@example.org
+75,Rose Brandt,29,Shawland,sheilahale@example.net
+76,Bradley Russell,28,Langmouth,miranda19@example.net
+323,Darius Mullins,48,Andreafort,fnolan@example.org
+77,Jose Hart,22,Lake Carlos,xmiller@example.net
+78,Megan Rogers,40,Bensontown,zestrada@example.org
+324,Kathryn Powell,25,New Markchester,linda42@example.com
+79,Natalie Roth,31,Port Craig,xlane@example.net
+80,Randall Obrien,40,North Joseph,nkirk@example.com
+81,Diamond Williamson,49,North Tinatown,okelley@example.com
+325,Paul Smith MD,51,East Rachel,riversbrian@example.net
+82,Carrie Cunningham,37,South Yesenia,john35@example.org
+83,Cody Green,42,Port Joseph,vdavis@example.org
+326,Barbara Brown,39,Solomonmouth,uolson@example.org
+84,Lisa Orr,47,North John,brett90@example.org
+327,Jonathan Williams,56,West Davidville,mcguirekeith@example.net
+85,Eric Moyer,22,East Julia,xclark@example.com
+328,Stacey Bullock,47,North Nicole,bergersamantha@example.com
+329,Megan Smith MD,38,Lake Lisa,lrodriguez@example.net
+86,Tyler Pruitt,50,North Lisa,lynnjackson@example.org
+330,Holly Guzman,24,Leslieland,benjamin41@example.com
+87,Tracy Garcia,31,South Brianfurt,fbell@example.com
+331,James Lam,39,Port Amybury,sarahmaynard@example.org
+88,Desiree Martinez,21,Rileyborough,james26@example.net
+332,Mr. Frank George,40,Priscillaburgh,gabrielhenderson@example.org
+89,John Daniels,25,Port Henry,danielle22@example.org
+333,Cristina Strickland,36,Turnerhaven,jessica18@example.com
+90,Cynthia Tran,30,North Alexandriaport,palmerrobert@example.org
+334,Kathryn Harris,29,Alexanderhaven,feliciavalencia@example.com
+91,David Jacobs,46,North Andrewtown,keyryan@example.net
+335,Phillip Woods,25,Josephside,ocoleman@example.net
+336,Hannah Jones,29,Lake Nicholasmouth,gregory62@example.org
+92,Dr. Jeremy Anderson,27,New Keithview,brenda09@example.com
+337,Zoe Padilla,46,East Joshuafort,jeffery58@example.net
+93,Andrea Fuentes,34,Watkinsmouth,melissa36@example.org
+338,Linda Ewing,26,Garciaview,sanderson@example.org
+94,Jenna Hubbard,20,New Carly,huntmark@example.net
+339,Natalie Zamora,34,North Nathanbury,luisjones@example.net
+95,Jeremy Burns,49,North Jimmyview,heather84@example.com
+340,Mary Li,56,Nicolemouth,scottjordan@example.org
+96,Danielle Cannon,23,Port Steven,dickersonfelicia@example.org
+341,Lauren Bell,60,Lake James,meyerjason@example.com
+97,Meghan Ramos,49,New Kevinchester,brennanelizabeth@example.com
+342,Adam Davis,52,South Randy,nlee@example.org
+98,Joan Jackson,24,South Sydneyberg,daniellejackson@example.net
+343,Nicole Reilly,25,Wrightshire,xolsen@example.com
+99,Jessica Collins,50,South Luischester,melissaanderson@example.org
+344,Ashley Garcia,57,New Jeffreyshire,jesse05@example.net
+100,Ms. Sarah Martinez,46,Taylorton,bfuentes@example.org
+345,Cynthia Duncan,22,West Jasonmouth,anna77@example.net
+101,Colleen Davis,32,Heathstad,hamiltonroberto@example.org
+102,Robert Solomon,33,Sharichester,marshalllydia@example.com
+346,David Coleman,27,Robertton,fsmith@example.net
+347,Cynthia Sanchez,26,Austinville,batesthomas@example.net
+103,Laura Ortiz,52,South Joshuaport,torresanthony@example.net
+348,Cassandra Brooks,33,Barnesville,bryanscott@example.net
+104,Michael Mendoza,55,North Monicaville,omyers@example.com
+349,Joseph Gay,41,Sandovalview,christopherross@example.org
+105,Ashlee Hammond,49,Markville,tarahardy@example.org
+106,William Blankenship,22,North Sarahbury,jeremygregory@example.org
+350,Donna Johnson,57,Catherineshire,dayers@example.org
+107,Jennifer Johnson,60,Lake Rachel,mariaanderson@example.com
+351,Kelly Lopez,52,North Michael,millersharon@example.net
+108,Kimberly Stone,52,East Scottfurt,mtucker@example.com
+352,Michael Crawford,31,West David,dmiller@example.com
+109,Mark Wright,29,Gregoryton,dholland@example.net
+353,Kimberly Steele,22,Bowersland,newtonscott@example.net
+110,Martin Thornton,35,New Joshuabury,mary91@example.org
+111,Connor Smith,37,East Terri,johnhumphrey@example.net
+354,Larry Gaines,56,Robertburgh,loretta78@example.net
+112,Mr. Christopher Carter,59,Port Kellyborough,jon86@example.org
+355,Jessica Williams,27,North Yvonne,abrown@example.org
+113,Jimmy Patel,38,Myersland,jayjohnson@example.com
+356,Richard Hall,28,Waltonside,harperbrenda@example.com
+114,Raymond Taylor,27,North Michaelberg,yzuniga@example.org
+357,Dr. Donald Davis,58,Dianeside,baldwinchristopher@example.com
+115,David Stevens,54,Mooreburgh,dlyons@example.org
+358,Stephanie Johnson,26,Denisefurt,ryanlogan@example.com
+116,Joanna Small,57,Lake Pamela,bellison@example.org
+359,Dawn Hart,55,East Markburgh,douglasamy@example.net
+117,Valerie Schmidt,55,Lisamouth,angelica35@example.com
+118,Scott Novak,28,Johnburgh,carrie59@example.net
+119,Stephanie Jones,58,Harpermouth,jennifer63@example.org
+360,Kathleen Cook,40,Lake Jacob,morrisjessica@example.org
+120,Jake Wright,36,East Josephton,wandalevine@example.com
+361,Darin Sullivan,46,Gutierrezfurt,jason51@example.net
+121,Mr. Patrick Thornton IV,50,East Brianmouth,tperez@example.net
+362,Cheryl King,35,Garciaport,normanday@example.org
+122,Stephen Barnes,32,Griffithville,ericacharles@example.org
+363,Jane Kennedy,34,Jennifershire,lewisjennifer@example.com
+123,Cory Castillo,45,Port Jameston,dawn88@example.net
+364,Olivia Brown,56,Morganfort,lewisemily@example.net
+124,Kathy Miller,57,Port Jennifer,vicki73@example.org
+125,Wesley Ross,32,Nelsonside,burkekathryn@example.com
+365,Patrick Frey,47,New David,diamond79@example.com
+126,Holly Johnson,51,Rebeccamouth,collinsjoseph@example.org
+366,Elizabeth Smith,46,South Adamtown,zlester@example.org
+127,Brianna Payne,45,Isaiahborough,john18@example.org
+367,Felicia Johnson,34,Biancashire,bryanbeasley@example.net
+128,Jacob Downs,46,South Robert,william55@example.net
+368,Kathleen Baker,49,Lake Edwardside,megan94@example.net
+369,Brady Cooper,45,Staffordmouth,pfox@example.com
+129,Mark Russell,25,Fergusonshire,nataliewilliams@example.net
+370,Gerald Stevens,31,East Ronaldland,daniel03@example.net
+371,Anna Glass,33,Lake Mary,slewis@example.com
+130,Alexis Thompson,43,Port Jamesberg,webbderek@example.com
+372,Katrina Camacho,29,Jenkinsborough,jsmith@example.org
+131,Justin Montgomery,30,Chrisbury,wrightjennifer@example.net
+373,Jonathan Johns MD,60,Lake Christopher,leroywalker@example.org
+132,Gina Walker,40,Sethview,pgarcia@example.org
+374,Morgan Lopez,47,New David,jameskelly@example.net
+133,Nancy Golden,54,Monicaburgh,nicole66@example.com
+375,Dustin Colon,55,Sellersfort,medinalaura@example.net
+134,Steven Steele,56,Shirleychester,poolestephen@example.org
+376,Stephanie Barnes,48,Katiehaven,edward98@example.com
+135,Mary Joyce,31,Martinezshire,scottcindy@example.com
+136,Danielle Phillips,34,Baileyborough,fieldsmichelle@example.com
+377,Laura Murillo,53,Lake Mallory,karawalton@example.org
+137,Jeffrey Martin,36,North Veronica,stephaniemooney@example.net
+378,Elizabeth Smith,43,West Matthewberg,qhernandez@example.com
+138,Matthew Mccann,57,North Kendrabury,julia22@example.net
+379,William Rush,36,Steventown,hickstracy@example.org
+139,Julie Peterson,33,Xavierbury,robert92@example.com
+380,Mark Wallace,22,Kevinfort,qthompson@example.org
+140,Beverly Hall,44,Grahamfort,atkinsonleslie@example.com
+381,Dustin Fernandez,45,Lake Richard,lyonsmichael@example.org
+141,Nicholas Lopez,54,Bishopburgh,dustin37@example.com
+382,Douglas Morales,26,Susanshire,diazjames@example.org
+383,Ryan Roman,27,New Sarah,bhutchinson@example.net
+142,Jennifer Smith,28,North Michael,dustinhodge@example.net
+384,Jay Santana,41,Lake Margaretstad,lmiller@example.com
+143,Derrick Evans,29,South Christophershire,tprice@example.net
+144,Julia Cooper,56,Port Tammychester,thomaschristine@example.org
+385,Mr. Justin Jackson,59,Phillipsmouth,melissa32@example.com
+145,April Obrien,34,New Charles,stacy02@example.com
+146,Alice Carter,49,Boyerbury,jlee@example.com
+386,Mark Eaton,56,Ortegaton,timothyespinoza@example.com
+147,Rebecca Reed,52,South Erintown,susandavis@example.net
+387,Scott Brown,22,Port Christinatown,paul08@example.net
+148,Denise Best,52,Annettechester,melissa04@example.net
+388,Ralph Green,40,Jasonberg,brian62@example.com
+149,Gregory Anderson,52,Farmerberg,riveracynthia@example.com
+389,Patricia Williams,24,New Joseph,williampatel@example.org
+150,Christian Santiago,33,Marialand,katherine43@example.org
+390,Isaac Miller,57,South Josephstad,danielleharris@example.net
+151,Shane Parks,25,Jacquelineside,hsummers@example.com
+391,Steven Callahan,50,Gregton,james60@example.net
+152,Scott Davila,44,West Jessica,zacharyguerrero@example.net
+153,Jody Pope,53,Rodriguezchester,thomas49@example.net
+392,Brian Huang,49,Swansonburgh,davistaylor@example.net
+154,Nicholas Bradshaw,27,North Davidview,maria73@example.org
+393,Sheri Good,58,Starkberg,aprilwyatt@example.net
+155,Jared Baker,43,Aguirreland,tmason@example.com
+394,Andrew Page,41,Shawnchester,brettsimpson@example.com
+156,Timothy Hogan,41,Averyborough,debrachambers@example.com
+395,James Buchanan,42,Port Ian,tsullivan@example.org
+157,Joyce Floyd,60,Melanieville,brittany81@example.net
+396,Megan Butler,56,Lake Masonbury,bbutler@example.com
+158,Matthew Jackson,23,Lake Amyville,peterrocha@example.net
+397,Rebecca Williams,47,New Amanda,kellybrittany@example.com
+159,Michael Morgan,56,South Amandafurt,robert38@example.net
+398,Chelsey Allen,59,Pamside,ymiller@example.net
+160,James Gonzalez,28,Tiffanyport,banksjohn@example.org
+399,Christopher Macias,34,Alvarezmouth,sheltonsherri@example.com
+161,John Ball,60,East Paulburgh,christian57@example.org
+400,John Livingston,21,Ramseymouth,efuentes@example.net
+162,Juan Barker,30,Leroyville,brentperez@example.com
+401,Rachel Hill,28,Lake Aaron,jonathan80@example.com
+163,James Taylor,54,West Bryce,benjamindaniel@example.org
+402,Raymond Simmons MD,25,Priceborough,parkerjonathan@example.com
+164,Margaret Preston,22,Rodriguezmouth,lisa20@example.org
+403,Amy Andrews,54,Michelleport,ctapia@example.com
+404,Joshua Rivas,38,South Loritown,adamreed@example.com
+165,James Gardner,52,Lake Brooke,garrettmelissa@example.com
+405,Maria Figueroa,55,Lake Tylerside,brian83@example.org
+166,Michelle Mitchell,20,Port Jennifertown,browningjohn@example.net
+406,Jo Reed,47,Griffinhaven,christian35@example.org
+167,Michael Hayes,55,Mayport,armstrongkimberly@example.net
+407,Penny Hernandez,29,Brianburgh,jasonjohnson@example.org
+168,Frank Shepard,44,Larryview,gmorris@example.net
+408,Justin Ho,22,North Vanessafurt,daniellelucas@example.net
+169,Rachel Huang,21,Michaelamouth,watsonshawn@example.com
+409,Laura Nelson,38,West Richard,sblack@example.org
+170,Nathan Pittman,57,West Michaelview,aford@example.org
+410,Caitlin Howard,58,Johnberg,taylorjon@example.org
+171,Joseph Allen,22,East Danielbury,stacyroberts@example.net
+411,Blake Terry,59,Amychester,acruz@example.org
+412,Janice Jensen,20,West Gregoryside,ggonzalez@example.com
+172,Austin Owens,22,New Jonathan,williamsmark@example.net
+173,Debra Vega,29,Brennanton,forddavid@example.com
+174,Martin Jimenez,41,Lake Richard,kbrown@example.com
+413,Katelyn Parker,43,New Dana,kimdaniel@example.com
+175,Brandon Green,43,Melissafort,jeffery91@example.net
+414,Bradley Barnes,50,New Christine,iwolfe@example.com
+176,Rebecca Moore PhD,40,West Leslie,wellsroy@example.org
+415,Emily Roberts,35,South Kelsey,tommyparrish@example.org
+416,Garrett Hanson,45,Crystalberg,christine15@example.com
+177,Sarah Gonzales,42,Taylorfurt,hudsonkimberly@example.net
+417,Barbara Williams,23,Palmermouth,sally27@example.org
+178,April Obrien,25,South Jonathan,scott58@example.com
+418,Jill Taylor,47,South Kristin,david58@example.com
+179,Karen Adams,22,Traviston,daniel40@example.com
+419,Jennifer Pennington,39,Leonardton,daniel52@example.com
+180,Jeff Saunders,33,Dawnberg,framirez@example.net
+420,Victoria West,54,Joshuaville,wmiller@example.org
+181,Daniel Monroe,58,South Keith,xhudson@example.com
+421,Tyler Murphy,57,Morganberg,stewartchristina@example.net
+182,Tara Davis,36,South Daltonburgh,velasquezkelly@example.org
+422,Corey Hall,42,Desireehaven,robertboyd@example.com
+423,Betty Whitney,42,Jonesburgh,etorres@example.net
+183,Heidi Marquez,59,Jacksonborough,mannkaren@example.org
+424,Julie Ibarra,35,Lake Christinatown,thudson@example.net
+425,Kristen Mcconnell,41,Lake Williamside,vstanley@example.com
+184,Brenda Brown,37,Rickyport,ebonydiaz@example.org
+426,Andrew Rivera,28,Port Brandonshire,tonyawilliams@example.org
+185,Justin Myers,49,South Cindy,petersonjohn@example.net
+427,Rachael Bryant,42,Cummingsberg,christina44@example.net
+186,Matthew Miller,44,Jonesburgh,johnsontravis@example.com
+428,Rachel Harris,48,West Julie,hryan@example.org
+187,Joseph Miles,32,West Juanburgh,potteralicia@example.com
+429,Lawrence Johnson,47,Beckertown,pbrown@example.com
+430,Mark Williams,20,Port Davidland,bcastillo@example.org
+188,Melissa Walker,54,Rachelland,carlos83@example.com
+431,John Cox,30,Heatherbury,connie57@example.net
+432,Bridget Friedman,26,South Patrick,murphyalan@example.org
+189,Kelly Branch,56,Mariaborough,daychristopher@example.net
+433,Dana Waller,28,East Maryfort,vargaslisa@example.com
+190,Megan Rivera,56,Walshfort,samuel53@example.com
+434,Karen Watts,60,Dunlapport,ycooke@example.net
+191,Jermaine Miller,22,North Kristenville,johnwood@example.org
+435,Mary Scott,21,Davidberg,jwiggins@example.net
+192,Denise Foster,42,Brittanyborough,higginslaura@example.com
+436,Barbara Lindsey,51,Brianfurt,allenkirby@example.org
+193,Carol Williams,21,Danielsfurt,kylehess@example.org
+437,Jacqueline Coleman,29,New Joelmouth,browncharlene@example.com
+194,Cynthia Anderson,38,Thomasberg,changjoshua@example.com
+438,Dustin Watson,39,North Carlton,nelsonbrittany@example.com
+195,Katherine Phillips,43,Rachelville,tanya47@example.org
+439,Margaret Coleman,41,East Jeffreyborough,lmartin@example.net
+196,William Ellison,23,Johnnyville,angela37@example.com
+440,Mary Reid,44,Hinesburgh,mathisjeffrey@example.com
+197,Samantha Riggs,24,South Keith,abigaildavis@example.com
+198,Gavin Wilson,32,Wilsonmouth,cynthiaortega@example.org
+441,Nicholas Taylor,57,Smithbury,danielle74@example.org
+199,Joseph Roberson,20,Christopherfort,courtneycochran@example.com
+200,Stephanie Hernandez,31,Lake Joelland,matthewsgregory@example.net
+442,Ashlee Fowler,58,West Heatherland,johnstonronald@example.org
+443,Kenneth Perkins,36,Meganberg,tracy55@example.net
+201,Nicole Long,23,Aprilberg,valenciazachary@example.org
+202,Nancy Benson,38,New Lisahaven,gtaylor@example.com
+444,Sarah Watson,53,New Brittanyview,harrisgrant@example.net
+203,Janice Matthews,48,South Cynthiaville,michaelkhan@example.com
+204,Charles Thompson,23,West Shaunfort,obrienmason@example.net
+445,Kristen Adams,50,Denisetown,coxteresa@example.org
+446,Emily Smith,54,Lake Tammyfurt,rachel52@example.com
+205,Jonathan Ramirez,38,East Chad,hbauer@example.org
+447,Pamela Charles,41,Susanside,vmartin@example.com
+206,Holly Foster,54,Loriport,ian18@example.net
+448,Ian Grimes,52,Kaylaside,mhorn@example.com
+207,Mike Hunter PhD,45,Brownville,bishopjason@example.com
+449,Tanya Flowers,25,Lake Christopher,kaylatravis@example.com
+208,Kelly Cannon,38,East Matthew,lori31@example.com
+450,Jordan Peters,38,Lake Jamesville,larry29@example.net
+209,Anita Marshall,38,Lake Jamesside,jessica75@example.com
+451,James Lloyd,23,Odomton,angierichardson@example.com
+210,Lisa Wilson,25,Terrenceside,ddavis@example.com
+452,Mr. Donald Silva,24,North Emma,meredith84@example.net
+211,Gabriel Nelson,43,Lake Paige,amy26@example.org
+453,Brittany Rodriguez,38,New Pamela,misty00@example.net
+212,Leslie Mills,44,South Ronaldfurt,westbenjamin@example.org
+454,Timothy Webster,22,New Jeffery,brandonmoore@example.org
+213,Joshua Rodriguez,33,Blakeview,crystalsmith@example.com
+455,Henry Stone,37,Powersberg,uwilliams@example.com
+214,John Payne MD,51,Lindamouth,carlaustin@example.net
+215,Janice Wilcox,52,North Matthewhaven,ponceangela@example.org
+456,Matthew Rojas,58,Mckeeport,lynnrussell@example.com
+216,Cheryl Douglas,49,Johnsonburgh,tinasmith@example.org
+457,Diana Castro,42,New Anthonymouth,kwatson@example.net
+217,Allison Burke,60,Dianehaven,floreskenneth@example.com
+458,Lucas Levine,25,Williamsonburgh,clarkthomas@example.com
+218,Robert Davis,27,East Cindyport,shawnrowe@example.com
+219,Denise Huynh,39,East Billytown,yhunt@example.org
+220,Rebecca Winters,41,Smithstad,james47@example.net
+459,Shannon Jones,35,New Sarah,morganmorgan@example.net
+221,Derek Maldonado,41,Murphyville,stevenoneill@example.com
+460,Jennifer Cervantes,40,Wilkinsonbury,lucasburton@example.net
+222,James Jones,34,West Katherine,forbesrobin@example.net
+223,William Wright,33,West Kristenborough,james76@example.com
+224,Zoe Mullen,27,Tonyfort,george35@example.net
+225,Timothy Martinez,46,Chadmouth,melissajuarez@example.net
+461,Ricardo Brown,35,East Colton,george66@example.org
+226,Vanessa Bass,23,West Amandaburgh,gary20@example.org
+462,William Sanders,42,Ryanbury,xhoward@example.net
+227,Maria Jimenez,22,Lanestad,brownbrian@example.com
+463,Joshua Garcia,46,New Jenniferport,bconrad@example.org
+228,Dr. Eric Ingram,21,Nicoleville,reedpeter@example.org
+464,Scott Ramos,52,North Jeremy,wileybrent@example.org
+229,Cesar Henry,60,West William,oscarhardy@example.org
+465,Oscar Jones,47,Odonnellbury,charles28@example.org
+466,Carlos Holt,52,Susanmouth,ana64@example.org
+230,Michael Wiley,48,Nortonview,stephanie13@example.org
+467,Tracey Hall,56,Shanefort,garciaalexa@example.com
+468,Steve Moore,37,Reynoldsstad,hopkinsbrandy@example.com
+231,Anita Jensen MD,24,Lake Cody,walkerjulie@example.com
+469,Emily Martinez,26,South Bradley,gutierrezmatthew@example.com
+232,Ashley Hamilton,43,Nicholsonmouth,danielharris@example.net
+470,Amanda Blair,39,East Melissa,lisamoore@example.net
+233,Richard Bryan,34,Port Christophershire,walkercharles@example.net
+471,Rhonda Ruiz,49,Lake Alisonberg,lydia97@example.org
+234,Courtney Martin,32,South Rebeccaburgh,nbenjamin@example.com
+472,Alex Bell,51,South Denisefurt,perry53@example.net
+235,Bryan Rivas,25,New Monique,johnsonadam@example.net
+473,Keith Rodriguez,60,North Aliciaborough,darrenschneider@example.org
+236,Ryan Mitchell,60,Stephensville,aterry@example.net
+474,Curtis Martin,37,Jacksonview,kristenwalker@example.com
+237,Amanda Mercado,22,Burkechester,sarah32@example.org
+238,Antonio Campbell,50,Juarezmouth,alicevang@example.org
+475,Dillon Wilson,34,Martinezport,gillcynthia@example.net
+239,Anna Brown,25,Brianshire,melissahart@example.com
+476,Carrie David,28,Jeffreychester,simpsonmark@example.org
+240,Theresa Lucero,20,Lake Denisefurt,carlhall@example.com
+477,Courtney Patel,20,Port Patricia,caldwellangela@example.com
+241,Nicholas Owens,38,South Jerry,wbarnes@example.org
+242,Jessica Thompson,60,Brownburgh,hopkinsethan@example.org
+478,James Bishop,32,Port Stacie,williamskevin@example.org
+243,Christopher Hodges,33,Jodiville,crystal90@example.com
+479,Olivia Wilson,27,Amyfurt,dillongarcia@example.com
+244,Benjamin Watson,45,Juliebury,richardflynn@example.net
+480,Amy Schneider,44,Lake Nathan,cynthiawilliams@example.net
+245,Robert Robinson,53,Port Catherineport,katherine58@example.org
+481,Zachary Robinson,30,Toddstad,piercematthew@example.org
+246,Robert Anderson,57,New Josefort,sandra10@example.org
+482,Eric Webb,56,South Ashley,ythompson@example.org
+247,Debra Quinn,59,Lake Austin,dustin27@example.com
+483,Gabriella Dougherty,34,Lake Williamfort,diazjeremiah@example.org
+248,Julie Scott,41,New Ericside,hudsonscott@example.net
+484,David Ramos,57,Stacyfurt,ygonzalez@example.net
+249,Miguel Reyes,28,Alexanderfort,nicolefigueroa@example.net
+485,Rebecca Alvarez,39,North Alexander,fjones@example.org
+250,David Powers,31,Jamesborough,leemelissa@example.net
+486,Tyrone Walker,49,North Nicholasbury,monica26@example.net
+487,Theresa Reed,32,South Sarahmouth,sanderserika@example.org
+488,Paul Lee,23,Smithland,lopezwilliam@example.net
+489,Catherine Brown,53,Fitzpatricktown,kellyshelton@example.net
+490,Taylor Blackburn,49,Mcmillanmouth,juan21@example.com
+491,Paige Mitchell,20,New Stephanieport,joseph19@example.net
+492,Brendan Pollard,55,West Justin,jose79@example.org
+493,Ashley Allen,49,Hudsonland,bradleythompson@example.org
+494,Ashley Melendez,45,Port Sean,christianfuentes@example.org
+495,Joshua Martin,53,Port Kristina,millerfrank@example.com
+496,John Harris,44,Karenfurt,steventerry@example.org
+497,Dr. Melissa Graham,58,Colemanchester,maldonadoelizabeth@example.net
+498,Lauren Kelly,51,Lake Adammouth,alicia75@example.org
+499,Natalie Adams,50,East Robert,jpage@example.org
+
+scala>
