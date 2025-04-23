@@ -1,0 +1,37 @@
+Steps to Run PySpark Job on Google Cloud Dataproc
+
+1. Install Google Cloud SDK
+   - Download and install: https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
+   - Verify installation:
+     gcloud --version
+   - Initialize SDK:
+     gcloud init
+
+2. Create a New GCS Bucket
+   - Note: Bucket name must be globally unique.
+     Example:
+     gsutil mb gs://prayagraj-bucket/
+
+3. Upload Input Data File to GCS
+   - Upload to a folder suppose - upload-files
+     gsutil cp C:/Users/Prayagraj/Desktop/Revature/buckets/0_input.csv gs://prayagraj-bucket/upload-files/
+
+4. Upload Python Script File to GCS
+   - Upload your Spark job script to 'scripts' folder:
+     gsutil cp  C:/Users/Prayagraj/Desktop/Revature/buckets/0_process_csv.py gs://prayagraj-bucket/scripts/
+
+5. Create a New Dataproc Cluster
+   - Example command (single-node cluster):
+     gcloud dataproc clusters create revatue-cluster --region=us-central1 --zone=us-central1-a --single-node --master-machine-type=n1-standard-2 --image-version=2.0-debian10
+
+6. Submit PySpark Job to the Cluster
+   - Run the Python script uploaded in step 4:
+     gcloud dataproc jobs submit pyspark gs://prayagraj-bucket/scripts/0_process_csv.py --cluster=revature-cluster --region=us-central1
+
+7. Download the Output from GCS
+   - Example to copy processed output file:
+     gsutil cp -r gs://prayagraj-bucket/output/processed/part-00000-*.csv C:/
+
+8. Clean Up Resources
+   - Delete the cluster to avoid charges:
+     gcloud dataproc clusters delete revature-cluster --region=us-central1
