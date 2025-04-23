@@ -1,0 +1,45 @@
+Steps to Run PySpark Job on Google Cloud Dataproc
+--------------------------------------------------
+
+1. Install Google Cloud SDK
+   - Download and install httpsdl.google.comdlcloudsdkchannelsrapidGoogleCloudSDKInstaller.exe
+   - Verify installation
+     gcloud --version
+   - Initialize SDK
+     gcloud init
+
+2. Create a New GCS Bucket
+   - Note Bucket name must be globally unique.
+     Example
+     gsutil mb gsprayagraj-bucket
+
+3. Upload Input Data File to GCS
+   - Upload to a folder named 'injection'
+     gsutil cp CUsersPrayagrajDesktopRevaturebuckets0_input.csv gsprayagraj-bucketinjection
+
+4. Upload Python Script File to GCS
+   - Upload your Spark job script to 'scripts' folder
+     gsutil cp CUsersPrayagrajDesktopRevaturebuckets0_process_csv.py gsprayagraj-bucketscripts
+
+5. Create a New Dataproc Cluster
+   - Example command (single-node cluster)
+     gcloud dataproc clusters create training-cluster 
+       --region=us-central1 
+       --zone=us-central1-a 
+       --single-node 
+       --master-machine-type=n1-standard-2 
+       --image-version=2.0-debian10
+
+6. Submit PySpark Job to the Cluster
+   - Run the Python script uploaded in step 4
+     gcloud dataproc jobs submit pyspark gsprayagraj-bucketscripts0_process_csv.py 
+       --cluster=training-cluster 
+       --region=us-central1
+
+7. Download the Output from GCS
+   - Example to copy processed output file
+     gsutil cp -r gsprayagraj-bucketoutputprocessedpart-00000-.csv C
+
+8. Clean Up Resources
+   - Delete the cluster to avoid charges
+     gcloud dataproc clusters delete training-cluster --region=us-central1
