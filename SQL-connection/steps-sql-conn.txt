@@ -1,0 +1,35 @@
+Go to Google Cloud Console → SQL section.
+Click "Create Instance" → Choose SQL Server.
+Fill in details like:
+Instance ID
+Password for the default sqlserver user
+Region & Zone
+Database Version (e.g., SQL Server 2019 Express/Standard/Enterprise)
+Click Create and wait for it to complete.
+
+Open the created instance → Go to Connections tab.
+Under "Networking", click "Add Network".
+Enter a name like my-allowed-ip.
+In the IP field, enter:
+Your public IP address (from https://whatismyipaddress.com/)
+Or 0.0.0.0/0 temporarily to allow all (not secure in production).
+Click Done, then Save.
+
+Go to Instance Overview
+Copy the Public IP address shown there
+
+Open SSMS on your local machine.
+In the Connect to Server window:
+Server type: Database Engine
+Server name: <YOUR_INSTANCE_PUBLIC_IP>,1433
+(Use comma and port 1433 — default for SQL Server)
+Authentication: SQL Server Authentication
+Login: sqlserver
+Password: The one you set during instance creation
+Click Connect
+
+After connecting:
+CREATE DATABASE TestGCPDB;
+GO
+
+
