@@ -1,0 +1,31 @@
+CustId,Name,LastName,ProductId,City,Balance,IsActive,Pname,pcategory,pprice
+1,Alex,Green,1,New York,2500,true,Laptop,Electronics,1500
+2,Brian,Hill,2,Boston,1400,true,Phone,Electronics,800
+3,Carol,Kim,3,Seattle,3200,false,Tablet,Electronics,600
+4,Diane,Lee,4,Chicago,4100,true,Printer,Office,200
+5,Edward,Miller,5,Austin,2800,true,Monitor,Electronics,300
+6,Fiona,Nelson,1,Denver,1900,false,Laptop,Electronics,1500
+7,Grace,Owens,2,Miami,2200,true,Phone,Electronics,800
+8,Henry,Perez,3,Phoenix,3300,true,Tablet,Electronics,600
+9,Irene,Quinn,4,Houston,2700,true,Printer,Office,200
+10,Jack,Reed,5,Dallas,1800,false,Monitor,Electronics,300
+11,Kate,Stone,1,Orlando,2000,true,Laptop,Electronics,1500
+12,Luke,Tate,2,Atlanta,2500,true,Phone,Electronics,800
+13,Mary,Urban,3,Raleigh,3000,false,Tablet,Electronics,600
+14,Nick,Vega,4,Omaha,2600,true,Printer,Office,200
+15,Olivia,Ward,5,Tucson,2700,true,Monitor,Electronics,300
+16,Peter,Xian,1,Fresno,2400,true,Laptop,Electronics,1500
+17,Queen,York,2,Mesa,3100,true,Phone,Electronics,800
+18,Ryan,Zane,3,Reno,2950,false,Tablet,Electronics,600
+19,Steve,Adams,4,El Paso,2300,true,Printer,Office,200
+20,Tina,Brown,5,Wichita,2000,false,Monitor,Electronics,300
+21,Uma,Carter,1,Tulsa,1700,true,Laptop,Electronics,1500
+22,Victor,Diaz,2,Tampa,2600,true,Phone,Electronics,800
+23,Wendy,Ellis,3,Toledo,2200,true,Tablet,Electronics,600
+24,Xavier,Flynn,4,Anaheim,3400,false,Printer,Office,200
+25,Yolanda,Grant,5,Plano,2900,true,Monitor,Electronics,300
+26,Zack,Harris,1,Laredo,1850,true,Laptop,Electronics,1500
+27,Amy,Irwin,2,Durham,2550,true,Phone,Electronics,800
+28,Bruce,Jenkins,3,Garland,2700,true,Tablet,Electronics,600
+29,Cindy,Keller,4,Chandler,3300,false,Printer,Office,200
+30,Derek,Lewis,5,Madison,3450,true,Monitor,Electronics,300

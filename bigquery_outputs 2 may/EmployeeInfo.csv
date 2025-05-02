@@ -1,0 +1,21 @@
+EmpNo,EmpName,EmpDesignation,EmpSalary,EmpDeptNo,EmpIsPermenant
+101,John Doe,Manager,75000,10,TRUE
+102,Alice Smith,Developer,62000,20,TRUE
+103,Bob Brown,Tester,55000,10,FALSE
+104,Charlie Ray,Developer,63000,20,TRUE
+105,Dave Clark,Admin,48000,30,FALSE
+106,Emma Green,HR,50000,40,TRUE
+107,Fiona Black,Developer,60000,20,TRUE
+108,George White,Analyst,58000,10,FALSE
+109,Hannah Gray,Developer,61000,30,TRUE
+110,Ian King,Tester,56000,40,FALSE
+111,Jack Scott,Admin,49000,30,TRUE
+112,Kim Hall,Manager,70000,20,TRUE
+113,Liam Adams,HR,53000,10,FALSE
+114,Maya Lopez,Analyst,62000,20,TRUE
+115,Nora Patel,Developer,61000,40,FALSE
+116,Owen Young,Tester,55000,30,TRUE
+117,Paul Baker,Developer,60000,10,TRUE
+118,Queenie Cox,Admin,48000,30,FALSE
+119,Rick Davis,Analyst,57000,20,TRUE
+120,Sara Evans,HR,52000,40,TRUE

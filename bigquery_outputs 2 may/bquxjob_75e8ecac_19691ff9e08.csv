@@ -1,0 +1,21 @@
+EmpNo,EmpName,EmpDesignation,EmpSalary,EmpDeptNo,EmpIsPermenant,DeptName,DeptLocation
+113,Liam Adams,HR,53000,10,false,HR,New York
+103,Bob Brown,Tester,55000,10,false,HR,New York
+108,George White,Analyst,58000,10,false,HR,New York
+117,Paul Baker,Developer,60000,10,true,HR,New York
+101,John Doe,Manager,75000,10,true,HR,New York
+119,Rick Davis,Analyst,57000,20,true,IT,San Francisco
+107,Fiona Black,Developer,60000,20,true,IT,San Francisco
+102,Alice Smith,Developer,62000,20,true,IT,San Francisco
+114,Maya Lopez,Analyst,62000,20,true,IT,San Francisco
+104,Charlie Ray,Developer,63000,20,true,IT,San Francisco
+112,Kim Hall,Manager,70000,20,true,IT,San Francisco
+105,Dave Clark,Admin,48000,30,false,Admin,Dallas
+118,Queenie Cox,Admin,48000,30,false,Admin,Dallas
+111,Jack Scott,Admin,49000,30,true,Admin,Dallas
+116,Owen Young,Tester,55000,30,true,Admin,Dallas
+109,Hannah Gray,Developer,61000,30,true,Admin,Dallas
+106,Emma Green,HR,50000,40,true,Finance,Chicago
+120,Sara Evans,HR,52000,40,true,Finance,Chicago
+110,Ian King,Tester,56000,40,false,Finance,Chicago
+115,Nora Patel,Developer,61000,40,false,Finance,Chicago
