@@ -1,0 +1,11 @@
+1. Download sample json file on your desktop from 
+https://jsonplaceholder.typicode.com/comments
+ 
+2. We need to have a bigquery solution which will upload this file into a table under dataset
+ 
+3. We want to store the data into firestore as it no need to transform
+ 
+	perform this practical
+ 
+	All the best
+ 

@@ -1,0 +1,59 @@
+Visit: https://jsonplaceholder.typicode.com/comments
+
+
+Save as:
+comments.json
+Path: C:\Users\Prayagraj\Desktop\Revature\json\comments.json
+
+
+Convert JSON array to Newline-Delimited JSON (NDJSON)
+Create a file: convert.py:
+
+Run in terminal:
+cd C:\Users\Prayagraj\Desktop\Revature\json
+python convert_json.py
+
+
+Upload to BigQuery:
+From Console:
+Go to: BigQuery Console
+Select your project & dataset
+Click "Create Table"
+Source: Upload → Select comments_nd.json
+File format: JSON (newline-delimited)
+Schema: Auto-detect
+Click Create Table
+
+
+Enable Firestore:
+Visit: Firestore Setup
+Choose:
+Standard Edition
+Firestore Native
+Open Rules (temporary)
+Region: us-central1 or suitable
+Click Create Database
+Wait ~2–4 minutes (initial provisioning)
+
+
+2. Set Up Service Account for Firestore
+From GCP Console:
+Go to https://console.cloud.google.com/iam-admin/serviceaccounts
+Click Create Service Account
+Name: e.g., firestore-uploader
+Give it role:
+Cloud Datastore User
+After creation, click on it → Add Key → JSON → Download it.
+Save the file to:
+C:\Users\Prayagraj\Desktop\Revature\json\firestore_key.json
+
+
+
+Upload JSON to Firestore
+Create: upload_firestore.py (with logging)
+python upload_firestore.py
+
+
+
+chatgpt for reference(for any error): https://chatgpt.com/share/681b961b-0758-800b-95e4-efa64a687c11
+
