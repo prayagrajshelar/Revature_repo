@@ -1,0 +1,252 @@
+TransactionID,CustomerID,BranchName,City,TransactionType,Amount,Date,Status,FailureReason
+TXN19601,CUST8313,Adyar,Chennai,Deposit,45824.27,2025-01-17,Failed,Insufficient Funds
+TXN79827,CUST2227,Adyar,Chennai,Deposit,57070.78,2024-07-21,Failed,Technical Error
+TXN51511,CUST9733,Adyar,Chennai,Deposit,33703.69,2025-01-27,Failed,Limit Exceeded
+TXN87451,CUST6765,Andheri East,Mumbai,Deposit,66153.25,2024-11-04,Failed,Technical Error
+TXN98815,CUST6869,Andheri East,Mumbai,Deposit,34252.62,2024-07-26,Failed,Account Closed
+TXN74784,CUST8658,Andheri East,Mumbai,Deposit,88761.9,2024-08-22,Failed,Network Issue
+TXN28447,CUST8101,Andheri East,Mumbai,Deposit,78272.86,2025-04-23,Failed,Insufficient Funds
+TXN20751,CUST1591,Andheri East,Mumbai,Deposit,43587.4,2025-01-24,Failed,Account Closed
+TXN52017,CUST7815,Andheri East,Mumbai,Deposit,47536.44,2024-06-18,Failed,Account Closed
+TXN26711,CUST5662,Andheri East,Mumbai,Deposit,18328.99,2025-02-28,Failed,Insufficient Funds
+TXN15979,CUST9472,Andheri East,Mumbai,Deposit,97460.57,2024-12-12,Failed,Technical Error
+TXN79032,CUST3381,Andheri East,Mumbai,Deposit,13493.05,2024-05-22,Failed,Account Closed
+TXN22945,CUST3734,Anna Nagar,Chennai,Deposit,2388.81,2025-01-12,Failed,Limit Exceeded
+TXN51886,CUST7285,Anna Nagar,Chennai,Deposit,65776.12,2024-09-25,Failed,Network Issue
+TXN59102,CUST6276,Anna Nagar,Chennai,Deposit,55771.27,2024-05-28,Failed,Network Issue
+TXN44293,CUST6738,Anna Nagar,Chennai,Deposit,41736.08,2025-04-23,Failed,Network Issue
+TXN98581,CUST4113,Anna Nagar,Chennai,Deposit,45336.37,2025-03-22,Failed,Account Closed
+TXN32664,CUST2327,Bandra,Mumbai,Deposit,27589.14,2025-01-27,Failed,Insufficient Funds
+TXN18178,CUST5000,Bandra,Mumbai,Deposit,94346.19,2024-11-17,Failed,Network Issue
+TXN86091,CUST1109,Borivali,Mumbai,Deposit,93904.46,2025-02-13,Failed,Insufficient Funds
+TXN47943,CUST5167,Borivali,Mumbai,Deposit,81918.62,2024-09-10,Failed,Network Issue
+TXN53698,CUST9980,Borivali,Mumbai,Deposit,4897.88,2025-03-30,Failed,Technical Error
+TXN25143,CUST2461,Borivali,Mumbai,Deposit,96555.06,2024-12-25,Failed,Account Closed
+TXN25011,CUST1559,Borivali,Mumbai,Deposit,49131.69,2024-12-02,Failed,Account Closed
+TXN97264,CUST3878,Borivali,Mumbai,Deposit,13033.61,2025-02-04,Failed,Network Issue
+TXN74794,CUST2298,Borivali,Mumbai,Deposit,15166.73,2024-07-13,Failed,Insufficient Funds
+TXN24275,CUST9263,Dadar,Mumbai,Deposit,24593.19,2024-09-04,Failed,Limit Exceeded
+TXN65658,CUST8955,Dadar,Mumbai,Deposit,63361.6,2024-09-09,Failed,Account Closed
+TXN10304,CUST9774,Dadar,Mumbai,Deposit,44031.76,2024-05-11,Failed,Insufficient Funds
+TXN27970,CUST7639,Dadar,Mumbai,Deposit,35325.65,2025-02-27,Failed,Network Issue
+TXN15629,CUST6760,Fort,Mumbai,Deposit,29044.26,2024-10-13,Failed,Account Closed
+TXN99409,CUST9524,Fort,Mumbai,Deposit,30613.13,2024-09-03,Failed,Limit Exceeded
+TXN99095,CUST1738,Fort,Mumbai,Deposit,97680.89,2025-04-02,Failed,Limit Exceeded
+TXN74611,CUST6772,Fort,Mumbai,Deposit,10089.66,2024-11-30,Failed,Account Closed
+TXN72243,CUST9400,Fort,Mumbai,Deposit,33111.79,2024-07-14,Failed,Network Issue
+TXN59205,CUST7215,Fort,Mumbai,Deposit,99086.41,2024-12-13,Failed,Account Closed
+TXN18276,CUST9649,Indiranagar,Bangalore,Deposit,54430.22,2024-12-13,Failed,Insufficient Funds
+TXN26974,CUST6031,Indiranagar,Bangalore,Deposit,26770.36,2025-02-14,Failed,Insufficient Funds
+TXN22446,CUST5395,Indiranagar,Bangalore,Deposit,11671.19,2024-07-24,Failed,Limit Exceeded
+TXN38113,CUST9773,Indiranagar,Bangalore,Deposit,77080.06,2024-09-05,Failed,Account Closed
+TXN28286,CUST5670,Indiranagar,Bangalore,Deposit,28233.35,2024-06-30,Failed,Limit Exceeded
+TXN77587,CUST7313,Indiranagar,Bangalore,Deposit,58016.43,2025-02-06,Failed,Technical Error
+TXN65526,CUST3110,Indiranagar,Bangalore,Deposit,1806.84,2024-12-08,Failed,Limit Exceeded
+TXN74783,CUST8107,Indiranagar,Bangalore,Deposit,91409.25,2024-10-08,Failed,Technical Error
+TXN34409,CUST8103,Jayanagar,Bangalore,Deposit,144.77,2024-05-18,Failed,Insufficient Funds
+TXN14173,CUST6952,Jayanagar,Bangalore,Deposit,37108.46,2024-10-20,Failed,Technical Error
+TXN33508,CUST5660,Jayanagar,Bangalore,Deposit,19946.12,2024-07-16,Failed,Insufficient Funds
+TXN10210,CUST9390,Jayanagar,Bangalore,Deposit,11910.99,2025-04-18,Failed,Account Closed
+TXN76289,CUST1154,Jayanagar,Bangalore,Deposit,88670.68,2025-04-02,Failed,Account Closed
+TXN88219,CUST3530,Jayanagar,Bangalore,Deposit,70282.3,2024-10-07,Failed,Limit Exceeded
+TXN98672,CUST7587,Jayanagar,Bangalore,Deposit,25325.99,2024-06-27,Failed,Insufficient Funds
+TXN86861,CUST6398,Jayanagar,Bangalore,Deposit,1463.85,2024-12-03,Failed,Insufficient Funds
+TXN49383,CUST9618,Jayanagar,Bangalore,Deposit,14613.97,2024-10-17,Failed,Limit Exceeded
+TXN46452,CUST3967,Jayanagar,Bangalore,Deposit,72449.77,2024-08-25,Failed,Account Closed
+TXN47475,CUST8948,Jayanagar,Bangalore,Deposit,70461.7,2024-05-08,Failed,Limit Exceeded
+TXN45696,CUST9997,Koramangala,Bangalore,Deposit,86599.01,2025-04-13,Failed,Network Issue
+TXN30492,CUST7018,Koramangala,Bangalore,Deposit,46623.0,2025-01-27,Failed,Network Issue
+TXN33208,CUST3394,MG Road,Bangalore,Deposit,23894.27,2025-04-09,Failed,Technical Error
+TXN90833,CUST6569,MG Road,Bangalore,Deposit,19025.65,2024-06-30,Failed,Insufficient Funds
+TXN19344,CUST8894,MG Road,Bangalore,Deposit,18256.69,2024-07-29,Failed,Limit Exceeded
+TXN10968,CUST2298,MG Road,Bangalore,Deposit,22072.64,2024-07-05,Failed,Limit Exceeded
+TXN44764,CUST8089,MG Road,Bangalore,Deposit,62836.05,2024-09-12,Failed,Account Closed
+TXN94310,CUST3481,MG Road,Bangalore,Deposit,9741.21,2025-05-07,Failed,Network Issue
+TXN99312,CUST2941,Mylapore,Chennai,Deposit,12049.47,2024-07-06,Failed,Insufficient Funds
+TXN53505,CUST4842,Mylapore,Chennai,Deposit,75543.82,2025-02-28,Failed,Insufficient Funds
+TXN21923,CUST3046,Mylapore,Chennai,Deposit,27069.77,2025-03-19,Failed,Account Closed
+TXN24294,CUST3031,T Nagar,Chennai,Deposit,60220.81,2025-04-27,Failed,Account Closed
+TXN69492,CUST6535,T Nagar,Chennai,Deposit,98973.24,2024-06-16,Failed,Limit Exceeded
+TXN50670,CUST8951,T Nagar,Chennai,Deposit,94945.54,2025-02-28,Failed,Technical Error
+TXN87542,CUST9885,Velachery,Chennai,Deposit,76747.02,2025-02-23,Failed,Insufficient Funds
+TXN54837,CUST7091,Velachery,Chennai,Deposit,49850.64,2024-05-16,Failed,Network Issue
+TXN66119,CUST6152,Velachery,Chennai,Deposit,58718.9,2025-01-01,Failed,Limit Exceeded
+TXN43992,CUST7990,Velachery,Chennai,Deposit,95480.69,2024-06-23,Failed,Account Closed
+TXN49274,CUST9106,Velachery,Chennai,Deposit,54375.62,2025-04-13,Failed,Technical Error
+TXN52446,CUST9643,Whitefield,Bangalore,Deposit,20933.25,2024-11-02,Failed,Insufficient Funds
+TXN40589,CUST9447,Whitefield,Bangalore,Deposit,67959.37,2024-07-12,Failed,Network Issue
+TXN53759,CUST1496,Whitefield,Bangalore,Deposit,27913.54,2025-04-23,Failed,Insufficient Funds
+TXN20084,CUST6686,Whitefield,Bangalore,Deposit,69461.26,2025-03-02,Failed,Limit Exceeded
+TXN10820,CUST7586,Adyar,Chennai,Transfer,47715.53,2024-11-25,Failed,Insufficient Funds
+TXN24936,CUST4845,Adyar,Chennai,Transfer,63570.38,2024-07-14,Failed,Network Issue
+TXN84461,CUST4702,Adyar,Chennai,Transfer,55377.9,2025-02-01,Failed,Limit Exceeded
+TXN43353,CUST9115,Adyar,Chennai,Transfer,39074.15,2024-07-10,Failed,Insufficient Funds
+TXN56542,CUST9467,Adyar,Chennai,Transfer,44125.4,2025-02-05,Failed,Technical Error
+TXN73847,CUST4878,Andheri East,Mumbai,Transfer,79292.6,2025-01-18,Failed,Technical Error
+TXN88927,CUST4513,Andheri East,Mumbai,Transfer,62397.8,2024-09-09,Failed,Network Issue
+TXN45762,CUST7980,Andheri East,Mumbai,Transfer,29927.56,2025-01-21,Failed,Account Closed
+TXN11197,CUST5380,Andheri East,Mumbai,Transfer,48194.84,2025-04-03,Failed,Technical Error
+TXN73360,CUST5970,Andheri East,Mumbai,Transfer,27663.61,2025-01-10,Failed,Account Closed
+TXN48388,CUST9967,Anna Nagar,Chennai,Transfer,16784.71,2024-07-28,Failed,Insufficient Funds
+TXN23487,CUST5121,Anna Nagar,Chennai,Transfer,96491.2,2025-01-22,Failed,Network Issue
+TXN72138,CUST6621,Anna Nagar,Chennai,Transfer,41583.32,2024-11-30,Failed,Technical Error
+TXN79238,CUST1065,Anna Nagar,Chennai,Transfer,16071.24,2025-04-08,Failed,Account Closed
+TXN14110,CUST2931,Anna Nagar,Chennai,Transfer,48118.88,2025-01-18,Failed,Network Issue
+TXN81726,CUST1434,Anna Nagar,Chennai,Transfer,43606.5,2024-12-10,Failed,Account Closed
+TXN80190,CUST8414,Anna Nagar,Chennai,Transfer,86124.03,2025-04-04,Failed,Network Issue
+TXN42110,CUST1223,Anna Nagar,Chennai,Transfer,27565.37,2024-07-05,Failed,Network Issue
+TXN39900,CUST3525,Bandra,Mumbai,Transfer,29031.06,2025-02-23,Failed,Network Issue
+TXN70191,CUST8573,Bandra,Mumbai,Transfer,25715.36,2024-05-09,Failed,Insufficient Funds
+TXN60405,CUST3612,Bandra,Mumbai,Transfer,36391.97,2024-05-24,Failed,Insufficient Funds
+TXN99523,CUST7237,Bandra,Mumbai,Transfer,59116.47,2025-02-17,Failed,Network Issue
+TXN60868,CUST7650,Bandra,Mumbai,Transfer,89536.32,2024-10-04,Failed,Technical Error
+TXN24017,CUST3551,Bandra,Mumbai,Transfer,24288.08,2024-05-08,Failed,Technical Error
+TXN17861,CUST3197,Bandra,Mumbai,Transfer,31368.88,2024-07-03,Failed,Network Issue
+TXN74361,CUST7025,Bandra,Mumbai,Transfer,31061.66,2025-02-12,Failed,Network Issue
+TXN33000,CUST9083,Borivali,Mumbai,Transfer,72057.11,2025-01-18,Failed,Insufficient Funds
+TXN72880,CUST3512,Borivali,Mumbai,Transfer,86556.27,2025-03-17,Failed,Account Closed
+TXN64713,CUST8414,Borivali,Mumbai,Transfer,14338.14,2024-12-09,Failed,Insufficient Funds
+TXN46988,CUST6667,Borivali,Mumbai,Transfer,78120.58,2025-01-23,Failed,Technical Error
+TXN56182,CUST4446,Borivali,Mumbai,Transfer,6443.68,2024-06-21,Failed,Network Issue
+TXN97275,CUST9960,Borivali,Mumbai,Transfer,34315.39,2025-05-02,Failed,Limit Exceeded
+TXN48767,CUST6406,Borivali,Mumbai,Transfer,16292.52,2024-11-19,Failed,Insufficient Funds
+TXN33257,CUST9397,Borivali,Mumbai,Transfer,56739.08,2024-08-08,Failed,Insufficient Funds
+TXN89007,CUST8639,Borivali,Mumbai,Transfer,11865.74,2025-04-06,Failed,Technical Error
+TXN22404,CUST7736,Borivali,Mumbai,Transfer,66317.18,2024-09-15,Failed,Technical Error
+TXN61619,CUST2967,Dadar,Mumbai,Transfer,23310.97,2024-12-22,Failed,Insufficient Funds
+TXN73212,CUST5195,Dadar,Mumbai,Transfer,56575.34,2024-07-25,Failed,Account Closed
+TXN70902,CUST1632,Dadar,Mumbai,Transfer,68642.99,2024-07-03,Failed,Insufficient Funds
+TXN59604,CUST4881,Dadar,Mumbai,Transfer,22727.05,2025-04-24,Failed,Network Issue
+TXN79762,CUST6212,Dadar,Mumbai,Transfer,7791.07,2024-06-09,Failed,Account Closed
+TXN33629,CUST9989,Dadar,Mumbai,Transfer,38403.99,2024-12-20,Failed,Technical Error
+TXN49381,CUST5877,Fort,Mumbai,Transfer,20552.45,2024-06-04,Failed,Insufficient Funds
+TXN10162,CUST1502,Fort,Mumbai,Transfer,56208.45,2024-07-15,Failed,Network Issue
+TXN58938,CUST5534,Fort,Mumbai,Transfer,10025.61,2024-08-05,Failed,Technical Error
+TXN21014,CUST8159,Fort,Mumbai,Transfer,25507.36,2025-01-27,Failed,Insufficient Funds
+TXN69806,CUST3677,Fort,Mumbai,Transfer,49640.59,2024-07-03,Failed,Insufficient Funds
+TXN19168,CUST6608,Fort,Mumbai,Transfer,310.82,2025-01-18,Failed,Insufficient Funds
+TXN35502,CUST2408,Indiranagar,Bangalore,Transfer,50220.3,2025-01-10,Failed,Network Issue
+TXN56636,CUST4712,Indiranagar,Bangalore,Transfer,30800.92,2024-06-22,Failed,Technical Error
+TXN64386,CUST5989,Indiranagar,Bangalore,Transfer,89342.57,2025-03-26,Failed,Technical Error
+TXN58268,CUST2465,Indiranagar,Bangalore,Transfer,63709.97,2025-04-21,Failed,Account Closed
+TXN84462,CUST3421,Indiranagar,Bangalore,Transfer,61667.52,2024-10-25,Failed,Insufficient Funds
+TXN35086,CUST3147,Indiranagar,Bangalore,Transfer,389.28,2024-09-14,Failed,Account Closed
+TXN59174,CUST5291,Indiranagar,Bangalore,Transfer,10604.38,2025-03-28,Failed,Network Issue
+TXN92603,CUST6112,Indiranagar,Bangalore,Transfer,15308.75,2024-07-28,Failed,Account Closed
+TXN16383,CUST9663,Indiranagar,Bangalore,Transfer,85498.46,2024-09-19,Failed,Technical Error
+TXN16212,CUST7484,Indiranagar,Bangalore,Transfer,42787.8,2024-05-28,Failed,Account Closed
+TXN43970,CUST5175,Indiranagar,Bangalore,Transfer,25161.0,2025-04-08,Failed,Network Issue
+TXN70608,CUST5253,Jayanagar,Bangalore,Transfer,41954.72,2024-12-14,Failed,Limit Exceeded
+TXN22479,CUST7883,Jayanagar,Bangalore,Transfer,57597.8,2025-02-08,Failed,Insufficient Funds
+TXN44052,CUST7780,Jayanagar,Bangalore,Transfer,76057.55,2024-12-05,Failed,Network Issue
+TXN87147,CUST5592,Jayanagar,Bangalore,Transfer,41060.89,2024-12-28,Failed,Limit Exceeded
+TXN86642,CUST8882,Koramangala,Bangalore,Transfer,74963.81,2025-03-27,Failed,Technical Error
+TXN48035,CUST3094,Koramangala,Bangalore,Transfer,28649.81,2024-11-20,Failed,Account Closed
+TXN14219,CUST2014,Koramangala,Bangalore,Transfer,75483.06,2025-05-07,Failed,Limit Exceeded
+TXN70535,CUST1813,MG Road,Bangalore,Transfer,31805.85,2024-10-24,Failed,Account Closed
+TXN54370,CUST4905,MG Road,Bangalore,Transfer,17523.07,2024-12-01,Failed,Technical Error
+TXN67631,CUST9597,MG Road,Bangalore,Transfer,38499.97,2024-10-24,Failed,Insufficient Funds
+TXN11549,CUST5077,MG Road,Bangalore,Transfer,61062.92,2025-04-15,Failed,Account Closed
+TXN79085,CUST4290,Mylapore,Chennai,Transfer,77814.65,2025-05-06,Failed,Network Issue
+TXN34521,CUST2541,Mylapore,Chennai,Transfer,56432.24,2024-12-31,Failed,Insufficient Funds
+TXN80626,CUST7323,Mylapore,Chennai,Transfer,96897.73,2025-02-15,Failed,Technical Error
+TXN33490,CUST1805,Mylapore,Chennai,Transfer,26895.34,2024-07-08,Failed,Account Closed
+TXN46461,CUST1557,Mylapore,Chennai,Transfer,23729.91,2024-05-13,Failed,Limit Exceeded
+TXN94077,CUST3053,Mylapore,Chennai,Transfer,24979.41,2025-01-24,Failed,Account Closed
+TXN59174,CUST6247,T Nagar,Chennai,Transfer,30264.14,2024-12-24,Failed,Insufficient Funds
+TXN69962,CUST6489,T Nagar,Chennai,Transfer,70461.75,2024-09-12,Failed,Insufficient Funds
+TXN54616,CUST2108,T Nagar,Chennai,Transfer,31689.04,2024-09-20,Failed,Insufficient Funds
+TXN50883,CUST9563,T Nagar,Chennai,Transfer,54625.38,2024-11-08,Failed,Network Issue
+TXN56077,CUST1480,T Nagar,Chennai,Transfer,74581.1,2024-07-22,Failed,Insufficient Funds
+TXN61114,CUST4080,T Nagar,Chennai,Transfer,27212.6,2025-03-17,Failed,Account Closed
+TXN44726,CUST8681,T Nagar,Chennai,Transfer,48107.09,2024-09-03,Failed,Insufficient Funds
+TXN91754,CUST2530,T Nagar,Chennai,Transfer,19546.59,2025-03-18,Failed,Network Issue
+TXN37075,CUST6578,Velachery,Chennai,Transfer,86671.91,2024-08-21,Failed,Insufficient Funds
+TXN25154,CUST1016,Velachery,Chennai,Transfer,15371.91,2025-05-08,Failed,Account Closed
+TXN26556,CUST6857,Velachery,Chennai,Transfer,54338.9,2024-05-12,Failed,Account Closed
+TXN41727,CUST1079,Velachery,Chennai,Transfer,66376.46,2024-07-15,Failed,Account Closed
+TXN34085,CUST7126,Velachery,Chennai,Transfer,53613.49,2024-06-19,Failed,Account Closed
+TXN57610,CUST5879,Velachery,Chennai,Transfer,81453.7,2024-11-25,Failed,Limit Exceeded
+TXN75709,CUST2440,Whitefield,Bangalore,Transfer,70070.81,2024-12-29,Failed,Insufficient Funds
+TXN55743,CUST9197,Whitefield,Bangalore,Transfer,56466.58,2024-08-22,Failed,Network Issue
+TXN64887,CUST8373,Whitefield,Bangalore,Transfer,25530.22,2025-04-27,Failed,Network Issue
+TXN38228,CUST4228,Whitefield,Bangalore,Transfer,48549.81,2024-07-04,Failed,Insufficient Funds
+TXN88659,CUST7691,Whitefield,Bangalore,Transfer,57604.31,2024-08-27,Failed,Account Closed
+TXN93223,CUST9722,Whitefield,Bangalore,Transfer,97894.4,2024-08-05,Failed,Limit Exceeded
+TXN70383,CUST4225,Adyar,Chennai,Withdrawal,42678.18,2024-05-26,Failed,Network Issue
+TXN41079,CUST9549,Adyar,Chennai,Withdrawal,90604.79,2025-02-27,Failed,Account Closed
+TXN93623,CUST8573,Adyar,Chennai,Withdrawal,59405.01,2025-02-25,Failed,Network Issue
+TXN55518,CUST7452,Adyar,Chennai,Withdrawal,73693.2,2025-04-04,Failed,Account Closed
+TXN42214,CUST8117,Adyar,Chennai,Withdrawal,17591.28,2024-10-07,Failed,Network Issue
+TXN74498,CUST1750,Andheri East,Mumbai,Withdrawal,65411.52,2024-07-17,Failed,Network Issue
+TXN49785,CUST8424,Andheri East,Mumbai,Withdrawal,50890.29,2024-07-12,Failed,Account Closed
+TXN99206,CUST7064,Andheri East,Mumbai,Withdrawal,5800.58,2024-05-08,Failed,Network Issue
+TXN23200,CUST6499,Andheri East,Mumbai,Withdrawal,9330.46,2025-03-11,Failed,Limit Exceeded
+TXN32747,CUST3322,Andheri East,Mumbai,Withdrawal,60701.43,2024-07-12,Failed,Technical Error
+TXN35351,CUST3452,Andheri East,Mumbai,Withdrawal,64887.02,2025-01-24,Failed,Network Issue
+TXN20892,CUST6191,Andheri East,Mumbai,Withdrawal,59671.05,2024-12-07,Failed,Limit Exceeded
+TXN10674,CUST1055,Andheri East,Mumbai,Withdrawal,1665.63,2025-01-06,Failed,Network Issue
+TXN71932,CUST5753,Anna Nagar,Chennai,Withdrawal,74046.85,2024-06-02,Failed,Account Closed
+TXN21650,CUST8186,Anna Nagar,Chennai,Withdrawal,49483.88,2024-12-15,Failed,Technical Error
+TXN93303,CUST3193,Anna Nagar,Chennai,Withdrawal,95053.76,2024-12-26,Failed,Network Issue
+TXN36777,CUST1480,Anna Nagar,Chennai,Withdrawal,49190.39,2025-02-21,Failed,Account Closed
+TXN27291,CUST4255,Anna Nagar,Chennai,Withdrawal,66569.84,2024-10-03,Failed,Account Closed
+TXN29446,CUST2364,Bandra,Mumbai,Withdrawal,79429.82,2025-04-04,Failed,Account Closed
+TXN61924,CUST6163,Bandra,Mumbai,Withdrawal,75167.36,2024-12-02,Failed,Insufficient Funds
+TXN11513,CUST7848,Bandra,Mumbai,Withdrawal,48120.63,2025-04-15,Failed,Account Closed
+TXN56603,CUST2122,Bandra,Mumbai,Withdrawal,46778.86,2025-04-26,Failed,Technical Error
+TXN88442,CUST2226,Bandra,Mumbai,Withdrawal,83911.58,2024-12-10,Failed,Account Closed
+TXN38933,CUST8885,Bandra,Mumbai,Withdrawal,95958.68,2024-07-19,Failed,Network Issue
+TXN49257,CUST6962,Bandra,Mumbai,Withdrawal,68907.1,2025-01-25,Failed,Insufficient Funds
+TXN37459,CUST7352,Bandra,Mumbai,Withdrawal,20535.98,2025-03-26,Failed,Limit Exceeded
+TXN21966,CUST1466,Borivali,Mumbai,Withdrawal,94942.3,2024-07-09,Failed,Insufficient Funds
+TXN11908,CUST1322,Borivali,Mumbai,Withdrawal,41998.82,2024-07-10,Failed,Account Closed
+TXN59247,CUST3051,Borivali,Mumbai,Withdrawal,85441.64,2024-10-14,Failed,Account Closed
+TXN32110,CUST3386,Borivali,Mumbai,Withdrawal,33654.19,2024-09-06,Failed,Account Closed
+TXN61588,CUST5171,Dadar,Mumbai,Withdrawal,1296.84,2024-07-10,Failed,Technical Error
+TXN94454,CUST9171,Dadar,Mumbai,Withdrawal,36592.87,2024-09-24,Failed,Insufficient Funds
+TXN10032,CUST6154,Dadar,Mumbai,Withdrawal,79712.83,2025-03-21,Failed,Limit Exceeded
+TXN56043,CUST8341,Dadar,Mumbai,Withdrawal,46425.64,2024-05-29,Failed,Network Issue
+TXN61660,CUST8394,Dadar,Mumbai,Withdrawal,80706.49,2024-11-24,Failed,Technical Error
+TXN45384,CUST5773,Dadar,Mumbai,Withdrawal,45869.63,2024-07-01,Failed,Network Issue
+TXN25257,CUST4335,Dadar,Mumbai,Withdrawal,38682.14,2024-06-12,Failed,Technical Error
+TXN58576,CUST4787,Fort,Mumbai,Withdrawal,45490.3,2024-10-06,Failed,Limit Exceeded
+TXN80693,CUST1560,Fort,Mumbai,Withdrawal,60441.83,2024-06-02,Failed,Insufficient Funds
+TXN65349,CUST2047,Fort,Mumbai,Withdrawal,37143.33,2025-02-17,Failed,Network Issue
+TXN26478,CUST9576,Fort,Mumbai,Withdrawal,43383.27,2024-05-15,Failed,Insufficient Funds
+TXN78660,CUST2022,Fort,Mumbai,Withdrawal,75184.53,2024-12-08,Failed,Network Issue
+TXN19313,CUST9481,Indiranagar,Bangalore,Withdrawal,50297.07,2025-02-23,Failed,Account Closed
+TXN10750,CUST2362,Indiranagar,Bangalore,Withdrawal,9675.51,2025-04-22,Failed,Account Closed
+TXN64905,CUST3876,Indiranagar,Bangalore,Withdrawal,85096.49,2024-10-07,Failed,Account Closed
+TXN82898,CUST2897,Jayanagar,Bangalore,Withdrawal,40880.2,2024-12-02,Failed,Limit Exceeded
+TXN43045,CUST1196,Jayanagar,Bangalore,Withdrawal,96875.01,2025-03-11,Failed,Network Issue
+TXN62940,CUST7275,Jayanagar,Bangalore,Withdrawal,48599.4,2024-11-17,Failed,Account Closed
+TXN11741,CUST7834,Jayanagar,Bangalore,Withdrawal,58037.15,2024-07-27,Failed,Technical Error
+TXN33216,CUST9061,Jayanagar,Bangalore,Withdrawal,52892.46,2025-03-09,Failed,Account Closed
+TXN20133,CUST1005,Koramangala,Bangalore,Withdrawal,90472.34,2024-08-14,Failed,Limit Exceeded
+TXN96856,CUST3989,Koramangala,Bangalore,Withdrawal,24375.19,2024-05-28,Failed,Insufficient Funds
+TXN55127,CUST2974,Koramangala,Bangalore,Withdrawal,73525.32,2024-06-10,Failed,Network Issue
+TXN76826,CUST1055,Koramangala,Bangalore,Withdrawal,17222.16,2024-08-26,Failed,Account Closed
+TXN24362,CUST9279,MG Road,Bangalore,Withdrawal,48731.14,2024-05-30,Failed,Account Closed
+TXN18941,CUST5097,MG Road,Bangalore,Withdrawal,50465.82,2025-01-15,Failed,Technical Error
+TXN53036,CUST8282,MG Road,Bangalore,Withdrawal,1851.08,2024-12-27,Failed,Limit Exceeded
+TXN85220,CUST4781,Mylapore,Chennai,Withdrawal,63725.43,2024-08-13,Failed,Account Closed
+TXN35998,CUST9061,Mylapore,Chennai,Withdrawal,44797.42,2024-10-19,Failed,Network Issue
+TXN92977,CUST3951,Mylapore,Chennai,Withdrawal,78453.64,2024-05-30,Failed,Technical Error
+TXN13500,CUST6275,Mylapore,Chennai,Withdrawal,50045.17,2025-02-19,Failed,Insufficient Funds
+TXN37346,CUST9833,Mylapore,Chennai,Withdrawal,74953.39,2024-07-19,Failed,Network Issue
+TXN17933,CUST4920,Mylapore,Chennai,Withdrawal,35013.66,2024-11-13,Failed,Insufficient Funds
+TXN15160,CUST4545,Mylapore,Chennai,Withdrawal,24473.7,2025-04-29,Failed,Limit Exceeded
+TXN36217,CUST8970,Mylapore,Chennai,Withdrawal,20376.23,2024-09-28,Failed,Technical Error
+TXN35753,CUST5707,T Nagar,Chennai,Withdrawal,80253.12,2024-12-29,Failed,Technical Error
+TXN68486,CUST3005,T Nagar,Chennai,Withdrawal,6019.48,2024-07-25,Failed,Limit Exceeded
+TXN27365,CUST3869,T Nagar,Chennai,Withdrawal,89073.69,2024-09-26,Failed,Account Closed
+TXN29463,CUST5497,T Nagar,Chennai,Withdrawal,56161.45,2024-05-24,Failed,Insufficient Funds
+TXN58487,CUST5754,T Nagar,Chennai,Withdrawal,56381.43,2025-01-07,Failed,Limit Exceeded
+TXN44822,CUST4385,T Nagar,Chennai,Withdrawal,57499.91,2024-08-05,Failed,Limit Exceeded
+TXN87933,CUST4455,Velachery,Chennai,Withdrawal,24613.65,2024-05-26,Failed,Account Closed
+TXN22459,CUST2421,Velachery,Chennai,Withdrawal,40216.63,2024-08-24,Failed,Technical Error
+TXN76379,CUST5861,Velachery,Chennai,Withdrawal,10502.83,2024-09-29,Failed,Insufficient Funds
+TXN58433,CUST2436,Velachery,Chennai,Withdrawal,34938.22,2024-07-29,Failed,Network Issue
+TXN59901,CUST5435,Whitefield,Bangalore,Withdrawal,67809.83,2025-04-12,Failed,Insufficient Funds
+TXN91102,CUST8986,Whitefield,Bangalore,Withdrawal,42155.64,2025-04-08,Failed,Limit Exceeded

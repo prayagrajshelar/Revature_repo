@@ -1,0 +1,10 @@
+gcloud dataproc clusters create training-cluster --region=us-central1 --zone=us-central1-a --single-node --master-machine-type=n1-standard-2 --image-version=2.0-debian10
+
+gsutil cp C:/Users/Prayagraj/Desktop/Revature/Failed_Banking_Transaction_Analysis_Project/data/*.csv gs://prayagraj-bucket/data/
+
+gsutil cp C:/Users/Prayagraj/Desktop/Revature/Failed_Banking_Transaction_Analysis_Project/scripts/*.py gs://prayagraj-bucket/scripts/
+
+gcloud dataproc jobs submit pyspark gs://prayagraj-bucket/scripts/new_clean_merge.py --cluster=training-cluster --region=us-central1
+
+gcloud dataproc jobs submit pyspark gs://prayagraj-bucket/scripts/extract_failed.py --cluster=training-cluster --region=us-central1
+

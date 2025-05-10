@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN22101 ,CUST2814,Anna Nagar ,Chennai,Transfer,57710.62,2025-04-14,Success,
+ TXN41432 ,CUST1512,Anna Nagar ,Chennai,Deposit,67104.51,2024-09-18,success,
+ TXN56581 ,CUST7486,Anna Nagar ,Chennai,Deposit,29740.09,2024-08-26,Success,
+ TXN94563 ,CUST7414,Anna Nagar ,Chennai,Withdrawal,80011.96,2024-09-21,Success,
+ TXN28894 ,CUST9968,Anna Nagar ,Chennai,Deposit,56513.95,2024-12-28,FAIL,Account Closed
+ TXN81726 ,CUST1434,Anna Nagar ,Chennai,Transfer,43606.5,2024-12-10,Failed,Account Closed
+ TXN42110 ,CUST1223,Anna Nagar ,Chennai,Transfer,27565.37,2024-07-05,Failed,Network Issue
+ TXN71932 ,CUST5753,Anna Nagar ,Chennai,Withdrawal,74046.85,2024-06-02,Failed,Account Closed
+ TXN57365 ,CUST9922,Anna Nagar ,Chennai,Withdrawal,88022.41,2024-08-15,pending,
+ TXN88005 ,CUST2971,Anna Nagar ,Chennai,Withdrawal,86491.02,2025-04-09,success,
+ TXN36140 ,CUST7501,Anna Nagar ,Chennai,Withdrawal,794.34,2025-03-06,pending,
+ TXN80627 ,CUST7328,Anna Nagar ,Chennai,Withdrawal,37180.79,2024-09-14,pending,
+ TXN14110 ,CUST2931,Anna Nagar ,Chennai,Transfer,48118.88,2025-01-18,Failed,Network Issue
+ TXN61853 ,CUST1048,Anna Nagar ,Chennai,Deposit,94538.53,2025-04-08,Pending,
+ TXN71623 ,CUST3179,Anna Nagar ,Chennai,Deposit,59623.66,2024-08-01,pending,
+ TXN46072 ,CUST8222,Anna Nagar ,Chennai,Transfer,50841.73,2024-06-09,FAIL,Insufficient Funds
+ TXN13679 ,CUST3706,Anna Nagar ,Chennai,Withdrawal,88666.88,2024-09-27,Success,
+ TXN44293 ,CUST6738,Anna Nagar ,Chennai,Deposit,41736.08,2025-04-23,Failed,Network Issue
+ TXN13253 ,CUST2937,Anna Nagar ,Chennai,Withdrawal,64986.97,2024-07-27,Success,
+ TXN45837 ,CUST8855,Anna Nagar ,Chennai,Transfer,86998.43,2024-08-26,pending,
+ TXN15134 ,CUST4266,Anna Nagar ,Chennai,Withdrawal,82756.93,2024-12-04,Success,
+ TXN87744 ,CUST9519,Anna Nagar ,Chennai,Deposit,14584.09,2024-08-30,FAIL,Limit Exceeded
+ TXN95104 ,CUST7656,Anna Nagar ,Chennai,Deposit,7007.48,2025-05-02,Pending,
+ TXN53160 ,CUST9498,Anna Nagar ,Chennai,Deposit,83083.68,2024-07-06,pending,
+ TXN63028 ,CUST6987,Anna Nagar ,Chennai,Deposit,79808.42,2025-04-08,FAIL,Limit Exceeded
+ TXN45253 ,CUST9243,Anna Nagar ,Chennai,Deposit,26886.49,2024-05-10,success,
+ TXN42391 ,CUST3634,Anna Nagar ,Chennai,Withdrawal,49431.69,2025-03-02,Pending,
+ TXN95387 ,CUST5184,Anna Nagar ,Chennai,Withdrawal,50010.27,2024-06-09,FAIL,Insufficient Funds
+ TXN79238 ,CUST1065,Anna Nagar ,Chennai,Transfer,16071.24,2025-04-08,Failed,Account Closed
+ TXN22945 ,CUST3734,Anna Nagar ,Chennai,Deposit,2388.81,2025-01-12,Failed,Limit Exceeded
+ TXN93684 ,CUST8052,Anna Nagar ,Chennai,Transfer,98274.79,2024-10-28,FAIL,Network Issue
+ TXN84983 ,CUST4352,Anna Nagar ,Chennai,Transfer,23792.98,2024-06-26,Success,
+ TXN98581 ,CUST4113,Anna Nagar ,Chennai,Deposit,45336.37,2025-03-22,Failed,Account Closed
+ TXN21040 ,CUST4514,Anna Nagar ,Chennai,Transfer,71333.82,2024-05-31,Success,
+ TXN57548 ,CUST6016,Anna Nagar ,Chennai,Transfer,27663.7,2024-05-31,Success,
+ TXN63515 ,CUST2037,Anna Nagar ,Chennai,Transfer,44693.09,2025-02-24,Success,
+ TXN36777 ,CUST1480,Anna Nagar ,Chennai,Withdrawal,49190.39,2025-02-21,Failed,Account Closed
+ TXN19007 ,CUST7702,Anna Nagar ,Chennai,Deposit,97195.44,2025-04-01,pending,
+ TXN99748 ,CUST1205,Anna Nagar ,Chennai,Deposit,53571.4,2024-10-20,pending,
+ TXN14664 ,CUST8399,Anna Nagar ,Chennai,Deposit,53958.13,2025-03-18,pending,
+ TXN73168 ,CUST7851,Anna Nagar ,Chennai,Deposit,73015.86,2024-08-16,Success,
+ TXN93303 ,CUST3193,Anna Nagar ,Chennai,Withdrawal,95053.76,2024-12-26,Failed,Network Issue
+ TXN30276 ,CUST7497,Anna Nagar ,Chennai,Deposit,23184.05,2024-11-19,Success,
+ TXN52836 ,CUST3246,Anna Nagar ,Chennai,Transfer,21608.36,2024-07-29,FAIL,Network Issue
+ TXN89307 ,CUST3837,Anna Nagar ,Chennai,Transfer,95021.94,2025-02-22,Pending,
+ TXN45699 ,CUST2217,Anna Nagar ,Chennai,Transfer,38530.81,2024-10-01,Success,
+ TXN26433 ,CUST1671,Anna Nagar ,Chennai,Withdrawal,50619.88,2024-11-28,Success,
+ TXN53147 ,CUST2417,Anna Nagar ,Chennai,Withdrawal,11302.21,2024-11-06,Pending,
+ TXN70791 ,CUST8827,Anna Nagar ,Chennai,Deposit,23004.67,2024-06-01,Pending,
+ TXN15123 ,CUST8131,Anna Nagar ,Chennai,Transfer,72125.59,2024-05-15,pending,
+ TXN68447 ,CUST8754,Anna Nagar ,Chennai,Withdrawal,61205.42,2024-06-21,success,
+ TXN21650 ,CUST8186,Anna Nagar ,Chennai,Withdrawal,49483.88,2024-12-15,Failed,Technical Error
+ TXN35308 ,CUST7523,Anna Nagar ,Chennai,Deposit,60805.94,2024-10-31,FAIL,Limit Exceeded
+ TXN25387 ,CUST3454,Anna Nagar ,Chennai,Withdrawal,68905.17,2024-08-14,Success,
+ TXN39044 ,CUST1157,Anna Nagar ,Chennai,Deposit,38566.35,2024-06-03,Success,
+ TXN32086 ,CUST1336,Anna Nagar ,Chennai,Transfer,26308.66,2024-11-20,Success,
+ TXN79299 ,CUST3421,Anna Nagar ,Chennai,Deposit,46396.19,2025-01-21,Pending,
+ TXN76587 ,CUST8490,Anna Nagar ,Chennai,Transfer,91019.33,2024-10-05,Success,
+ TXN27651 ,CUST8884,Anna Nagar ,Chennai,Withdrawal,79318.89,2024-05-27,Success,
+ TXN48853 ,CUST7824,Anna Nagar ,Chennai,Withdrawal,86620.87,2024-09-27,Pending,
+ TXN58218 ,CUST1897,Anna Nagar ,Chennai,Withdrawal,60047.07,2024-08-31,FAIL,Account Closed
+ TXN23487 ,CUST5121,Anna Nagar ,Chennai,Transfer,96491.2,2025-01-22,Failed,Network Issue
+ TXN92203 ,CUST8444,Anna Nagar ,Chennai,Deposit,23784.51,2025-03-04,Pending,
+ TXN51742 ,CUST2377,Anna Nagar ,Chennai,Deposit,23431.04,2024-08-26,FAIL,Network Issue
+ TXN79222 ,CUST1117,Anna Nagar ,Chennai,Transfer,36721.36,2024-09-26,Pending,
+ TXN15663 ,CUST8441,Anna Nagar ,Chennai,Deposit,62147.46,2025-04-16,FAIL,Network Issue
+ TXN27291 ,CUST4255,Anna Nagar ,Chennai,Withdrawal,66569.84,2024-10-03,Failed,Account Closed
+ TXN59102 ,CUST6276,Anna Nagar ,Chennai,Deposit,55771.27,2024-05-28,Failed,Network Issue
+ TXN87142 ,CUST4769,Anna Nagar ,Chennai,Transfer,4039.09,2024-12-19,FAIL,Technical Error
+ TXN59682 ,CUST6976,Anna Nagar ,Chennai,Withdrawal,58099.51,2024-10-18,FAIL,Technical Error
+ TXN38673 ,CUST3299,Anna Nagar ,Chennai,Deposit,23972.03,2024-08-06,Success,
+ TXN26411 ,CUST3884,Anna Nagar ,Chennai,Withdrawal,91605.81,2024-08-13,Success,
+ TXN84167 ,CUST9419,Anna Nagar ,Chennai,Withdrawal,19205.53,2024-09-01,Pending,
+ TXN91148 ,CUST3187,Anna Nagar ,Chennai,Deposit,35967.59,2025-03-29,success,
+ TXN41226 ,CUST1512,Anna Nagar ,Chennai,Transfer,15858.08,2024-08-12,Success,
+ TXN30549 ,CUST5722,Anna Nagar ,Chennai,Transfer,8579.86,2024-10-03,success,
+ TXN27466 ,CUST1358,Anna Nagar ,Chennai,Transfer,87985.17,2025-04-01,FAIL,Account Closed
+ TXN55689 ,CUST6544,Anna Nagar ,Chennai,Deposit,10046.13,2024-09-10,Success,
+ TXN66463 ,CUST1296,Anna Nagar ,Chennai,Withdrawal,34455.22,2024-11-11,FAIL,Limit Exceeded
+ TXN46167 ,CUST9632,Anna Nagar ,Chennai,Transfer,50740.0,2024-12-05,Success,
+ TXN24976 ,CUST7180,Anna Nagar ,Chennai,Deposit,99201.17,2024-10-12,Success,
+ TXN62824 ,CUST5664,Anna Nagar ,Chennai,Deposit,80730.69,2024-10-31,FAIL,Insufficient Funds
+ TXN80190 ,CUST8414,Anna Nagar ,Chennai,Transfer,86124.03,2025-04-04,Failed,Network Issue
+ TXN65504 ,CUST4346,Anna Nagar ,Chennai,Transfer,99361.06,2025-03-08,pending,
+ TXN20676 ,CUST2372,Anna Nagar ,Chennai,Deposit,22889.44,2024-07-21,Success,
+ TXN25008 ,CUST8422,Anna Nagar ,Chennai,Withdrawal,23347.83,2024-08-20,Pending,
+ TXN23903 ,CUST3628,Anna Nagar ,Chennai,Transfer,14138.88,2024-08-17,success,
+ TXN48256 ,CUST1964,Anna Nagar ,Chennai,Withdrawal,21366.08,2024-11-09,FAIL,Network Issue
+ TXN25925 ,CUST4548,Anna Nagar ,Chennai,Deposit,23088.76,2024-09-16,Success,
+ TXN72138 ,CUST6621,Anna Nagar ,Chennai,Transfer,41583.32,2024-11-30,Failed,Technical Error
+ TXN95619 ,CUST6528,Anna Nagar ,Chennai,Withdrawal,7985.21,2024-07-07,success,
+ TXN61730 ,CUST9627,Anna Nagar ,Chennai,Transfer,97498.22,2025-01-21,Success,
+ TXN16574 ,CUST2484,Anna Nagar ,Chennai,Transfer,89051.61,2025-04-30,Success,
+ TXN48388 ,CUST9967,Anna Nagar ,Chennai,Transfer,16784.71,2024-07-28,Failed,Insufficient Funds
+ TXN97263 ,CUST5433,Anna Nagar ,Chennai,Deposit,7640.85,2024-10-10,Success,
+ TXN78841 ,CUST4303,Anna Nagar ,Chennai,Withdrawal,37575.71,2025-01-12,success,
+ TXN39993 ,CUST7704,Anna Nagar ,Chennai,Withdrawal,9963.39,2024-10-06,pending,
+ TXN45080 ,CUST5531,Anna Nagar ,Chennai,Withdrawal,98332.13,2024-09-26,pending,
+ TXN51886 ,CUST7285,Anna Nagar ,Chennai,Deposit,65776.12,2024-09-25,Failed,Network Issue
+ TXN24139 ,CUST5284,Anna Nagar ,Chennai,Deposit,39882.15,2024-12-20,pending,

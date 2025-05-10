@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN77216 ,CUST8801,Jayanagar ,Bangalore,Withdrawal,76691.86,2025-03-05,pending,
+ TXN74693 ,CUST5738,Jayanagar ,Bangalore,Withdrawal,18542.17,2024-09-05,Pending,
+ TXN48896 ,CUST7944,Jayanagar ,Bangalore,Withdrawal,98048.94,2024-06-07,Pending,
+ TXN11266 ,CUST3388,Jayanagar ,Bangalore,Withdrawal,8219.56,2024-08-03,success,
+ TXN45921 ,CUST8467,Jayanagar ,Bangalore,Transfer,4113.61,2024-11-04,Pending,
+ TXN99034 ,CUST4033,Jayanagar ,Bangalore,Deposit,53890.76,2024-08-19,Pending,
+ TXN17543 ,CUST1474,Jayanagar ,Bangalore,Deposit,1183.92,2024-08-30,Success,
+ TXN19035 ,CUST3532,Jayanagar ,Bangalore,Withdrawal,35843.19,2024-08-08,Pending,
+ TXN13555 ,CUST2131,Jayanagar ,Bangalore,Transfer,32155.02,2024-08-27,success,
+ TXN85956 ,CUST5376,Jayanagar ,Bangalore,Deposit,20281.53,2024-10-08,Success,
+ TXN91657 ,CUST8556,Jayanagar ,Bangalore,Transfer,19300.88,2024-12-20,Pending,
+ TXN62940 ,CUST7275,Jayanagar ,Bangalore,Withdrawal,48599.4,2024-11-17,Failed,Account Closed
+ TXN49811 ,CUST3153,Jayanagar ,Bangalore,Withdrawal,14773.75,2025-01-19,Success,
+ TXN98672 ,CUST7587,Jayanagar ,Bangalore,Deposit,25325.99,2024-06-27,Failed,Insufficient Funds
+ TXN34382 ,CUST5924,Jayanagar ,Bangalore,Transfer,24106.43,2024-09-27,success,
+ TXN17493 ,CUST8083,Jayanagar ,Bangalore,Transfer,51408.64,2024-11-23,FAIL,Network Issue
+ TXN70608 ,CUST5253,Jayanagar ,Bangalore,Transfer,41954.72,2024-12-14,Failed,Limit Exceeded
+ TXN41853 ,CUST4931,Jayanagar ,Bangalore,Transfer,48050.52,2025-05-02,Success,
+ TXN33711 ,CUST4816,Jayanagar ,Bangalore,Transfer,92875.94,2024-06-30,pending,
+ TXN81710 ,CUST4167,Jayanagar ,Bangalore,Withdrawal,44709.73,2024-08-21,pending,
+ TXN27023 ,CUST7308,Jayanagar ,Bangalore,Transfer,27040.61,2024-06-09,FAIL,Network Issue
+ TXN49383 ,CUST9618,Jayanagar ,Bangalore,Deposit,14613.97,2024-10-17,Failed,Limit Exceeded
+ TXN86861 ,CUST6398,Jayanagar ,Bangalore,Deposit,1463.85,2024-12-03,Failed,Insufficient Funds
+ TXN66145 ,CUST5452,Jayanagar ,Bangalore,Transfer,10357.78,2024-08-26,FAIL,Account Closed
+ TXN80615 ,CUST5517,Jayanagar ,Bangalore,Deposit,43581.95,2025-01-16,FAIL,Network Issue
+ TXN58430 ,CUST4771,Jayanagar ,Bangalore,Transfer,73848.99,2024-08-29,FAIL,Account Closed
+ TXN76289 ,CUST1154,Jayanagar ,Bangalore,Deposit,88670.68,2025-04-02,Failed,Account Closed
+ TXN64573 ,CUST9260,Jayanagar ,Bangalore,Transfer,16812.71,2025-01-19,Success,
+ TXN60863 ,CUST6771,Jayanagar ,Bangalore,Withdrawal,77730.43,2024-07-13,Pending,
+ TXN65769 ,CUST9358,Jayanagar ,Bangalore,Transfer,47655.85,2025-04-29,Pending,
+ TXN47475 ,CUST8948,Jayanagar ,Bangalore,Deposit,70461.7,2024-05-08,Failed,Limit Exceeded
+ TXN68811 ,CUST2168,Jayanagar ,Bangalore,Transfer,33331.68,2025-02-24,Success,
+ TXN42675 ,CUST1371,Jayanagar ,Bangalore,Transfer,34816.89,2024-07-16,pending,
+ TXN57399 ,CUST2911,Jayanagar ,Bangalore,Transfer,60143.83,2024-05-11,success,
+ TXN14173 ,CUST6952,Jayanagar ,Bangalore,Deposit,37108.46,2024-10-20,Failed,Technical Error
+ TXN75514 ,CUST8407,Jayanagar ,Bangalore,Transfer,36503.23,2025-01-03,success,
+ TXN59764 ,CUST5860,Jayanagar ,Bangalore,Transfer,74551.56,2024-09-25,Pending,
+ TXN82898 ,CUST2897,Jayanagar ,Bangalore,Withdrawal,40880.2,2024-12-02,Failed,Limit Exceeded
+ TXN84633 ,CUST5198,Jayanagar ,Bangalore,Deposit,91687.77,2024-08-16,Success,
+ TXN10210 ,CUST9390,Jayanagar ,Bangalore,Deposit,11910.99,2025-04-18,Failed,Account Closed
+ TXN13223 ,CUST6145,Jayanagar ,Bangalore,Deposit,60496.36,2024-06-06,Pending,
+ TXN54679 ,CUST9523,Jayanagar ,Bangalore,Withdrawal,14816.1,2024-09-13,pending,
+ TXN82473 ,CUST2907,Jayanagar ,Bangalore,Transfer,52815.51,2025-03-28,FAIL,Technical Error
+ TXN43045 ,CUST1196,Jayanagar ,Bangalore,Withdrawal,96875.01,2025-03-11,Failed,Network Issue
+ TXN88219 ,CUST3530,Jayanagar ,Bangalore,Deposit,70282.3,2024-10-07,Failed,Limit Exceeded
+ TXN53879 ,CUST6879,Jayanagar ,Bangalore,Transfer,63699.27,2024-11-15,Success,
+ TXN90144 ,CUST4708,Jayanagar ,Bangalore,Deposit,86495.92,2024-07-26,Pending,
+ TXN64615 ,CUST3096,Jayanagar ,Bangalore,Deposit,77310.82,2024-09-21,success,
+ TXN81509 ,CUST6055,Jayanagar ,Bangalore,Transfer,98935.86,2024-10-27,pending,
+ TXN25946 ,CUST4103,Jayanagar ,Bangalore,Withdrawal,67556.58,2024-12-27,Pending,
+ TXN77908 ,CUST8986,Jayanagar ,Bangalore,Withdrawal,42788.06,2024-06-15,success,
+ TXN12682 ,CUST9566,Jayanagar ,Bangalore,Deposit,88689.28,2024-07-12,Pending,
+ TXN36837 ,CUST7890,Jayanagar ,Bangalore,Transfer,53352.01,2025-03-10,success,
+ TXN35738 ,CUST3187,Jayanagar ,Bangalore,Transfer,54844.8,2024-10-24,FAIL,Network Issue
+ TXN63323 ,CUST6889,Jayanagar ,Bangalore,Withdrawal,33169.5,2024-09-11,Pending,
+ TXN13535 ,CUST5698,Jayanagar ,Bangalore,Withdrawal,41462.71,2024-06-30,pending,
+ TXN45509 ,CUST8682,Jayanagar ,Bangalore,Withdrawal,22753.62,2024-06-05,pending,
+ TXN55922 ,CUST2835,Jayanagar ,Bangalore,Withdrawal,47070.21,2025-04-02,success,
+ TXN33216 ,CUST9061,Jayanagar ,Bangalore,Withdrawal,52892.46,2025-03-09,Failed,Account Closed
+ TXN77091 ,CUST2485,Jayanagar ,Bangalore,Withdrawal,77858.55,2024-10-23,Pending,
+ TXN33508 ,CUST5660,Jayanagar ,Bangalore,Deposit,19946.12,2024-07-16,Failed,Insufficient Funds
+ TXN17555 ,CUST4445,Jayanagar ,Bangalore,Withdrawal,13600.41,2024-07-19,FAIL,Insufficient Funds
+ TXN29550 ,CUST8757,Jayanagar ,Bangalore,Transfer,877.34,2025-04-25,pending,
+ TXN65878 ,CUST9273,Jayanagar ,Bangalore,Withdrawal,5341.8,2024-05-12,pending,
+ TXN31087 ,CUST2752,Jayanagar ,Bangalore,Deposit,26516.21,2025-02-09,Success,
+ TXN91149 ,CUST3845,Jayanagar ,Bangalore,Deposit,32856.5,2024-09-13,Success,
+ TXN44052 ,CUST7780,Jayanagar ,Bangalore,Transfer,76057.55,2024-12-05,Failed,Network Issue
+ TXN53550 ,CUST8819,Jayanagar ,Bangalore,Withdrawal,58175.36,2025-01-05,FAIL,Account Closed
+ TXN90591 ,CUST7952,Jayanagar ,Bangalore,Withdrawal,18053.39,2024-12-06,Success,
+ TXN46452 ,CUST3967,Jayanagar ,Bangalore,Deposit,72449.77,2024-08-25,Failed,Account Closed
+ TXN90097 ,CUST3274,Jayanagar ,Bangalore,Withdrawal,26386.09,2024-10-19,success,
+ TXN92028 ,CUST7139,Jayanagar ,Bangalore,Deposit,49859.47,2025-02-16,pending,
+ TXN34409 ,CUST8103,Jayanagar ,Bangalore,Deposit,144.77,2024-05-18,Failed,Insufficient Funds
+ TXN22479 ,CUST7883,Jayanagar ,Bangalore,Transfer,57597.8,2025-02-08,Failed,Insufficient Funds
+ TXN68366 ,CUST6012,Jayanagar ,Bangalore,Transfer,83102.62,2025-01-24,Pending,
+ TXN45976 ,CUST6798,Jayanagar ,Bangalore,Withdrawal,7950.59,2025-01-07,FAIL,Network Issue
+ TXN72692 ,CUST7776,Jayanagar ,Bangalore,Deposit,73005.68,2024-12-04,Pending,
+ TXN32877 ,CUST4749,Jayanagar ,Bangalore,Deposit,3753.34,2024-08-27,Pending,
+ TXN50831 ,CUST8714,Jayanagar ,Bangalore,Withdrawal,20127.85,2024-05-23,Success,
+ TXN68062 ,CUST7489,Jayanagar ,Bangalore,Transfer,30672.26,2025-01-10,Success,
+ TXN76086 ,CUST7146,Jayanagar ,Bangalore,Withdrawal,36517.36,2025-02-13,success,
+ TXN54333 ,CUST1918,Jayanagar ,Bangalore,Deposit,71883.56,2024-05-18,success,
+ TXN73159 ,CUST2896,Jayanagar ,Bangalore,Withdrawal,63006.34,2025-04-11,pending,
+ TXN34010 ,CUST2626,Jayanagar ,Bangalore,Deposit,11394.3,2025-01-11,Success,
+ TXN88229 ,CUST6183,Jayanagar ,Bangalore,Withdrawal,41479.14,2024-07-14,pending,
+ TXN87147 ,CUST5592,Jayanagar ,Bangalore,Transfer,41060.89,2024-12-28,Failed,Limit Exceeded
+ TXN97864 ,CUST7744,Jayanagar ,Bangalore,Deposit,55702.36,2024-12-09,success,
+ TXN64463 ,CUST1401,Jayanagar ,Bangalore,Deposit,90505.49,2025-01-12,FAIL,Limit Exceeded
+ TXN11741 ,CUST7834,Jayanagar ,Bangalore,Withdrawal,58037.15,2024-07-27,Failed,Technical Error
+ TXN60956 ,CUST1430,Jayanagar ,Bangalore,Withdrawal,97771.49,2024-12-31,FAIL,Limit Exceeded
+ TXN69118 ,CUST3646,Jayanagar ,Bangalore,Deposit,23991.16,2025-01-28,Pending,
+ TXN96445 ,CUST4081,Jayanagar ,Bangalore,Transfer,28541.78,2024-09-28,success,
+ TXN27162 ,CUST2857,Jayanagar ,Bangalore,Withdrawal,33731.95,2024-07-29,success,
+ TXN22441 ,CUST5087,Jayanagar ,Bangalore,Withdrawal,45506.88,2024-11-23,success,
+ TXN64729 ,CUST5873,Jayanagar ,Bangalore,Withdrawal,1588.96,2024-09-22,pending,
+ TXN90416 ,CUST6031,Jayanagar ,Bangalore,Withdrawal,21888.51,2024-10-24,FAIL,Network Issue
+ TXN55666 ,CUST7004,Jayanagar ,Bangalore,Deposit,28483.56,2024-06-03,Pending,
+ TXN40276 ,CUST2393,Jayanagar ,Bangalore,Withdrawal,47421.71,2025-02-17,Success,
+ TXN48556 ,CUST2818,Jayanagar ,Bangalore,Transfer,8681.38,2024-05-10,Success,
+ TXN40943 ,CUST8063,Jayanagar ,Bangalore,Transfer,87424.91,2025-02-23,Success,

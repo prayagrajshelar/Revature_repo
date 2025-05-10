@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN48279 ,CUST3302,Whitefield ,Bangalore,Deposit,37031.55,2025-04-26,Success,
+ TXN56918 ,CUST5791,Whitefield ,Bangalore,Deposit,31783.61,2024-06-03,FAIL,Network Issue
+ TXN67301 ,CUST2070,Whitefield ,Bangalore,Deposit,72968.56,2024-09-17,Success,
+ TXN78025 ,CUST6832,Whitefield ,Bangalore,Withdrawal,72450.53,2025-03-22,Pending,
+ TXN16136 ,CUST4693,Whitefield ,Bangalore,Deposit,33059.58,2025-01-06,FAIL,Technical Error
+ TXN59901 ,CUST5435,Whitefield ,Bangalore,Withdrawal,67809.83,2025-04-12,Failed,Insufficient Funds
+ TXN35413 ,CUST8400,Whitefield ,Bangalore,Deposit,47394.42,2024-11-29,Pending,
+ TXN38701 ,CUST2873,Whitefield ,Bangalore,Transfer,5834.48,2024-05-10,pending,
+ TXN33220 ,CUST8180,Whitefield ,Bangalore,Deposit,79456.72,2024-10-25,Pending,
+ TXN51714 ,CUST2976,Whitefield ,Bangalore,Withdrawal,36611.48,2025-04-11,Success,
+ TXN26247 ,CUST7872,Whitefield ,Bangalore,Deposit,72232.44,2025-01-23,Success,
+ TXN78264 ,CUST3966,Whitefield ,Bangalore,Withdrawal,24767.19,2024-12-11,Success,
+ TXN47197 ,CUST2357,Whitefield ,Bangalore,Deposit,8935.0,2024-06-17,FAIL,Account Closed
+ TXN78423 ,CUST5782,Whitefield ,Bangalore,Transfer,48218.54,2024-06-26,success,
+ TXN93616 ,CUST5796,Whitefield ,Bangalore,Deposit,52735.88,2024-07-20,Pending,
+ TXN45341 ,CUST2605,Whitefield ,Bangalore,Transfer,90039.78,2024-05-27,FAIL,Insufficient Funds
+ TXN77310 ,CUST6741,Whitefield ,Bangalore,Deposit,18256.66,2024-09-08,Success,
+ TXN53759 ,CUST1496,Whitefield ,Bangalore,Deposit,27913.54,2025-04-23,Failed,Insufficient Funds
+ TXN44869 ,CUST3006,Whitefield ,Bangalore,Transfer,94704.76,2025-03-07,Success,
+ TXN62933 ,CUST1406,Whitefield ,Bangalore,Withdrawal,46150.23,2025-05-03,FAIL,Network Issue
+ TXN11207 ,CUST1240,Whitefield ,Bangalore,Transfer,72885.1,2024-12-01,pending,
+ TXN44878 ,CUST4716,Whitefield ,Bangalore,Transfer,1258.34,2025-04-20,pending,
+ TXN65874 ,CUST4117,Whitefield ,Bangalore,Deposit,12347.19,2024-07-19,success,
+ TXN20084 ,CUST6686,Whitefield ,Bangalore,Deposit,69461.26,2025-03-02,Failed,Limit Exceeded
+ TXN30946 ,CUST5299,Whitefield ,Bangalore,Transfer,11531.03,2024-07-13,pending,
+ TXN39393 ,CUST7111,Whitefield ,Bangalore,Deposit,5539.02,2025-02-08,FAIL,Insufficient Funds
+ TXN19686 ,CUST9443,Whitefield ,Bangalore,Transfer,8801.06,2024-10-30,FAIL,Network Issue
+ TXN87516 ,CUST9491,Whitefield ,Bangalore,Transfer,37422.63,2024-06-01,success,
+ TXN77304 ,CUST5861,Whitefield ,Bangalore,Withdrawal,10859.34,2024-12-17,pending,
+ TXN55409 ,CUST1081,Whitefield ,Bangalore,Transfer,50810.24,2024-07-22,success,
+ TXN48836 ,CUST7925,Whitefield ,Bangalore,Withdrawal,40981.27,2025-03-23,Pending,
+ TXN91102 ,CUST8986,Whitefield ,Bangalore,Withdrawal,42155.64,2025-04-08,Failed,Limit Exceeded
+ TXN64586 ,CUST6680,Whitefield ,Bangalore,Deposit,82387.36,2024-07-03,Success,
+ TXN57359 ,CUST2815,Whitefield ,Bangalore,Deposit,30059.42,2025-02-20,FAIL,Limit Exceeded
+ TXN10345 ,CUST7911,Whitefield ,Bangalore,Transfer,43015.37,2025-01-16,Pending,
+ TXN15781 ,CUST2157,Whitefield ,Bangalore,Transfer,81779.28,2024-10-19,Pending,
+ TXN52446 ,CUST9643,Whitefield ,Bangalore,Deposit,20933.25,2024-11-02,Failed,Insufficient Funds
+ TXN94833 ,CUST1524,Whitefield ,Bangalore,Deposit,72775.31,2025-03-18,success,
+ TXN93223 ,CUST9722,Whitefield ,Bangalore,Transfer,97894.4,2024-08-05,Failed,Limit Exceeded
+ TXN64947 ,CUST7169,Whitefield ,Bangalore,Withdrawal,31405.58,2024-07-25,FAIL,Technical Error
+ TXN98731 ,CUST1690,Whitefield ,Bangalore,Deposit,50872.26,2024-05-13,FAIL,Account Closed
+ TXN38228 ,CUST4228,Whitefield ,Bangalore,Transfer,48549.81,2024-07-04,Failed,Insufficient Funds
+ TXN37942 ,CUST2474,Whitefield ,Bangalore,Deposit,50299.39,2025-02-27,FAIL,Limit Exceeded
+ TXN46472 ,CUST3982,Whitefield ,Bangalore,Deposit,5201.37,2025-03-09,Pending,
+ TXN71410 ,CUST6133,Whitefield ,Bangalore,Withdrawal,99038.38,2024-10-19,FAIL,Technical Error
+ TXN27716 ,CUST7464,Whitefield ,Bangalore,Transfer,5175.33,2025-04-14,pending,
+ TXN24213 ,CUST5469,Whitefield ,Bangalore,Withdrawal,83113.69,2025-01-26,pending,
+ TXN55743 ,CUST9197,Whitefield ,Bangalore,Transfer,56466.58,2024-08-22,Failed,Network Issue
+ TXN59123 ,CUST9183,Whitefield ,Bangalore,Transfer,27912.42,2024-05-11,Pending,
+ TXN48117 ,CUST3574,Whitefield ,Bangalore,Deposit,60294.5,2024-11-25,FAIL,Insufficient Funds
+ TXN24283 ,CUST9351,Whitefield ,Bangalore,Transfer,50835.75,2024-05-20,pending,
+ TXN28685 ,CUST2010,Whitefield ,Bangalore,Withdrawal,98427.85,2024-10-04,pending,
+ TXN62667 ,CUST5731,Whitefield ,Bangalore,Withdrawal,5124.24,2024-12-19,FAIL,Limit Exceeded
+ TXN47941 ,CUST8014,Whitefield ,Bangalore,Withdrawal,70217.74,2025-04-14,Success,
+ TXN10388 ,CUST1888,Whitefield ,Bangalore,Withdrawal,78092.33,2025-03-13,Success,
+ TXN75829 ,CUST6351,Whitefield ,Bangalore,Deposit,42707.76,2024-11-15,FAIL,Insufficient Funds
+ TXN86011 ,CUST5064,Whitefield ,Bangalore,Transfer,41344.6,2025-04-19,Success,
+ TXN85963 ,CUST6028,Whitefield ,Bangalore,Withdrawal,70487.11,2024-09-11,Success,
+ TXN77822 ,CUST5870,Whitefield ,Bangalore,Deposit,4034.88,2025-03-07,pending,
+ TXN11341 ,CUST9732,Whitefield ,Bangalore,Withdrawal,76093.67,2025-04-13,pending,
+ TXN84287 ,CUST1988,Whitefield ,Bangalore,Withdrawal,51844.06,2025-01-13,pending,
+ TXN89424 ,CUST6617,Whitefield ,Bangalore,Transfer,61394.69,2024-05-11,Pending,
+ TXN75709 ,CUST2440,Whitefield ,Bangalore,Transfer,70070.81,2024-12-29,Failed,Insufficient Funds
+ TXN97678 ,CUST9858,Whitefield ,Bangalore,Transfer,98847.17,2024-05-14,pending,
+ TXN80636 ,CUST2401,Whitefield ,Bangalore,Deposit,29173.85,2024-12-22,Success,
+ TXN79073 ,CUST7399,Whitefield ,Bangalore,Deposit,69082.08,2024-10-01,FAIL,Insufficient Funds
+ TXN14889 ,CUST3966,Whitefield ,Bangalore,Deposit,20476.28,2025-02-06,Pending,
+ TXN98011 ,CUST4701,Whitefield ,Bangalore,Transfer,36892.82,2024-08-08,FAIL,Insufficient Funds
+ TXN91095 ,CUST5499,Whitefield ,Bangalore,Deposit,53136.61,2024-09-14,pending,
+ TXN40939 ,CUST2059,Whitefield ,Bangalore,Transfer,47739.83,2025-04-12,FAIL,Network Issue
+ TXN37853 ,CUST8357,Whitefield ,Bangalore,Deposit,48742.49,2024-10-29,Pending,
+ TXN88659 ,CUST7691,Whitefield ,Bangalore,Transfer,57604.31,2024-08-27,Failed,Account Closed
+ TXN77303 ,CUST2382,Whitefield ,Bangalore,Deposit,24677.39,2024-07-22,pending,
+ TXN89873 ,CUST1125,Whitefield ,Bangalore,Deposit,51977.45,2024-08-15,pending,
+ TXN39236 ,CUST9058,Whitefield ,Bangalore,Deposit,84669.36,2024-10-09,success,
+ TXN94510 ,CUST3697,Whitefield ,Bangalore,Transfer,71640.35,2024-07-02,FAIL,Insufficient Funds
+ TXN55381 ,CUST9386,Whitefield ,Bangalore,Transfer,32341.11,2024-09-10,FAIL,Limit Exceeded
+ TXN92194 ,CUST3099,Whitefield ,Bangalore,Withdrawal,21860.23,2024-05-25,success,
+ TXN67351 ,CUST8984,Whitefield ,Bangalore,Withdrawal,72630.06,2025-01-17,Pending,
+ TXN27088 ,CUST1391,Whitefield ,Bangalore,Transfer,96495.83,2025-01-14,Success,
+ TXN18911 ,CUST9567,Whitefield ,Bangalore,Deposit,34130.91,2024-11-01,FAIL,Technical Error
+ TXN51282 ,CUST7113,Whitefield ,Bangalore,Withdrawal,37862.32,2025-04-02,Success,
+ TXN74775 ,CUST3487,Whitefield ,Bangalore,Transfer,22939.37,2025-04-17,success,
+ TXN27451 ,CUST2992,Whitefield ,Bangalore,Transfer,39024.42,2024-09-13,Success,
+ TXN18434 ,CUST9342,Whitefield ,Bangalore,Transfer,14215.67,2025-03-30,pending,
+ TXN73769 ,CUST4260,Whitefield ,Bangalore,Transfer,3262.89,2025-03-08,success,
+ TXN78634 ,CUST2031,Whitefield ,Bangalore,Withdrawal,63576.27,2024-11-20,Success,
+ TXN81006 ,CUST4142,Whitefield ,Bangalore,Deposit,34598.96,2024-12-25,pending,
+ TXN35962 ,CUST9636,Whitefield ,Bangalore,Withdrawal,97463.0,2025-03-19,pending,
+ TXN21776 ,CUST6459,Whitefield ,Bangalore,Deposit,64559.97,2024-10-04,pending,
+ TXN32287 ,CUST9413,Whitefield ,Bangalore,Withdrawal,72879.14,2025-03-08,pending,
+ TXN66287 ,CUST8069,Whitefield ,Bangalore,Deposit,6678.89,2025-02-04,pending,
+ TXN40589 ,CUST9447,Whitefield ,Bangalore,Deposit,67959.37,2024-07-12,Failed,Network Issue
+ TXN76787 ,CUST2390,Whitefield ,Bangalore,Deposit,61187.0,2024-11-06,FAIL,Limit Exceeded
+ TXN33371 ,CUST9023,Whitefield ,Bangalore,Withdrawal,6946.69,2025-02-13,Pending,
+ TXN64887 ,CUST8373,Whitefield ,Bangalore,Transfer,25530.22,2025-04-27,Failed,Network Issue
+ TXN60696 ,CUST7367,Whitefield ,Bangalore,Deposit,22845.42,2024-11-16,FAIL,Account Closed
+ TXN81022 ,CUST9042,Whitefield ,Bangalore,Transfer,89658.67,2025-04-08,Pending,
+ TXN53437 ,CUST6326,Whitefield ,Bangalore,Transfer,93266.93,2024-08-21,Pending,
+ TXN63850 ,CUST3165,Whitefield ,Bangalore,Withdrawal,46524.67,2024-08-02,pending,

@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN66421 ,CUST2715,Koramangala ,Bangalore,Transfer,19557.86,2025-01-06,FAIL,Limit Exceeded
+ TXN24275 ,CUST5581,Koramangala ,Bangalore,Withdrawal,85723.76,2025-03-08,success,
+ TXN83708 ,CUST2977,Koramangala ,Bangalore,Transfer,67765.87,2024-08-28,pending,
+ TXN79631 ,CUST2335,Koramangala ,Bangalore,Transfer,22770.45,2024-12-05,Pending,
+ TXN54130 ,CUST1111,Koramangala ,Bangalore,Transfer,31812.69,2024-12-09,pending,
+ TXN78213 ,CUST4099,Koramangala ,Bangalore,Transfer,18367.08,2025-03-05,success,
+ TXN14105 ,CUST9314,Koramangala ,Bangalore,Transfer,1390.31,2025-03-15,success,
+ TXN19042 ,CUST3821,Koramangala ,Bangalore,Deposit,49956.69,2025-02-24,Success,
+ TXN76826 ,CUST1055,Koramangala ,Bangalore,Withdrawal,17222.16,2024-08-26,Failed,Account Closed
+ TXN65542 ,CUST8361,Koramangala ,Bangalore,Transfer,9287.66,2024-09-06,Pending,
+ TXN17358 ,CUST7817,Koramangala ,Bangalore,Withdrawal,53853.56,2024-12-10,Pending,
+ TXN34783 ,CUST5540,Koramangala ,Bangalore,Transfer,26081.65,2024-06-16,pending,
+ TXN94575 ,CUST8897,Koramangala ,Bangalore,Transfer,19222.54,2025-02-07,success,
+ TXN53458 ,CUST4640,Koramangala ,Bangalore,Transfer,42020.7,2024-08-20,pending,
+ TXN79220 ,CUST1273,Koramangala ,Bangalore,Deposit,27493.09,2024-06-16,success,
+ TXN63031 ,CUST8076,Koramangala ,Bangalore,Transfer,92783.31,2024-05-21,Success,
+ TXN49194 ,CUST4225,Koramangala ,Bangalore,Transfer,50846.09,2024-09-21,FAIL,Network Issue
+ TXN81004 ,CUST3489,Koramangala ,Bangalore,Withdrawal,72003.12,2024-12-26,pending,
+ TXN93276 ,CUST3937,Koramangala ,Bangalore,Withdrawal,80762.93,2024-12-30,Success,
+ TXN55890 ,CUST8948,Koramangala ,Bangalore,Deposit,10723.79,2024-11-12,Pending,
+ TXN30492 ,CUST7018,Koramangala ,Bangalore,Deposit,46623.0,2025-01-27,Failed,Network Issue
+ TXN47238 ,CUST7250,Koramangala ,Bangalore,Transfer,12470.67,2024-06-30,Success,
+ TXN56829 ,CUST6342,Koramangala ,Bangalore,Withdrawal,43713.85,2024-08-11,pending,
+ TXN85485 ,CUST3960,Koramangala ,Bangalore,Transfer,15503.38,2024-11-15,success,
+ TXN61901 ,CUST9949,Koramangala ,Bangalore,Withdrawal,21369.53,2024-09-27,Pending,
+ TXN18290 ,CUST2597,Koramangala ,Bangalore,Deposit,71282.26,2025-05-01,pending,
+ TXN68802 ,CUST2775,Koramangala ,Bangalore,Transfer,53465.36,2024-05-09,FAIL,Network Issue
+ TXN86642 ,CUST8882,Koramangala ,Bangalore,Transfer,74963.81,2025-03-27,Failed,Technical Error
+ TXN30286 ,CUST8850,Koramangala ,Bangalore,Deposit,80514.55,2025-02-12,success,
+ TXN48035 ,CUST3094,Koramangala ,Bangalore,Transfer,28649.81,2024-11-20,Failed,Account Closed
+ TXN80683 ,CUST6933,Koramangala ,Bangalore,Deposit,84337.19,2025-04-30,Success,
+ TXN78247 ,CUST3835,Koramangala ,Bangalore,Withdrawal,10073.11,2025-01-16,pending,
+ TXN77007 ,CUST5589,Koramangala ,Bangalore,Withdrawal,28196.46,2024-11-11,FAIL,Account Closed
+ TXN96856 ,CUST3989,Koramangala ,Bangalore,Withdrawal,24375.19,2024-05-28,Failed,Insufficient Funds
+ TXN81751 ,CUST6293,Koramangala ,Bangalore,Deposit,79516.1,2025-02-18,Success,
+ TXN87282 ,CUST5883,Koramangala ,Bangalore,Transfer,95125.48,2025-04-19,FAIL,Insufficient Funds
+ TXN58104 ,CUST5711,Koramangala ,Bangalore,Deposit,60692.48,2025-01-02,FAIL,Account Closed
+ TXN48065 ,CUST4259,Koramangala ,Bangalore,Transfer,19597.32,2024-08-12,Success,
+ TXN40345 ,CUST6182,Koramangala ,Bangalore,Transfer,85835.2,2025-03-05,success,
+ TXN55127 ,CUST2974,Koramangala ,Bangalore,Withdrawal,73525.32,2024-06-10,Failed,Network Issue
+ TXN99102 ,CUST6692,Koramangala ,Bangalore,Withdrawal,55296.73,2024-12-07,pending,
+ TXN12252 ,CUST8451,Koramangala ,Bangalore,Withdrawal,85185.01,2025-01-06,Pending,
+ TXN73220 ,CUST3569,Koramangala ,Bangalore,Withdrawal,3968.59,2024-10-29,Success,
+ TXN75505 ,CUST6967,Koramangala ,Bangalore,Withdrawal,13317.97,2024-06-29,FAIL,Account Closed
+ TXN42537 ,CUST9182,Koramangala ,Bangalore,Transfer,70390.43,2024-09-08,Pending,
+ TXN63994 ,CUST4897,Koramangala ,Bangalore,Withdrawal,93650.6,2024-06-02,Pending,
+ TXN69349 ,CUST5325,Koramangala ,Bangalore,Transfer,29778.8,2024-07-09,Pending,
+ TXN79485 ,CUST9120,Koramangala ,Bangalore,Deposit,2067.69,2024-07-06,Success,
+ TXN22611 ,CUST8369,Koramangala ,Bangalore,Deposit,24019.26,2025-02-07,success,
+ TXN30072 ,CUST6250,Koramangala ,Bangalore,Deposit,31114.26,2024-10-09,pending,
+ TXN40062 ,CUST2230,Koramangala ,Bangalore,Withdrawal,59442.18,2024-05-29,FAIL,Technical Error
+ TXN14219 ,CUST2014,Koramangala ,Bangalore,Transfer,75483.06,2025-05-07,Failed,Limit Exceeded
+ TXN43294 ,CUST6553,Koramangala ,Bangalore,Withdrawal,41502.14,2024-12-26,Pending,
+ TXN99142 ,CUST9610,Koramangala ,Bangalore,Transfer,85509.27,2025-02-06,success,
+ TXN24648 ,CUST6392,Koramangala ,Bangalore,Transfer,74936.09,2025-05-07,FAIL,Limit Exceeded
+ TXN92510 ,CUST6518,Koramangala ,Bangalore,Deposit,59791.11,2025-04-04,pending,
+ TXN20864 ,CUST3523,Koramangala ,Bangalore,Deposit,19793.27,2025-04-20,success,
+ TXN86461 ,CUST5919,Koramangala ,Bangalore,Withdrawal,59601.82,2024-06-08,success,
+ TXN80785 ,CUST6214,Koramangala ,Bangalore,Withdrawal,15836.85,2024-05-24,Success,
+ TXN48496 ,CUST3227,Koramangala ,Bangalore,Transfer,20897.78,2024-10-30,success,
+ TXN87345 ,CUST9875,Koramangala ,Bangalore,Deposit,76863.32,2024-07-27,success,
+ TXN41399 ,CUST1113,Koramangala ,Bangalore,Transfer,14879.63,2024-12-23,FAIL,Account Closed
+ TXN43019 ,CUST1783,Koramangala ,Bangalore,Withdrawal,99869.41,2024-07-28,success,
+ TXN86807 ,CUST3239,Koramangala ,Bangalore,Withdrawal,15575.19,2025-01-15,Pending,
+ TXN11336 ,CUST2146,Koramangala ,Bangalore,Transfer,24695.2,2025-03-01,Success,
+ TXN66124 ,CUST3673,Koramangala ,Bangalore,Withdrawal,23677.49,2024-12-04,success,
+ TXN93443 ,CUST6885,Koramangala ,Bangalore,Transfer,54105.36,2024-12-14,success,
+ TXN65690 ,CUST6218,Koramangala ,Bangalore,Withdrawal,69315.04,2024-08-09,pending,
+ TXN21831 ,CUST2090,Koramangala ,Bangalore,Deposit,6819.0,2025-01-15,FAIL,Limit Exceeded
+ TXN95573 ,CUST6386,Koramangala ,Bangalore,Transfer,48650.49,2024-11-21,success,
+ TXN76470 ,CUST7931,Koramangala ,Bangalore,Withdrawal,97610.22,2025-03-18,FAIL,Account Closed
+ TXN34191 ,CUST4312,Koramangala ,Bangalore,Transfer,15159.11,2024-05-08,FAIL,Limit Exceeded
+ TXN64940 ,CUST8565,Koramangala ,Bangalore,Transfer,876.65,2024-12-25,Success,
+ TXN90909 ,CUST6909,Koramangala ,Bangalore,Deposit,46639.46,2024-09-18,pending,
+ TXN51975 ,CUST8783,Koramangala ,Bangalore,Transfer,28696.56,2025-04-10,FAIL,Account Closed
+ TXN68683 ,CUST6805,Koramangala ,Bangalore,Transfer,79989.97,2024-10-12,Pending,
+ TXN31893 ,CUST5732,Koramangala ,Bangalore,Transfer,13226.45,2025-02-03,pending,
+ TXN70972 ,CUST8952,Koramangala ,Bangalore,Deposit,12106.94,2024-12-25,FAIL,Technical Error
+ TXN70634 ,CUST3364,Koramangala ,Bangalore,Deposit,76769.61,2024-10-21,success,
+ TXN55261 ,CUST4496,Koramangala ,Bangalore,Deposit,12928.32,2024-08-18,Pending,
+ TXN32258 ,CUST6182,Koramangala ,Bangalore,Deposit,95118.49,2024-06-13,Pending,
+ TXN73641 ,CUST7487,Koramangala ,Bangalore,Deposit,22425.82,2024-12-20,pending,
+ TXN45696 ,CUST9997,Koramangala ,Bangalore,Deposit,86599.01,2025-04-13,Failed,Network Issue
+ TXN42135 ,CUST8282,Koramangala ,Bangalore,Withdrawal,38660.25,2024-09-15,pending,
+ TXN13503 ,CUST6536,Koramangala ,Bangalore,Transfer,72760.77,2024-10-27,pending,
+ TXN18842 ,CUST1176,Koramangala ,Bangalore,Deposit,25857.41,2024-09-14,success,
+ TXN93585 ,CUST3167,Koramangala ,Bangalore,Transfer,48937.69,2024-09-11,success,
+ TXN72987 ,CUST1415,Koramangala ,Bangalore,Deposit,81520.37,2025-04-11,Success,
+ TXN56607 ,CUST8599,Koramangala ,Bangalore,Deposit,41857.55,2024-12-17,pending,
+ TXN68020 ,CUST7994,Koramangala ,Bangalore,Transfer,88744.41,2025-03-08,success,
+ TXN70513 ,CUST1619,Koramangala ,Bangalore,Deposit,6917.16,2024-10-26,FAIL,Insufficient Funds
+ TXN57428 ,CUST4119,Koramangala ,Bangalore,Transfer,3969.51,2024-11-29,Pending,
+ TXN20133 ,CUST1005,Koramangala ,Bangalore,Withdrawal,90472.34,2024-08-14,Failed,Limit Exceeded
+ TXN78201 ,CUST8461,Koramangala ,Bangalore,Deposit,28782.59,2024-11-03,FAIL,Insufficient Funds
+ TXN65656 ,CUST5273,Koramangala ,Bangalore,Withdrawal,68568.85,2024-07-15,pending,
+ TXN12950 ,CUST7752,Koramangala ,Bangalore,Withdrawal,83214.29,2024-10-26,FAIL,Network Issue
+ TXN31458 ,CUST7353,Koramangala ,Bangalore,Withdrawal,7672.01,2025-02-02,Success,
+ TXN64444 ,CUST5361,Koramangala ,Bangalore,Withdrawal,68505.64,2024-09-24,Success,
+ TXN61575 ,CUST3279,Koramangala ,Bangalore,Withdrawal,69872.41,2024-09-20,success,
+ TXN15135 ,CUST8943,Koramangala ,Bangalore,Transfer,12589.54,2024-10-22,pending,

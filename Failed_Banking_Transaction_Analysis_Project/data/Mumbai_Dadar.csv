@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN83577 ,CUST2334,Dadar ,Mumbai,Withdrawal,98779.12,2025-03-15,FAIL,Network Issue
+ TXN88261 ,CUST6181,Dadar ,Mumbai,Deposit,840.98,2024-06-01,Success,
+ TXN63217 ,CUST1144,Dadar ,Mumbai,Withdrawal,27203.59,2025-03-23,success,
+ TXN90976 ,CUST9190,Dadar ,Mumbai,Transfer,52440.3,2024-10-14,FAIL,Account Closed
+ TXN40711 ,CUST2123,Dadar ,Mumbai,Withdrawal,70832.17,2024-06-19,Pending,
+ TXN74620 ,CUST6238,Dadar ,Mumbai,Transfer,25952.33,2024-11-05,Pending,
+ TXN73212 ,CUST5195,Dadar ,Mumbai,Transfer,56575.34,2024-07-25,Failed,Account Closed
+ TXN45387 ,CUST5041,Dadar ,Mumbai,Transfer,55076.47,2024-09-13,FAIL,Network Issue
+ TXN66072 ,CUST4969,Dadar ,Mumbai,Withdrawal,76744.24,2025-01-29,Pending,
+ TXN31887 ,CUST5216,Dadar ,Mumbai,Deposit,28271.71,2024-08-10,success,
+ TXN33629 ,CUST9989,Dadar ,Mumbai,Transfer,38403.99,2024-12-20,Failed,Technical Error
+ TXN97072 ,CUST4193,Dadar ,Mumbai,Transfer,5261.77,2025-02-06,Pending,
+ TXN55494 ,CUST9756,Dadar ,Mumbai,Withdrawal,54022.74,2024-06-29,pending,
+ TXN31186 ,CUST6518,Dadar ,Mumbai,Withdrawal,66056.97,2024-08-02,success,
+ TXN18545 ,CUST6226,Dadar ,Mumbai,Withdrawal,65239.32,2024-08-11,Pending,
+ TXN59604 ,CUST4881,Dadar ,Mumbai,Transfer,22727.05,2025-04-24,Failed,Network Issue
+ TXN14201 ,CUST9477,Dadar ,Mumbai,Deposit,85659.61,2024-09-10,FAIL,Technical Error
+ TXN18152 ,CUST2900,Dadar ,Mumbai,Transfer,84590.58,2024-06-29,success,
+ TXN84114 ,CUST9491,Dadar ,Mumbai,Transfer,74951.26,2025-02-25,pending,
+ TXN31154 ,CUST4034,Dadar ,Mumbai,Deposit,55544.36,2025-02-23,pending,
+ TXN60738 ,CUST4087,Dadar ,Mumbai,Transfer,28973.39,2025-01-08,FAIL,Network Issue
+ TXN66669 ,CUST6448,Dadar ,Mumbai,Deposit,91151.9,2024-12-09,FAIL,Insufficient Funds
+ TXN28631 ,CUST8221,Dadar ,Mumbai,Deposit,41628.16,2024-05-25,Pending,
+ TXN29806 ,CUST5453,Dadar ,Mumbai,Withdrawal,32149.47,2024-12-18,success,
+ TXN40235 ,CUST5908,Dadar ,Mumbai,Withdrawal,3716.28,2024-10-23,success,
+ TXN17558 ,CUST5404,Dadar ,Mumbai,Withdrawal,403.67,2024-12-20,pending,
+ TXN49531 ,CUST8327,Dadar ,Mumbai,Deposit,38343.96,2024-09-18,success,
+ TXN99846 ,CUST1140,Dadar ,Mumbai,Transfer,78092.31,2025-04-06,success,
+ TXN87729 ,CUST2168,Dadar ,Mumbai,Transfer,36164.04,2025-03-31,FAIL,Network Issue
+ TXN69838 ,CUST4991,Dadar ,Mumbai,Transfer,60949.63,2024-10-21,Success,
+ TXN87556 ,CUST7883,Dadar ,Mumbai,Withdrawal,92070.73,2025-04-20,success,
+ TXN71187 ,CUST7644,Dadar ,Mumbai,Withdrawal,89493.29,2024-08-03,success,
+ TXN25257 ,CUST4335,Dadar ,Mumbai,Withdrawal,38682.14,2024-06-12,Failed,Technical Error
+ TXN72691 ,CUST5765,Dadar ,Mumbai,Withdrawal,99661.24,2025-04-12,pending,
+ TXN37868 ,CUST1102,Dadar ,Mumbai,Transfer,21045.39,2025-04-29,Success,
+ TXN32395 ,CUST5095,Dadar ,Mumbai,Withdrawal,72599.13,2024-10-06,FAIL,Technical Error
+ TXN94454 ,CUST9171,Dadar ,Mumbai,Withdrawal,36592.87,2024-09-24,Failed,Insufficient Funds
+ TXN93281 ,CUST5556,Dadar ,Mumbai,Deposit,26628.07,2025-03-23,Pending,
+ TXN24275 ,CUST9263,Dadar ,Mumbai,Deposit,24593.19,2024-09-04,Failed,Limit Exceeded
+ TXN45384 ,CUST5773,Dadar ,Mumbai,Withdrawal,45869.63,2024-07-01,Failed,Network Issue
+ TXN16225 ,CUST7208,Dadar ,Mumbai,Withdrawal,89426.83,2024-08-01,pending,
+ TXN10304 ,CUST9774,Dadar ,Mumbai,Deposit,44031.76,2024-05-11,Failed,Insufficient Funds
+ TXN56043 ,CUST8341,Dadar ,Mumbai,Withdrawal,46425.64,2024-05-29,Failed,Network Issue
+ TXN68539 ,CUST4384,Dadar ,Mumbai,Transfer,62447.19,2024-09-29,success,
+ TXN27603 ,CUST1424,Dadar ,Mumbai,Deposit,53050.55,2024-12-23,Success,
+ TXN79762 ,CUST6212,Dadar ,Mumbai,Transfer,7791.07,2024-06-09,Failed,Account Closed
+ TXN53357 ,CUST7635,Dadar ,Mumbai,Transfer,89326.52,2024-07-15,pending,
+ TXN31946 ,CUST7341,Dadar ,Mumbai,Withdrawal,2510.12,2024-09-13,FAIL,Technical Error
+ TXN98076 ,CUST7941,Dadar ,Mumbai,Withdrawal,90670.3,2024-11-22,pending,
+ TXN38704 ,CUST2639,Dadar ,Mumbai,Deposit,31950.73,2025-01-17,Pending,
+ TXN61814 ,CUST1900,Dadar ,Mumbai,Deposit,97257.51,2025-04-07,success,
+ TXN82356 ,CUST3579,Dadar ,Mumbai,Withdrawal,22151.45,2024-06-21,Success,
+ TXN61588 ,CUST5171,Dadar ,Mumbai,Withdrawal,1296.84,2024-07-10,Failed,Technical Error
+ TXN97989 ,CUST6369,Dadar ,Mumbai,Transfer,86998.42,2025-03-31,pending,
+ TXN74401 ,CUST7470,Dadar ,Mumbai,Transfer,54474.67,2024-12-25,FAIL,Limit Exceeded
+ TXN33198 ,CUST5943,Dadar ,Mumbai,Transfer,47455.89,2024-07-25,Success,
+ TXN15655 ,CUST1227,Dadar ,Mumbai,Withdrawal,60334.3,2025-01-14,Pending,
+ TXN72442 ,CUST8743,Dadar ,Mumbai,Deposit,77859.31,2025-03-13,Pending,
+ TXN61619 ,CUST2967,Dadar ,Mumbai,Transfer,23310.97,2024-12-22,Failed,Insufficient Funds
+ TXN61660 ,CUST8394,Dadar ,Mumbai,Withdrawal,80706.49,2024-11-24,Failed,Technical Error
+ TXN48838 ,CUST5468,Dadar ,Mumbai,Transfer,17576.94,2024-12-29,success,
+ TXN27970 ,CUST7639,Dadar ,Mumbai,Deposit,35325.65,2025-02-27,Failed,Network Issue
+ TXN40026 ,CUST1667,Dadar ,Mumbai,Transfer,82185.36,2025-04-01,Success,
+ TXN68587 ,CUST2578,Dadar ,Mumbai,Deposit,16821.68,2024-05-12,success,
+ TXN96316 ,CUST3867,Dadar ,Mumbai,Withdrawal,37567.72,2024-05-20,Pending,
+ TXN17657 ,CUST3733,Dadar ,Mumbai,Transfer,678.0,2024-06-07,success,
+ TXN55124 ,CUST4644,Dadar ,Mumbai,Transfer,90440.14,2024-08-14,pending,
+ TXN60314 ,CUST1241,Dadar ,Mumbai,Withdrawal,39348.51,2025-01-30,Pending,
+ TXN91225 ,CUST1021,Dadar ,Mumbai,Transfer,39838.63,2024-06-15,Success,
+ TXN18275 ,CUST8534,Dadar ,Mumbai,Withdrawal,64975.51,2025-02-01,Pending,
+ TXN83231 ,CUST9142,Dadar ,Mumbai,Transfer,82212.09,2024-09-23,pending,
+ TXN32993 ,CUST9272,Dadar ,Mumbai,Transfer,33992.73,2024-12-09,Success,
+ TXN67186 ,CUST8572,Dadar ,Mumbai,Transfer,67838.51,2025-01-29,Pending,
+ TXN70902 ,CUST1632,Dadar ,Mumbai,Transfer,68642.99,2024-07-03,Failed,Insufficient Funds
+ TXN68353 ,CUST7837,Dadar ,Mumbai,Transfer,19503.83,2024-06-14,FAIL,Technical Error
+ TXN87559 ,CUST2257,Dadar ,Mumbai,Withdrawal,10108.78,2025-01-31,Success,
+ TXN30171 ,CUST2571,Dadar ,Mumbai,Deposit,88007.58,2024-06-18,success,
+ TXN15197 ,CUST8011,Dadar ,Mumbai,Withdrawal,98833.09,2024-12-26,pending,
+ TXN89634 ,CUST4770,Dadar ,Mumbai,Transfer,39083.62,2025-03-28,success,
+ TXN26728 ,CUST6608,Dadar ,Mumbai,Deposit,22826.23,2024-08-21,FAIL,Technical Error
+ TXN50275 ,CUST8109,Dadar ,Mumbai,Transfer,25187.46,2025-04-19,FAIL,Technical Error
+ TXN45282 ,CUST4156,Dadar ,Mumbai,Deposit,87119.66,2024-12-16,FAIL,Technical Error
+ TXN57002 ,CUST8645,Dadar ,Mumbai,Withdrawal,65108.67,2024-06-01,success,
+ TXN45687 ,CUST1613,Dadar ,Mumbai,Transfer,27825.0,2025-03-11,pending,
+ TXN30077 ,CUST5832,Dadar ,Mumbai,Deposit,36749.27,2024-09-04,FAIL,Account Closed
+ TXN60948 ,CUST3936,Dadar ,Mumbai,Deposit,13519.52,2024-10-29,Pending,
+ TXN21276 ,CUST8719,Dadar ,Mumbai,Deposit,78436.26,2024-08-06,pending,
+ TXN33641 ,CUST3782,Dadar ,Mumbai,Deposit,81136.3,2025-01-19,pending,
+ TXN20661 ,CUST4313,Dadar ,Mumbai,Transfer,57464.5,2024-09-23,Pending,
+ TXN90254 ,CUST2915,Dadar ,Mumbai,Transfer,16004.72,2025-04-01,FAIL,Limit Exceeded
+ TXN26294 ,CUST8962,Dadar ,Mumbai,Deposit,41546.55,2025-05-01,Pending,
+ TXN64799 ,CUST3500,Dadar ,Mumbai,Deposit,19780.46,2025-04-25,FAIL,Network Issue
+ TXN66071 ,CUST3017,Dadar ,Mumbai,Transfer,78046.97,2025-04-10,pending,
+ TXN10032 ,CUST6154,Dadar ,Mumbai,Withdrawal,79712.83,2025-03-21,Failed,Limit Exceeded
+ TXN33809 ,CUST9695,Dadar ,Mumbai,Withdrawal,2654.38,2025-02-15,pending,
+ TXN96646 ,CUST2279,Dadar ,Mumbai,Withdrawal,33256.75,2025-01-29,Pending,
+ TXN76631 ,CUST3761,Dadar ,Mumbai,Withdrawal,60459.21,2025-02-20,FAIL,Network Issue
+ TXN26693 ,CUST4962,Dadar ,Mumbai,Transfer,5305.46,2024-08-21,success,
+ TXN65658 ,CUST8955,Dadar ,Mumbai,Deposit,63361.6,2024-09-09,Failed,Account Closed
+ TXN21518 ,CUST4196,Dadar ,Mumbai,Deposit,40385.86,2025-03-11,FAIL,Insufficient Funds

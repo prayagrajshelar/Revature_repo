@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN37459 ,CUST7352,Bandra ,Mumbai,Withdrawal,20535.98,2025-03-26,Failed,Limit Exceeded
+ TXN55900 ,CUST9919,Bandra ,Mumbai,Transfer,55086.54,2024-08-09,success,
+ TXN77258 ,CUST2646,Bandra ,Mumbai,Transfer,63835.63,2025-05-06,success,
+ TXN32664 ,CUST2327,Bandra ,Mumbai,Deposit,27589.14,2025-01-27,Failed,Insufficient Funds
+ TXN80984 ,CUST7224,Bandra ,Mumbai,Transfer,79900.75,2025-04-29,Success,
+ TXN24017 ,CUST3551,Bandra ,Mumbai,Transfer,24288.08,2024-05-08,Failed,Technical Error
+ TXN61032 ,CUST8803,Bandra ,Mumbai,Deposit,56414.84,2024-11-23,Pending,
+ TXN29446 ,CUST2364,Bandra ,Mumbai,Withdrawal,79429.82,2025-04-04,Failed,Account Closed
+ TXN38716 ,CUST7599,Bandra ,Mumbai,Deposit,58744.62,2024-05-13,success,
+ TXN90198 ,CUST7678,Bandra ,Mumbai,Deposit,96324.84,2024-05-29,pending,
+ TXN70191 ,CUST8573,Bandra ,Mumbai,Transfer,25715.36,2024-05-09,Failed,Insufficient Funds
+ TXN59116 ,CUST3972,Bandra ,Mumbai,Withdrawal,95798.31,2024-07-01,Pending,
+ TXN41709 ,CUST4968,Bandra ,Mumbai,Transfer,50930.37,2024-07-07,pending,
+ TXN49134 ,CUST3997,Bandra ,Mumbai,Deposit,11163.42,2025-04-20,pending,
+ TXN13827 ,CUST6428,Bandra ,Mumbai,Deposit,38669.22,2025-01-23,Pending,
+ TXN72485 ,CUST4421,Bandra ,Mumbai,Deposit,72952.69,2024-12-16,FAIL,Technical Error
+ TXN86517 ,CUST7458,Bandra ,Mumbai,Deposit,91509.99,2024-11-07,pending,
+ TXN80634 ,CUST8495,Bandra ,Mumbai,Deposit,56940.99,2024-07-12,FAIL,Limit Exceeded
+ TXN84861 ,CUST4641,Bandra ,Mumbai,Deposit,50536.08,2024-07-31,success,
+ TXN17861 ,CUST3197,Bandra ,Mumbai,Transfer,31368.88,2024-07-03,Failed,Network Issue
+ TXN69413 ,CUST2597,Bandra ,Mumbai,Deposit,33836.15,2025-04-19,Success,
+ TXN26562 ,CUST9102,Bandra ,Mumbai,Deposit,31997.89,2025-02-16,Success,
+ TXN72513 ,CUST5914,Bandra ,Mumbai,Deposit,91743.94,2025-04-15,Success,
+ TXN27935 ,CUST2447,Bandra ,Mumbai,Deposit,24639.33,2024-11-26,FAIL,Insufficient Funds
+ TXN56603 ,CUST2122,Bandra ,Mumbai,Withdrawal,46778.86,2025-04-26,Failed,Technical Error
+ TXN33076 ,CUST4676,Bandra ,Mumbai,Withdrawal,75368.76,2024-10-24,success,
+ TXN94949 ,CUST6652,Bandra ,Mumbai,Deposit,71202.47,2025-05-08,success,
+ TXN49257 ,CUST6962,Bandra ,Mumbai,Withdrawal,68907.1,2025-01-25,Failed,Insufficient Funds
+ TXN49937 ,CUST1606,Bandra ,Mumbai,Deposit,2117.02,2024-12-04,success,
+ TXN25527 ,CUST9494,Bandra ,Mumbai,Transfer,52562.26,2024-12-07,Pending,
+ TXN42424 ,CUST5597,Bandra ,Mumbai,Deposit,50895.09,2024-05-12,Success,
+ TXN76967 ,CUST1190,Bandra ,Mumbai,Withdrawal,83725.45,2024-05-25,pending,
+ TXN28174 ,CUST5476,Bandra ,Mumbai,Transfer,80912.86,2024-10-11,Pending,
+ TXN13623 ,CUST4512,Bandra ,Mumbai,Withdrawal,61867.64,2025-01-23,pending,
+ TXN51886 ,CUST6225,Bandra ,Mumbai,Withdrawal,26133.44,2024-08-20,success,
+ TXN60405 ,CUST3612,Bandra ,Mumbai,Transfer,36391.97,2024-05-24,Failed,Insufficient Funds
+ TXN23731 ,CUST5345,Bandra ,Mumbai,Withdrawal,88064.95,2024-12-18,pending,
+ TXN91814 ,CUST4903,Bandra ,Mumbai,Transfer,99868.78,2025-01-08,pending,
+ TXN33140 ,CUST7755,Bandra ,Mumbai,Withdrawal,31935.67,2024-07-17,success,
+ TXN42252 ,CUST9282,Bandra ,Mumbai,Deposit,63120.79,2024-11-13,Success,
+ TXN18178 ,CUST5000,Bandra ,Mumbai,Deposit,94346.19,2024-11-17,Failed,Network Issue
+ TXN52171 ,CUST1763,Bandra ,Mumbai,Transfer,30824.95,2025-01-08,success,
+ TXN93203 ,CUST7125,Bandra ,Mumbai,Transfer,73902.45,2024-05-13,pending,
+ TXN11513 ,CUST7848,Bandra ,Mumbai,Withdrawal,48120.63,2025-04-15,Failed,Account Closed
+ TXN53235 ,CUST1817,Bandra ,Mumbai,Withdrawal,15692.85,2025-02-12,success,
+ TXN57861 ,CUST6865,Bandra ,Mumbai,Deposit,99401.73,2025-03-16,FAIL,Account Closed
+ TXN50670 ,CUST4767,Bandra ,Mumbai,Withdrawal,11838.13,2024-09-11,Success,
+ TXN85670 ,CUST3106,Bandra ,Mumbai,Transfer,29729.19,2024-11-23,Success,
+ TXN35451 ,CUST8882,Bandra ,Mumbai,Withdrawal,23688.24,2024-06-06,pending,
+ TXN48219 ,CUST9029,Bandra ,Mumbai,Transfer,91484.78,2024-09-15,success,
+ TXN14539 ,CUST8826,Bandra ,Mumbai,Deposit,8631.66,2025-03-18,pending,
+ TXN63077 ,CUST9519,Bandra ,Mumbai,Deposit,88500.39,2024-05-27,FAIL,Account Closed
+ TXN22593 ,CUST9894,Bandra ,Mumbai,Withdrawal,25871.65,2024-09-28,pending,
+ TXN12729 ,CUST4076,Bandra ,Mumbai,Deposit,43692.67,2024-08-05,Success,
+ TXN61924 ,CUST6163,Bandra ,Mumbai,Withdrawal,75167.36,2024-12-02,Failed,Insufficient Funds
+ TXN32284 ,CUST5058,Bandra ,Mumbai,Deposit,45309.59,2024-06-07,Success,
+ TXN84358 ,CUST1064,Bandra ,Mumbai,Transfer,99675.18,2025-01-30,Success,
+ TXN32163 ,CUST1240,Bandra ,Mumbai,Deposit,43383.27,2025-03-24,Success,
+ TXN15402 ,CUST8375,Bandra ,Mumbai,Withdrawal,26251.69,2024-09-24,pending,
+ TXN88442 ,CUST2226,Bandra ,Mumbai,Withdrawal,83911.58,2024-12-10,Failed,Account Closed
+ TXN42414 ,CUST9887,Bandra ,Mumbai,Transfer,62486.07,2025-01-14,Success,
+ TXN43067 ,CUST3684,Bandra ,Mumbai,Withdrawal,45753.97,2025-04-06,success,
+ TXN81656 ,CUST4019,Bandra ,Mumbai,Transfer,7604.24,2025-04-08,Success,
+ TXN80098 ,CUST2239,Bandra ,Mumbai,Transfer,62010.94,2024-10-08,pending,
+ TXN85735 ,CUST6055,Bandra ,Mumbai,Withdrawal,45623.19,2024-08-13,Pending,
+ TXN31379 ,CUST5276,Bandra ,Mumbai,Deposit,25683.26,2024-11-05,pending,
+ TXN89981 ,CUST1413,Bandra ,Mumbai,Withdrawal,36789.19,2025-02-01,FAIL,Insufficient Funds
+ TXN60868 ,CUST7650,Bandra ,Mumbai,Transfer,89536.32,2024-10-04,Failed,Technical Error
+ TXN32068 ,CUST9053,Bandra ,Mumbai,Withdrawal,71773.16,2025-03-30,success,
+ TXN44262 ,CUST9786,Bandra ,Mumbai,Withdrawal,31554.11,2024-11-09,pending,
+ TXN18477 ,CUST6694,Bandra ,Mumbai,Withdrawal,71613.1,2024-11-01,pending,
+ TXN86898 ,CUST5367,Bandra ,Mumbai,Transfer,68126.87,2024-07-11,FAIL,Limit Exceeded
+ TXN61091 ,CUST3028,Bandra ,Mumbai,Withdrawal,74679.94,2024-05-10,pending,
+ TXN39320 ,CUST5058,Bandra ,Mumbai,Transfer,25811.29,2025-05-01,Pending,
+ TXN99523 ,CUST7237,Bandra ,Mumbai,Transfer,59116.47,2025-02-17,Failed,Network Issue
+ TXN50252 ,CUST6011,Bandra ,Mumbai,Deposit,13561.74,2024-08-31,Pending,
+ TXN45274 ,CUST5272,Bandra ,Mumbai,Withdrawal,74099.58,2024-10-12,Success,
+ TXN17059 ,CUST1887,Bandra ,Mumbai,Transfer,88690.37,2024-12-15,FAIL,Insufficient Funds
+ TXN34536 ,CUST9943,Bandra ,Mumbai,Withdrawal,69127.19,2024-09-02,pending,
+ TXN94904 ,CUST8720,Bandra ,Mumbai,Withdrawal,35839.4,2024-05-16,FAIL,Network Issue
+ TXN99721 ,CUST4762,Bandra ,Mumbai,Transfer,23738.46,2025-04-24,pending,
+ TXN57429 ,CUST5673,Bandra ,Mumbai,Transfer,56371.63,2024-08-27,Pending,
+ TXN38933 ,CUST8885,Bandra ,Mumbai,Withdrawal,95958.68,2024-07-19,Failed,Network Issue
+ TXN96922 ,CUST5396,Bandra ,Mumbai,Withdrawal,9504.36,2024-05-14,success,
+ TXN74361 ,CUST7025,Bandra ,Mumbai,Transfer,31061.66,2025-02-12,Failed,Network Issue
+ TXN13601 ,CUST7724,Bandra ,Mumbai,Withdrawal,89071.22,2025-03-13,Success,
+ TXN37194 ,CUST6764,Bandra ,Mumbai,Withdrawal,18592.52,2025-03-24,success,
+ TXN12667 ,CUST3626,Bandra ,Mumbai,Deposit,52048.92,2025-04-04,Success,
+ TXN51305 ,CUST7055,Bandra ,Mumbai,Withdrawal,34379.07,2024-06-24,FAIL,Limit Exceeded
+ TXN37370 ,CUST5999,Bandra ,Mumbai,Withdrawal,33932.02,2024-11-02,Pending,
+ TXN39900 ,CUST3525,Bandra ,Mumbai,Transfer,29031.06,2025-02-23,Failed,Network Issue
+ TXN85999 ,CUST4380,Bandra ,Mumbai,Deposit,24405.84,2024-08-09,FAIL,Insufficient Funds
+ TXN17153 ,CUST5820,Bandra ,Mumbai,Withdrawal,19496.61,2024-06-28,pending,
+ TXN28130 ,CUST1405,Bandra ,Mumbai,Transfer,13631.54,2024-06-29,Pending,
+ TXN13912 ,CUST2250,Bandra ,Mumbai,Transfer,38022.04,2024-07-01,success,
+ TXN16398 ,CUST1998,Bandra ,Mumbai,Withdrawal,98434.58,2024-08-13,success,
+ TXN97797 ,CUST8972,Bandra ,Mumbai,Deposit,58702.99,2024-07-08,pending,
+ TXN70198 ,CUST1403,Bandra ,Mumbai,Withdrawal,41230.71,2025-03-19,Success,
+ TXN14619 ,CUST9878,Bandra ,Mumbai,Transfer,37340.01,2024-06-04,success,
+ TXN73092 ,CUST2274,Bandra ,Mumbai,Transfer,69356.23,2024-09-07,pending,

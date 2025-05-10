@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN41086 ,CUST4043,Mylapore ,Chennai,Deposit,52111.29,2024-06-01,Success,
+ TXN35998 ,CUST9061,Mylapore ,Chennai,Withdrawal,44797.42,2024-10-19,Failed,Network Issue
+ TXN81206 ,CUST1254,Mylapore ,Chennai,Transfer,50375.98,2025-03-20,FAIL,Limit Exceeded
+ TXN36217 ,CUST8970,Mylapore ,Chennai,Withdrawal,20376.23,2024-09-28,Failed,Technical Error
+ TXN12723 ,CUST2624,Mylapore ,Chennai,Withdrawal,40965.84,2024-08-10,Pending,
+ TXN78910 ,CUST9251,Mylapore ,Chennai,Transfer,87798.07,2025-03-26,success,
+ TXN10966 ,CUST8845,Mylapore ,Chennai,Transfer,12392.61,2024-09-17,Success,
+ TXN13500 ,CUST6275,Mylapore ,Chennai,Withdrawal,50045.17,2025-02-19,Failed,Insufficient Funds
+ TXN86172 ,CUST9784,Mylapore ,Chennai,Transfer,41542.63,2024-08-29,Success,
+ TXN53711 ,CUST1279,Mylapore ,Chennai,Transfer,33798.13,2025-03-17,FAIL,Network Issue
+ TXN52836 ,CUST6288,Mylapore ,Chennai,Withdrawal,621.34,2025-01-10,pending,
+ TXN29870 ,CUST4706,Mylapore ,Chennai,Withdrawal,34004.42,2025-01-31,Success,
+ TXN51407 ,CUST4553,Mylapore ,Chennai,Transfer,6244.16,2025-03-06,pending,
+ TXN25696 ,CUST8510,Mylapore ,Chennai,Transfer,44623.08,2025-05-05,Pending,
+ TXN56801 ,CUST4522,Mylapore ,Chennai,Withdrawal,83951.96,2024-12-14,FAIL,Limit Exceeded
+ TXN73977 ,CUST3854,Mylapore ,Chennai,Deposit,80027.33,2024-12-27,Pending,
+ TXN60391 ,CUST8219,Mylapore ,Chennai,Withdrawal,81664.43,2025-02-10,FAIL,Network Issue
+ TXN92977 ,CUST3951,Mylapore ,Chennai,Withdrawal,78453.64,2024-05-30,Failed,Technical Error
+ TXN30602 ,CUST9264,Mylapore ,Chennai,Deposit,86967.19,2025-04-19,Pending,
+ TXN82732 ,CUST3720,Mylapore ,Chennai,Deposit,53124.04,2024-08-05,pending,
+ TXN12294 ,CUST3036,Mylapore ,Chennai,Deposit,26269.98,2024-06-30,FAIL,Insufficient Funds
+ TXN83505 ,CUST3106,Mylapore ,Chennai,Withdrawal,95087.88,2025-05-04,Success,
+ TXN33490 ,CUST1805,Mylapore ,Chennai,Transfer,26895.34,2024-07-08,Failed,Account Closed
+ TXN18560 ,CUST1339,Mylapore ,Chennai,Withdrawal,55103.13,2024-10-13,Success,
+ TXN91285 ,CUST5152,Mylapore ,Chennai,Transfer,56732.22,2025-03-20,Success,
+ TXN17182 ,CUST9076,Mylapore ,Chennai,Transfer,32833.74,2024-11-25,Pending,
+ TXN48948 ,CUST6925,Mylapore ,Chennai,Withdrawal,37717.03,2024-08-19,pending,
+ TXN51025 ,CUST9103,Mylapore ,Chennai,Withdrawal,61405.74,2024-10-16,success,
+ TXN17255 ,CUST8434,Mylapore ,Chennai,Deposit,6405.21,2024-11-22,FAIL,Technical Error
+ TXN68500 ,CUST5665,Mylapore ,Chennai,Transfer,26644.75,2024-09-26,success,
+ TXN98269 ,CUST2194,Mylapore ,Chennai,Transfer,64466.54,2024-10-30,Pending,
+ TXN47410 ,CUST5395,Mylapore ,Chennai,Withdrawal,20901.41,2024-12-25,pending,
+ TXN85220 ,CUST4781,Mylapore ,Chennai,Withdrawal,63725.43,2024-08-13,Failed,Account Closed
+ TXN53046 ,CUST6637,Mylapore ,Chennai,Deposit,13181.83,2024-11-20,Pending,
+ TXN83712 ,CUST7559,Mylapore ,Chennai,Transfer,90676.44,2025-01-12,pending,
+ TXN17933 ,CUST4920,Mylapore ,Chennai,Withdrawal,35013.66,2024-11-13,Failed,Insufficient Funds
+ TXN67694 ,CUST5030,Mylapore ,Chennai,Withdrawal,58553.44,2024-07-17,Success,
+ TXN51111 ,CUST4527,Mylapore ,Chennai,Transfer,96685.57,2025-01-10,success,
+ TXN77003 ,CUST6636,Mylapore ,Chennai,Transfer,82306.96,2024-11-26,success,
+ TXN34329 ,CUST2772,Mylapore ,Chennai,Withdrawal,78265.21,2024-11-27,success,
+ TXN22699 ,CUST1066,Mylapore ,Chennai,Deposit,21163.65,2024-11-08,Pending,
+ TXN57104 ,CUST5297,Mylapore ,Chennai,Transfer,63264.06,2025-02-14,Pending,
+ TXN28776 ,CUST1931,Mylapore ,Chennai,Deposit,44246.15,2024-05-30,Pending,
+ TXN33239 ,CUST8399,Mylapore ,Chennai,Deposit,73727.59,2024-07-02,Success,
+ TXN30672 ,CUST2239,Mylapore ,Chennai,Transfer,8474.11,2025-03-12,Success,
+ TXN31957 ,CUST1668,Mylapore ,Chennai,Deposit,37388.04,2024-06-22,Success,
+ TXN30713 ,CUST7944,Mylapore ,Chennai,Deposit,28740.21,2024-09-24,pending,
+ TXN60081 ,CUST6430,Mylapore ,Chennai,Deposit,4139.67,2025-02-21,Pending,
+ TXN29135 ,CUST3959,Mylapore ,Chennai,Deposit,39359.52,2024-11-18,pending,
+ TXN94559 ,CUST2481,Mylapore ,Chennai,Transfer,48567.48,2024-08-08,success,
+ TXN92770 ,CUST3679,Mylapore ,Chennai,Withdrawal,73000.1,2025-03-17,pending,
+ TXN41905 ,CUST5627,Mylapore ,Chennai,Withdrawal,35489.21,2025-04-17,FAIL,Technical Error
+ TXN18776 ,CUST1898,Mylapore ,Chennai,Transfer,28797.0,2024-09-29,success,
+ TXN37013 ,CUST9366,Mylapore ,Chennai,Transfer,68159.64,2025-03-22,Success,
+ TXN48225 ,CUST2003,Mylapore ,Chennai,Withdrawal,17429.99,2025-03-29,success,
+ TXN62183 ,CUST7481,Mylapore ,Chennai,Withdrawal,14827.78,2024-09-23,Success,
+ TXN35832 ,CUST3272,Mylapore ,Chennai,Deposit,26920.75,2024-07-22,pending,
+ TXN89738 ,CUST9031,Mylapore ,Chennai,Transfer,77051.72,2024-12-27,success,
+ TXN57842 ,CUST9152,Mylapore ,Chennai,Withdrawal,98562.12,2025-01-27,pending,
+ TXN99312 ,CUST2941,Mylapore ,Chennai,Deposit,12049.47,2024-07-06,Failed,Insufficient Funds
+ TXN61887 ,CUST9966,Mylapore ,Chennai,Transfer,14106.95,2024-10-28,pending,
+ TXN83507 ,CUST3409,Mylapore ,Chennai,Transfer,90410.0,2025-01-07,Success,
+ TXN45450 ,CUST9623,Mylapore ,Chennai,Withdrawal,81069.39,2024-07-06,success,
+ TXN70789 ,CUST1549,Mylapore ,Chennai,Deposit,2242.66,2024-10-04,success,
+ TXN93596 ,CUST5292,Mylapore ,Chennai,Transfer,26951.31,2025-02-20,Success,
+ TXN52515 ,CUST9716,Mylapore ,Chennai,Deposit,31838.85,2024-06-21,pending,
+ TXN62865 ,CUST5587,Mylapore ,Chennai,Transfer,70911.22,2024-12-29,FAIL,Account Closed
+ TXN67232 ,CUST8089,Mylapore ,Chennai,Transfer,89171.08,2024-08-25,success,
+ TXN80626 ,CUST7323,Mylapore ,Chennai,Transfer,96897.73,2025-02-15,Failed,Technical Error
+ TXN19038 ,CUST9131,Mylapore ,Chennai,Withdrawal,58220.98,2024-12-24,pending,
+ TXN21923 ,CUST3046,Mylapore ,Chennai,Deposit,27069.77,2025-03-19,Failed,Account Closed
+ TXN70418 ,CUST3065,Mylapore ,Chennai,Deposit,55609.33,2024-05-17,success,
+ TXN70012 ,CUST4282,Mylapore ,Chennai,Deposit,60039.34,2024-11-30,Pending,
+ TXN31011 ,CUST2028,Mylapore ,Chennai,Withdrawal,48719.05,2024-11-18,FAIL,Account Closed
+ TXN53505 ,CUST4842,Mylapore ,Chennai,Deposit,75543.82,2025-02-28,Failed,Insufficient Funds
+ TXN39894 ,CUST2575,Mylapore ,Chennai,Transfer,90003.32,2025-04-11,FAIL,Technical Error
+ TXN50438 ,CUST5024,Mylapore ,Chennai,Transfer,94494.69,2024-09-25,Success,
+ TXN15919 ,CUST8238,Mylapore ,Chennai,Deposit,70852.59,2024-06-30,success,
+ TXN33098 ,CUST2919,Mylapore ,Chennai,Deposit,14492.58,2024-07-25,FAIL,Technical Error
+ TXN34521 ,CUST2541,Mylapore ,Chennai,Transfer,56432.24,2024-12-31,Failed,Insufficient Funds
+ TXN17576 ,CUST9243,Mylapore ,Chennai,Deposit,44126.62,2024-08-27,Pending,
+ TXN15160 ,CUST4545,Mylapore ,Chennai,Withdrawal,24473.7,2025-04-29,Failed,Limit Exceeded
+ TXN50344 ,CUST2029,Mylapore ,Chennai,Deposit,80292.56,2024-11-23,pending,
+ TXN97629 ,CUST1755,Mylapore ,Chennai,Deposit,19329.37,2024-07-02,FAIL,Limit Exceeded
+ TXN94077 ,CUST3053,Mylapore ,Chennai,Transfer,24979.41,2025-01-24,Failed,Account Closed
+ TXN44635 ,CUST2114,Mylapore ,Chennai,Transfer,48438.72,2024-09-25,Pending,
+ TXN25352 ,CUST6561,Mylapore ,Chennai,Transfer,30984.11,2024-09-02,success,
+ TXN77779 ,CUST7550,Mylapore ,Chennai,Transfer,56605.38,2024-12-12,pending,
+ TXN58248 ,CUST2240,Mylapore ,Chennai,Transfer,20410.49,2024-07-10,success,
+ TXN70475 ,CUST8280,Mylapore ,Chennai,Withdrawal,23615.37,2024-12-29,Success,
+ TXN79085 ,CUST4290,Mylapore ,Chennai,Transfer,77814.65,2025-05-06,Failed,Network Issue
+ TXN21762 ,CUST5429,Mylapore ,Chennai,Deposit,14369.48,2024-06-27,Success,
+ TXN90237 ,CUST4705,Mylapore ,Chennai,Deposit,46906.98,2025-04-13,FAIL,Insufficient Funds
+ TXN46461 ,CUST1557,Mylapore ,Chennai,Transfer,23729.91,2024-05-13,Failed,Limit Exceeded
+ TXN37346 ,CUST9833,Mylapore ,Chennai,Withdrawal,74953.39,2024-07-19,Failed,Network Issue
+ TXN34201 ,CUST8409,Mylapore ,Chennai,Transfer,99072.05,2024-12-18,success,
+ TXN95035 ,CUST8816,Mylapore ,Chennai,Withdrawal,57701.31,2024-08-11,Success,
+ TXN66077 ,CUST1583,Mylapore ,Chennai,Transfer,60607.07,2024-09-23,success,
+ TXN33257 ,CUST6182,Mylapore ,Chennai,Deposit,74140.06,2024-06-01,pending,
+ TXN57816 ,CUST4723,Mylapore ,Chennai,Withdrawal,71247.15,2025-01-31,pending,

@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN71067 ,CUST7296,MG Road ,Bangalore,Transfer,79851.9,2024-06-30,FAIL,Limit Exceeded
+ TXN65815 ,CUST3397,MG Road ,Bangalore,Withdrawal,53130.2,2024-10-09,Success,
+ TXN44764 ,CUST8089,MG Road ,Bangalore,Deposit,62836.05,2024-09-12,Failed,Account Closed
+ TXN64193 ,CUST1380,MG Road ,Bangalore,Transfer,21701.25,2024-08-13,success,
+ TXN56044 ,CUST5116,MG Road ,Bangalore,Transfer,79713.59,2024-06-09,FAIL,Account Closed
+ TXN11549 ,CUST5077,MG Road ,Bangalore,Transfer,61062.92,2025-04-15,Failed,Account Closed
+ TXN54370 ,CUST4905,MG Road ,Bangalore,Transfer,17523.07,2024-12-01,Failed,Technical Error
+ TXN71229 ,CUST2997,MG Road ,Bangalore,Withdrawal,48590.92,2025-03-19,Success,
+ TXN30815 ,CUST2852,MG Road ,Bangalore,Deposit,52664.72,2024-08-08,Pending,
+ TXN67770 ,CUST6875,MG Road ,Bangalore,Transfer,56150.75,2024-12-04,pending,
+ TXN65428 ,CUST7875,MG Road ,Bangalore,Transfer,408.86,2025-02-27,Success,
+ TXN37713 ,CUST8542,MG Road ,Bangalore,Withdrawal,79665.2,2024-10-25,success,
+ TXN40357 ,CUST6125,MG Road ,Bangalore,Withdrawal,63420.79,2024-08-20,FAIL,Account Closed
+ TXN71799 ,CUST3241,MG Road ,Bangalore,Deposit,78057.11,2024-06-15,FAIL,Limit Exceeded
+ TXN70724 ,CUST9035,MG Road ,Bangalore,Transfer,63069.54,2024-11-16,success,
+ TXN22046 ,CUST1565,MG Road ,Bangalore,Withdrawal,86856.8,2024-11-14,Success,
+ TXN56337 ,CUST7041,MG Road ,Bangalore,Withdrawal,7292.2,2024-10-28,success,
+ TXN99630 ,CUST7161,MG Road ,Bangalore,Transfer,64679.48,2024-07-08,success,
+ TXN61953 ,CUST7787,MG Road ,Bangalore,Deposit,81528.38,2024-12-24,success,
+ TXN85649 ,CUST9455,MG Road ,Bangalore,Deposit,59666.08,2024-12-18,Success,
+ TXN97939 ,CUST8608,MG Road ,Bangalore,Deposit,57553.05,2024-09-30,FAIL,Technical Error
+ TXN33208 ,CUST3394,MG Road ,Bangalore,Deposit,23894.27,2025-04-09,Failed,Technical Error
+ TXN80114 ,CUST4746,MG Road ,Bangalore,Withdrawal,661.36,2024-07-17,FAIL,Account Closed
+ TXN31685 ,CUST5515,MG Road ,Bangalore,Transfer,64543.94,2024-07-24,Pending,
+ TXN88732 ,CUST7932,MG Road ,Bangalore,Withdrawal,28086.1,2025-01-28,Pending,
+ TXN53036 ,CUST8282,MG Road ,Bangalore,Withdrawal,1851.08,2024-12-27,Failed,Limit Exceeded
+ TXN18941 ,CUST5097,MG Road ,Bangalore,Withdrawal,50465.82,2025-01-15,Failed,Technical Error
+ TXN93970 ,CUST8022,MG Road ,Bangalore,Deposit,40715.37,2024-10-05,pending,
+ TXN18711 ,CUST8534,MG Road ,Bangalore,Deposit,23139.76,2025-02-27,Pending,
+ TXN94834 ,CUST7892,MG Road ,Bangalore,Deposit,95210.23,2024-12-14,Success,
+ TXN91793 ,CUST1617,MG Road ,Bangalore,Transfer,19090.58,2024-12-25,pending,
+ TXN24362 ,CUST9279,MG Road ,Bangalore,Withdrawal,48731.14,2024-05-30,Failed,Account Closed
+ TXN38376 ,CUST2897,MG Road ,Bangalore,Withdrawal,13071.83,2024-11-10,Success,
+ TXN83244 ,CUST2353,MG Road ,Bangalore,Transfer,4243.82,2024-06-21,FAIL,Limit Exceeded
+ TXN65243 ,CUST8164,MG Road ,Bangalore,Transfer,92165.32,2024-08-19,pending,
+ TXN18320 ,CUST4923,MG Road ,Bangalore,Deposit,16951.07,2024-06-23,success,
+ TXN93007 ,CUST7215,MG Road ,Bangalore,Withdrawal,44527.16,2025-02-13,Pending,
+ TXN47775 ,CUST4504,MG Road ,Bangalore,Deposit,44786.34,2024-06-27,success,
+ TXN50764 ,CUST3740,MG Road ,Bangalore,Withdrawal,35469.8,2024-09-14,pending,
+ TXN57985 ,CUST4561,MG Road ,Bangalore,Deposit,16551.42,2024-11-29,Pending,
+ TXN70535 ,CUST1813,MG Road ,Bangalore,Transfer,31805.85,2024-10-24,Failed,Account Closed
+ TXN49310 ,CUST9794,MG Road ,Bangalore,Deposit,26155.18,2025-04-15,Success,
+ TXN52015 ,CUST3951,MG Road ,Bangalore,Deposit,13289.38,2024-07-13,pending,
+ TXN74544 ,CUST1819,MG Road ,Bangalore,Withdrawal,17381.3,2025-01-09,FAIL,Insufficient Funds
+ TXN93806 ,CUST1897,MG Road ,Bangalore,Withdrawal,92013.14,2025-01-08,pending,
+ TXN58800 ,CUST6810,MG Road ,Bangalore,Transfer,83723.83,2025-04-14,pending,
+ TXN68321 ,CUST2457,MG Road ,Bangalore,Withdrawal,40715.0,2024-07-13,success,
+ TXN32696 ,CUST8449,MG Road ,Bangalore,Transfer,11338.91,2025-01-09,pending,
+ TXN64109 ,CUST9530,MG Road ,Bangalore,Transfer,88701.97,2025-03-12,Pending,
+ TXN53607 ,CUST5900,MG Road ,Bangalore,Transfer,33250.22,2024-12-04,Pending,
+ TXN92965 ,CUST8287,MG Road ,Bangalore,Transfer,43454.96,2024-08-21,success,
+ TXN55654 ,CUST4431,MG Road ,Bangalore,Deposit,47883.08,2024-12-31,FAIL,Insufficient Funds
+ TXN86808 ,CUST2921,MG Road ,Bangalore,Withdrawal,94678.34,2024-11-09,Pending,
+ TXN86996 ,CUST9412,MG Road ,Bangalore,Deposit,16230.73,2025-01-21,FAIL,Account Closed
+ TXN93934 ,CUST3406,MG Road ,Bangalore,Transfer,56647.04,2025-04-27,pending,
+ TXN59046 ,CUST6264,MG Road ,Bangalore,Deposit,38481.19,2024-08-20,Success,
+ TXN15572 ,CUST3396,MG Road ,Bangalore,Withdrawal,81513.56,2024-05-23,Pending,
+ TXN44616 ,CUST4366,MG Road ,Bangalore,Withdrawal,64229.03,2024-06-07,pending,
+ TXN97892 ,CUST2255,MG Road ,Bangalore,Withdrawal,73837.33,2024-06-19,FAIL,Limit Exceeded
+ TXN60985 ,CUST5584,MG Road ,Bangalore,Transfer,7628.9,2024-09-14,Pending,
+ TXN86257 ,CUST6293,MG Road ,Bangalore,Transfer,25885.67,2025-03-17,Pending,
+ TXN27373 ,CUST6090,MG Road ,Bangalore,Withdrawal,33102.47,2024-06-26,success,
+ TXN47887 ,CUST5280,MG Road ,Bangalore,Transfer,8041.39,2024-09-22,Success,
+ TXN79349 ,CUST5797,MG Road ,Bangalore,Deposit,29458.12,2024-08-23,FAIL,Insufficient Funds
+ TXN64446 ,CUST2513,MG Road ,Bangalore,Deposit,88567.1,2025-01-29,pending,
+ TXN78882 ,CUST9855,MG Road ,Bangalore,Deposit,63617.83,2025-03-13,success,
+ TXN18817 ,CUST5951,MG Road ,Bangalore,Deposit,9397.45,2024-07-19,pending,
+ TXN67631 ,CUST9597,MG Road ,Bangalore,Transfer,38499.97,2024-10-24,Failed,Insufficient Funds
+ TXN94310 ,CUST3481,MG Road ,Bangalore,Deposit,9741.21,2025-05-07,Failed,Network Issue
+ TXN20864 ,CUST7008,MG Road ,Bangalore,Withdrawal,54874.54,2025-05-07,FAIL,Network Issue
+ TXN25084 ,CUST6653,MG Road ,Bangalore,Deposit,71591.04,2024-11-08,Success,
+ TXN85600 ,CUST1487,MG Road ,Bangalore,Withdrawal,52967.4,2024-09-10,success,
+ TXN43275 ,CUST2023,MG Road ,Bangalore,Transfer,60704.93,2024-09-10,Success,
+ TXN40483 ,CUST5104,MG Road ,Bangalore,Transfer,4158.24,2025-01-27,success,
+ TXN19344 ,CUST8894,MG Road ,Bangalore,Deposit,18256.69,2024-07-29,Failed,Limit Exceeded
+ TXN26839 ,CUST3298,MG Road ,Bangalore,Withdrawal,42392.69,2025-01-05,Pending,
+ TXN87072 ,CUST1195,MG Road ,Bangalore,Withdrawal,96073.96,2024-06-26,FAIL,Technical Error
+ TXN52830 ,CUST5658,MG Road ,Bangalore,Withdrawal,88036.92,2024-08-13,FAIL,Technical Error
+ TXN37396 ,CUST5692,MG Road ,Bangalore,Transfer,8128.58,2024-10-27,Pending,
+ TXN62072 ,CUST5680,MG Road ,Bangalore,Withdrawal,59070.76,2025-03-09,pending,
+ TXN78193 ,CUST8247,MG Road ,Bangalore,Deposit,22810.86,2024-12-15,pending,
+ TXN48521 ,CUST5911,MG Road ,Bangalore,Deposit,78749.96,2024-09-26,Success,
+ TXN10968 ,CUST2298,MG Road ,Bangalore,Deposit,22072.64,2024-07-05,Failed,Limit Exceeded
+ TXN66582 ,CUST1515,MG Road ,Bangalore,Withdrawal,6290.33,2025-01-07,FAIL,Technical Error
+ TXN54554 ,CUST2751,MG Road ,Bangalore,Withdrawal,68719.63,2024-07-09,FAIL,Insufficient Funds
+ TXN89025 ,CUST7215,MG Road ,Bangalore,Withdrawal,95485.31,2024-07-09,Pending,
+ TXN36463 ,CUST5555,MG Road ,Bangalore,Deposit,58066.37,2024-10-01,FAIL,Technical Error
+ TXN88610 ,CUST5920,MG Road ,Bangalore,Transfer,28234.59,2024-10-21,Pending,
+ TXN65230 ,CUST3180,MG Road ,Bangalore,Deposit,47794.3,2024-07-22,FAIL,Limit Exceeded
+ TXN72538 ,CUST4890,MG Road ,Bangalore,Deposit,76920.21,2025-01-06,success,
+ TXN49821 ,CUST9001,MG Road ,Bangalore,Transfer,4839.3,2025-04-12,FAIL,Insufficient Funds
+ TXN61981 ,CUST5119,MG Road ,Bangalore,Withdrawal,14976.56,2025-03-20,success,
+ TXN74062 ,CUST2511,MG Road ,Bangalore,Withdrawal,70045.42,2024-06-14,success,
+ TXN79115 ,CUST6739,MG Road ,Bangalore,Withdrawal,87311.17,2025-02-03,Pending,
+ TXN91274 ,CUST4458,MG Road ,Bangalore,Deposit,68604.97,2025-01-04,success,
+ TXN80818 ,CUST8998,MG Road ,Bangalore,Transfer,70472.86,2024-11-28,success,
+ TXN66731 ,CUST3875,MG Road ,Bangalore,Deposit,8067.93,2024-11-06,success,
+ TXN23435 ,CUST3569,MG Road ,Bangalore,Deposit,89326.56,2024-12-20,success,
+ TXN90833 ,CUST6569,MG Road ,Bangalore,Deposit,19025.65,2024-06-30,Failed,Insufficient Funds
+ TXN41926 ,CUST6928,MG Road ,Bangalore,Deposit,89876.92,2025-01-06,FAIL,Technical Error

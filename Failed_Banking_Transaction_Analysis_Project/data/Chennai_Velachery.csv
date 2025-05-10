@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN54837 ,CUST7091,Velachery ,Chennai,Deposit,49850.64,2024-05-16,Failed,Network Issue
+ TXN15323 ,CUST1434,Velachery ,Chennai,Transfer,65498.61,2025-03-07,success,
+ TXN11810 ,CUST9036,Velachery ,Chennai,Transfer,8574.29,2025-03-31,pending,
+ TXN42324 ,CUST6105,Velachery ,Chennai,Transfer,43690.17,2025-03-28,pending,
+ TXN32133 ,CUST8068,Velachery ,Chennai,Transfer,29421.85,2024-07-08,pending,
+ TXN12113 ,CUST7361,Velachery ,Chennai,Deposit,19597.2,2024-12-10,pending,
+ TXN47525 ,CUST5458,Velachery ,Chennai,Deposit,83639.49,2024-12-04,success,
+ TXN15320 ,CUST7694,Velachery ,Chennai,Withdrawal,69991.9,2025-03-18,pending,
+ TXN98236 ,CUST9061,Velachery ,Chennai,Withdrawal,93588.99,2024-06-01,Pending,
+ TXN35331 ,CUST6340,Velachery ,Chennai,Withdrawal,72002.18,2024-06-17,Pending,
+ TXN72113 ,CUST7506,Velachery ,Chennai,Transfer,28715.58,2024-10-12,pending,
+ TXN25154 ,CUST1016,Velachery ,Chennai,Transfer,15371.91,2025-05-08,Failed,Account Closed
+ TXN66839 ,CUST8842,Velachery ,Chennai,Deposit,85604.24,2025-04-15,success,
+ TXN43216 ,CUST1757,Velachery ,Chennai,Transfer,60525.7,2024-12-17,Pending,
+ TXN28482 ,CUST5189,Velachery ,Chennai,Deposit,58017.26,2024-11-07,success,
+ TXN25125 ,CUST9870,Velachery ,Chennai,Transfer,75308.55,2025-04-21,pending,
+ TXN58433 ,CUST2436,Velachery ,Chennai,Withdrawal,34938.22,2024-07-29,Failed,Network Issue
+ TXN18554 ,CUST2940,Velachery ,Chennai,Deposit,42913.27,2025-04-10,pending,
+ TXN57610 ,CUST5879,Velachery ,Chennai,Transfer,81453.7,2024-11-25,Failed,Limit Exceeded
+ TXN90983 ,CUST4700,Velachery ,Chennai,Transfer,14947.89,2024-08-11,pending,
+ TXN59012 ,CUST2986,Velachery ,Chennai,Deposit,65769.8,2024-12-17,FAIL,Limit Exceeded
+ TXN47922 ,CUST8253,Velachery ,Chennai,Transfer,63876.31,2025-03-20,Success,
+ TXN26294 ,CUST1889,Velachery ,Chennai,Deposit,61789.74,2025-02-22,Success,
+ TXN29428 ,CUST4768,Velachery ,Chennai,Transfer,33375.54,2025-04-09,success,
+ TXN40255 ,CUST3203,Velachery ,Chennai,Deposit,10677.94,2024-07-18,Pending,
+ TXN67713 ,CUST3657,Velachery ,Chennai,Transfer,57949.16,2024-12-20,FAIL,Technical Error
+ TXN39248 ,CUST3683,Velachery ,Chennai,Transfer,7709.63,2024-08-18,success,
+ TXN79470 ,CUST4962,Velachery ,Chennai,Transfer,24891.51,2024-10-27,Pending,
+ TXN83448 ,CUST3926,Velachery ,Chennai,Withdrawal,87745.37,2024-06-28,success,
+ TXN22459 ,CUST2421,Velachery ,Chennai,Withdrawal,40216.63,2024-08-24,Failed,Technical Error
+ TXN61693 ,CUST6067,Velachery ,Chennai,Withdrawal,79797.53,2025-03-15,Pending,
+ TXN29402 ,CUST2128,Velachery ,Chennai,Deposit,99043.63,2024-06-05,pending,
+ TXN76379 ,CUST5861,Velachery ,Chennai,Withdrawal,10502.83,2024-09-29,Failed,Insufficient Funds
+ TXN49274 ,CUST9106,Velachery ,Chennai,Deposit,54375.62,2025-04-13,Failed,Technical Error
+ TXN74383 ,CUST7460,Velachery ,Chennai,Transfer,2738.36,2024-08-19,Success,
+ TXN42734 ,CUST8834,Velachery ,Chennai,Withdrawal,81492.83,2025-02-02,Pending,
+ TXN47745 ,CUST1044,Velachery ,Chennai,Transfer,48681.91,2024-12-06,pending,
+ TXN11243 ,CUST8335,Velachery ,Chennai,Withdrawal,3463.8,2025-03-01,pending,
+ TXN35350 ,CUST5109,Velachery ,Chennai,Transfer,16589.59,2024-07-12,Success,
+ TXN24188 ,CUST7759,Velachery ,Chennai,Deposit,71988.88,2024-11-02,Success,
+ TXN66909 ,CUST5490,Velachery ,Chennai,Withdrawal,77373.07,2024-11-24,success,
+ TXN94178 ,CUST9017,Velachery ,Chennai,Deposit,43341.05,2024-09-05,FAIL,Insufficient Funds
+ TXN11636 ,CUST4277,Velachery ,Chennai,Withdrawal,4358.1,2025-04-29,success,
+ TXN26556 ,CUST6857,Velachery ,Chennai,Transfer,54338.9,2024-05-12,Failed,Account Closed
+ TXN25724 ,CUST8686,Velachery ,Chennai,Withdrawal,96413.43,2025-02-20,success,
+ TXN91965 ,CUST4380,Velachery ,Chennai,Withdrawal,39063.86,2024-07-07,pending,
+ TXN41893 ,CUST9550,Velachery ,Chennai,Withdrawal,19909.05,2024-09-30,pending,
+ TXN46457 ,CUST2761,Velachery ,Chennai,Withdrawal,1362.47,2024-09-07,success,
+ TXN56545 ,CUST3089,Velachery ,Chennai,Transfer,64130.2,2024-09-17,Success,
+ TXN35453 ,CUST7040,Velachery ,Chennai,Transfer,60671.51,2024-11-26,FAIL,Limit Exceeded
+ TXN28394 ,CUST7384,Velachery ,Chennai,Transfer,25365.58,2024-12-03,Pending,
+ TXN87933 ,CUST4455,Velachery ,Chennai,Withdrawal,24613.65,2024-05-26,Failed,Account Closed
+ TXN54405 ,CUST4391,Velachery ,Chennai,Deposit,84169.4,2024-07-02,Success,
+ TXN15914 ,CUST5403,Velachery ,Chennai,Deposit,52064.02,2024-05-22,Success,
+ TXN41727 ,CUST1079,Velachery ,Chennai,Transfer,66376.46,2024-07-15,Failed,Account Closed
+ TXN92329 ,CUST1378,Velachery ,Chennai,Transfer,82711.3,2024-08-11,success,
+ TXN31834 ,CUST7969,Velachery ,Chennai,Deposit,30308.39,2025-04-20,Success,
+ TXN71542 ,CUST6233,Velachery ,Chennai,Transfer,46834.03,2025-02-06,Success,
+ TXN57946 ,CUST8475,Velachery ,Chennai,Deposit,19502.66,2025-03-06,Pending,
+ TXN97583 ,CUST9667,Velachery ,Chennai,Deposit,40188.68,2024-07-30,Pending,
+ TXN43992 ,CUST7990,Velachery ,Chennai,Deposit,95480.69,2024-06-23,Failed,Account Closed
+ TXN23382 ,CUST1303,Velachery ,Chennai,Transfer,55142.13,2024-06-30,Success,
+ TXN92010 ,CUST4955,Velachery ,Chennai,Transfer,35300.1,2025-03-22,success,
+ TXN78673 ,CUST2211,Velachery ,Chennai,Withdrawal,63100.38,2025-03-01,success,
+ TXN60953 ,CUST5645,Velachery ,Chennai,Withdrawal,83138.96,2024-08-22,FAIL,Account Closed
+ TXN84466 ,CUST4230,Velachery ,Chennai,Withdrawal,40284.13,2024-07-20,Pending,
+ TXN86104 ,CUST2571,Velachery ,Chennai,Transfer,43513.64,2025-01-20,pending,
+ TXN98575 ,CUST8291,Velachery ,Chennai,Withdrawal,2143.71,2024-11-13,pending,
+ TXN81539 ,CUST5002,Velachery ,Chennai,Withdrawal,37497.5,2024-06-18,FAIL,Insufficient Funds
+ TXN81420 ,CUST9379,Velachery ,Chennai,Transfer,15035.61,2024-08-10,Pending,
+ TXN37075 ,CUST6578,Velachery ,Chennai,Transfer,86671.91,2024-08-21,Failed,Insufficient Funds
+ TXN47179 ,CUST2160,Velachery ,Chennai,Transfer,71550.54,2024-06-22,pending,
+ TXN33209 ,CUST1431,Velachery ,Chennai,Withdrawal,73670.59,2024-05-17,FAIL,Network Issue
+ TXN34085 ,CUST7126,Velachery ,Chennai,Transfer,53613.49,2024-06-19,Failed,Account Closed
+ TXN65241 ,CUST8441,Velachery ,Chennai,Deposit,29212.02,2024-10-16,success,
+ TXN98115 ,CUST9891,Velachery ,Chennai,Withdrawal,1568.71,2025-02-23,pending,
+ TXN52100 ,CUST3010,Velachery ,Chennai,Transfer,88941.53,2024-12-18,success,
+ TXN80434 ,CUST7117,Velachery ,Chennai,Deposit,76377.78,2024-11-30,pending,
+ TXN36538 ,CUST1922,Velachery ,Chennai,Deposit,31793.37,2025-02-02,success,
+ TXN57126 ,CUST4278,Velachery ,Chennai,Deposit,57226.24,2025-01-12,Pending,
+ TXN16700 ,CUST5498,Velachery ,Chennai,Deposit,7867.13,2024-12-19,FAIL,Technical Error
+ TXN93096 ,CUST7877,Velachery ,Chennai,Withdrawal,31222.89,2025-03-10,pending,
+ TXN22849 ,CUST2006,Velachery ,Chennai,Deposit,85129.79,2024-08-28,success,
+ TXN16074 ,CUST5667,Velachery ,Chennai,Withdrawal,4559.6,2024-12-26,pending,
+ TXN91791 ,CUST2888,Velachery ,Chennai,Transfer,50132.79,2025-02-19,Pending,
+ TXN68639 ,CUST9948,Velachery ,Chennai,Transfer,46891.55,2024-09-16,Pending,
+ TXN72892 ,CUST6048,Velachery ,Chennai,Withdrawal,55367.94,2024-08-20,success,
+ TXN78293 ,CUST1121,Velachery ,Chennai,Transfer,81231.49,2024-07-03,Success,
+ TXN74007 ,CUST6131,Velachery ,Chennai,Deposit,9486.21,2024-10-03,Pending,
+ TXN29036 ,CUST5403,Velachery ,Chennai,Transfer,79415.75,2024-11-23,FAIL,Limit Exceeded
+ TXN66119 ,CUST6152,Velachery ,Chennai,Deposit,58718.9,2025-01-01,Failed,Limit Exceeded
+ TXN12472 ,CUST6282,Velachery ,Chennai,Withdrawal,65480.35,2025-02-05,Success,
+ TXN59923 ,CUST8913,Velachery ,Chennai,Withdrawal,34178.59,2024-06-27,Success,
+ TXN87542 ,CUST9885,Velachery ,Chennai,Deposit,76747.02,2025-02-23,Failed,Insufficient Funds
+ TXN24369 ,CUST3329,Velachery ,Chennai,Deposit,67402.76,2024-12-29,Success,
+ TXN99423 ,CUST2984,Velachery ,Chennai,Transfer,84147.87,2024-07-23,pending,
+ TXN95563 ,CUST3943,Velachery ,Chennai,Withdrawal,24560.65,2024-11-16,Success,
+ TXN20775 ,CUST7624,Velachery ,Chennai,Transfer,68450.73,2025-03-30,success,
+ TXN60185 ,CUST5217,Velachery ,Chennai,Deposit,12210.85,2024-11-08,success,
+ TXN12094 ,CUST8591,Velachery ,Chennai,Transfer,32983.68,2024-11-08,Success,

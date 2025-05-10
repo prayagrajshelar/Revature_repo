@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN54616 ,CUST2108,T Nagar ,Chennai,Transfer,31689.04,2024-09-20,Failed,Insufficient Funds
+ TXN54514 ,CUST5157,T Nagar ,Chennai,Transfer,17781.99,2024-12-05,pending,
+ TXN91754 ,CUST2530,T Nagar ,Chennai,Transfer,19546.59,2025-03-18,Failed,Network Issue
+ TXN13018 ,CUST6718,T Nagar ,Chennai,Withdrawal,71404.52,2024-05-29,Pending,
+ TXN15139 ,CUST5081,T Nagar ,Chennai,Withdrawal,72717.21,2025-03-07,FAIL,Technical Error
+ TXN79272 ,CUST6860,T Nagar ,Chennai,Withdrawal,57168.74,2024-09-01,FAIL,Network Issue
+ TXN87101 ,CUST7896,T Nagar ,Chennai,Withdrawal,13334.94,2024-11-21,Pending,
+ TXN22619 ,CUST2782,T Nagar ,Chennai,Transfer,54905.53,2024-05-30,pending,
+ TXN35023 ,CUST9302,T Nagar ,Chennai,Deposit,5921.59,2024-08-05,success,
+ TXN96085 ,CUST4935,T Nagar ,Chennai,Withdrawal,54739.0,2024-12-13,Pending,
+ TXN29463 ,CUST5497,T Nagar ,Chennai,Withdrawal,56161.45,2024-05-24,Failed,Insufficient Funds
+ TXN94307 ,CUST9562,T Nagar ,Chennai,Deposit,45765.85,2024-10-25,FAIL,Technical Error
+ TXN71318 ,CUST2812,T Nagar ,Chennai,Withdrawal,72253.43,2024-08-07,Success,
+ TXN44726 ,CUST8681,T Nagar ,Chennai,Transfer,48107.09,2024-09-03,Failed,Insufficient Funds
+ TXN31019 ,CUST8663,T Nagar ,Chennai,Deposit,32471.69,2025-03-07,success,
+ TXN59028 ,CUST5382,T Nagar ,Chennai,Transfer,12764.84,2024-09-19,Success,
+ TXN29345 ,CUST3974,T Nagar ,Chennai,Withdrawal,8759.98,2025-01-30,success,
+ TXN38121 ,CUST1538,T Nagar ,Chennai,Transfer,45124.68,2024-06-01,FAIL,Account Closed
+ TXN19082 ,CUST2727,T Nagar ,Chennai,Withdrawal,80851.72,2024-08-01,FAIL,Insufficient Funds
+ TXN74948 ,CUST6083,T Nagar ,Chennai,Withdrawal,724.81,2025-05-04,pending,
+ TXN97572 ,CUST9842,T Nagar ,Chennai,Withdrawal,11302.12,2025-02-03,pending,
+ TXN90346 ,CUST4546,T Nagar ,Chennai,Transfer,70878.27,2024-06-09,success,
+ TXN50698 ,CUST1358,T Nagar ,Chennai,Deposit,13346.37,2024-08-01,pending,
+ TXN44901 ,CUST2703,T Nagar ,Chennai,Transfer,67194.44,2024-12-20,success,
+ TXN86233 ,CUST8526,T Nagar ,Chennai,Withdrawal,42067.77,2024-09-26,Pending,
+ TXN44822 ,CUST4385,T Nagar ,Chennai,Withdrawal,57499.91,2024-08-05,Failed,Limit Exceeded
+ TXN60549 ,CUST8996,T Nagar ,Chennai,Withdrawal,8133.3,2024-08-03,FAIL,Limit Exceeded
+ TXN50670 ,CUST8951,T Nagar ,Chennai,Deposit,94945.54,2025-02-28,Failed,Technical Error
+ TXN24746 ,CUST1633,T Nagar ,Chennai,Deposit,63402.94,2025-02-16,success,
+ TXN21117 ,CUST7305,T Nagar ,Chennai,Deposit,19761.06,2024-05-19,success,
+ TXN29969 ,CUST6555,T Nagar ,Chennai,Deposit,90321.78,2024-10-26,pending,
+ TXN35836 ,CUST7406,T Nagar ,Chennai,Deposit,90432.37,2025-04-17,Pending,
+ TXN23655 ,CUST3830,T Nagar ,Chennai,Deposit,8162.25,2024-07-28,Pending,
+ TXN85664 ,CUST7701,T Nagar ,Chennai,Transfer,38318.91,2024-11-02,pending,
+ TXN59174 ,CUST6247,T Nagar ,Chennai,Transfer,30264.14,2024-12-24,Failed,Insufficient Funds
+ TXN31227 ,CUST9966,T Nagar ,Chennai,Withdrawal,34643.71,2024-12-28,FAIL,Technical Error
+ TXN90920 ,CUST1671,T Nagar ,Chennai,Transfer,96562.96,2024-11-27,success,
+ TXN61114 ,CUST4080,T Nagar ,Chennai,Transfer,27212.6,2025-03-17,Failed,Account Closed
+ TXN14819 ,CUST7938,T Nagar ,Chennai,Transfer,19958.81,2024-06-22,Success,
+ TXN31021 ,CUST4373,T Nagar ,Chennai,Withdrawal,46824.0,2024-11-08,FAIL,Insufficient Funds
+ TXN50883 ,CUST9563,T Nagar ,Chennai,Transfer,54625.38,2024-11-08,Failed,Network Issue
+ TXN99386 ,CUST4836,T Nagar ,Chennai,Deposit,6388.83,2025-02-26,success,
+ TXN30393 ,CUST5424,T Nagar ,Chennai,Withdrawal,71076.0,2024-11-06,pending,
+ TXN58487 ,CUST5754,T Nagar ,Chennai,Withdrawal,56381.43,2025-01-07,Failed,Limit Exceeded
+ TXN73076 ,CUST5645,T Nagar ,Chennai,Deposit,99310.44,2024-10-23,FAIL,Account Closed
+ TXN18495 ,CUST9222,T Nagar ,Chennai,Deposit,47244.12,2025-05-08,Success,
+ TXN56077 ,CUST1480,T Nagar ,Chennai,Transfer,74581.1,2024-07-22,Failed,Insufficient Funds
+ TXN45588 ,CUST3312,T Nagar ,Chennai,Deposit,91132.22,2024-08-30,Pending,
+ TXN11687 ,CUST9951,T Nagar ,Chennai,Deposit,352.17,2024-12-17,pending,
+ TXN68486 ,CUST3005,T Nagar ,Chennai,Withdrawal,6019.48,2024-07-25,Failed,Limit Exceeded
+ TXN79724 ,CUST5612,T Nagar ,Chennai,Deposit,49764.57,2025-04-05,Success,
+ TXN84611 ,CUST5756,T Nagar ,Chennai,Withdrawal,90333.17,2024-08-07,Success,
+ TXN70865 ,CUST3777,T Nagar ,Chennai,Deposit,11612.39,2025-02-03,Success,
+ TXN50814 ,CUST9835,T Nagar ,Chennai,Transfer,36976.46,2025-01-23,success,
+ TXN77624 ,CUST5933,T Nagar ,Chennai,Withdrawal,14582.09,2024-06-05,Success,
+ TXN39218 ,CUST8195,T Nagar ,Chennai,Deposit,51209.6,2025-03-29,FAIL,Insufficient Funds
+ TXN35753 ,CUST5707,T Nagar ,Chennai,Withdrawal,80253.12,2024-12-29,Failed,Technical Error
+ TXN59823 ,CUST5865,T Nagar ,Chennai,Withdrawal,59063.24,2024-11-18,FAIL,Network Issue
+ TXN70199 ,CUST1765,T Nagar ,Chennai,Transfer,2126.33,2024-09-25,Success,
+ TXN54319 ,CUST1473,T Nagar ,Chennai,Withdrawal,69163.57,2024-08-20,pending,
+ TXN29880 ,CUST5859,T Nagar ,Chennai,Transfer,10018.54,2025-01-30,Success,
+ TXN95857 ,CUST6159,T Nagar ,Chennai,Transfer,23337.68,2024-11-12,Success,
+ TXN83947 ,CUST9385,T Nagar ,Chennai,Withdrawal,41291.06,2024-11-11,pending,
+ TXN50160 ,CUST7671,T Nagar ,Chennai,Transfer,99292.91,2025-02-10,Pending,
+ TXN56071 ,CUST3335,T Nagar ,Chennai,Transfer,6673.51,2025-03-05,FAIL,Insufficient Funds
+ TXN91637 ,CUST2411,T Nagar ,Chennai,Deposit,20302.23,2024-09-22,pending,
+ TXN88856 ,CUST1199,T Nagar ,Chennai,Withdrawal,50089.64,2024-07-31,Pending,
+ TXN65400 ,CUST3422,T Nagar ,Chennai,Deposit,75292.62,2024-06-21,pending,
+ TXN30159 ,CUST6853,T Nagar ,Chennai,Transfer,12293.62,2024-11-15,Success,
+ TXN61802 ,CUST1005,T Nagar ,Chennai,Transfer,56986.29,2025-04-15,Pending,
+ TXN97407 ,CUST8313,T Nagar ,Chennai,Transfer,95324.56,2024-10-11,Pending,
+ TXN27365 ,CUST3869,T Nagar ,Chennai,Withdrawal,89073.69,2024-09-26,Failed,Account Closed
+ TXN95612 ,CUST5010,T Nagar ,Chennai,Transfer,32508.49,2024-10-25,FAIL,Technical Error
+ TXN50128 ,CUST8943,T Nagar ,Chennai,Withdrawal,11260.76,2025-05-06,success,
+ TXN77147 ,CUST6709,T Nagar ,Chennai,Transfer,50750.97,2024-07-28,success,
+ TXN92098 ,CUST6038,T Nagar ,Chennai,Withdrawal,8334.09,2024-12-02,pending,
+ TXN21337 ,CUST5358,T Nagar ,Chennai,Deposit,51401.74,2024-07-24,Success,
+ TXN45062 ,CUST5074,T Nagar ,Chennai,Transfer,17950.6,2025-03-31,FAIL,Limit Exceeded
+ TXN13010 ,CUST7189,T Nagar ,Chennai,Deposit,83770.72,2025-05-02,success,
+ TXN17521 ,CUST9384,T Nagar ,Chennai,Withdrawal,40865.39,2024-05-20,FAIL,Limit Exceeded
+ TXN69492 ,CUST6535,T Nagar ,Chennai,Deposit,98973.24,2024-06-16,Failed,Limit Exceeded
+ TXN68194 ,CUST2338,T Nagar ,Chennai,Transfer,63830.38,2024-05-18,success,
+ TXN59291 ,CUST7526,T Nagar ,Chennai,Deposit,37903.37,2024-11-16,FAIL,Network Issue
+ TXN24294 ,CUST3031,T Nagar ,Chennai,Deposit,60220.81,2025-04-27,Failed,Account Closed
+ TXN62190 ,CUST5364,T Nagar ,Chennai,Withdrawal,3662.06,2025-04-04,FAIL,Network Issue
+ TXN32372 ,CUST9338,T Nagar ,Chennai,Deposit,43004.52,2024-12-08,success,
+ TXN33208 ,CUST5386,T Nagar ,Chennai,Transfer,94371.64,2025-01-04,Pending,
+ TXN22392 ,CUST5328,T Nagar ,Chennai,Transfer,40798.55,2024-12-05,Success,
+ TXN12430 ,CUST7089,T Nagar ,Chennai,Deposit,140.6,2024-06-20,FAIL,Account Closed
+ TXN78737 ,CUST6361,T Nagar ,Chennai,Withdrawal,32498.14,2024-10-25,Success,
+ TXN88272 ,CUST1408,T Nagar ,Chennai,Withdrawal,4258.05,2024-11-19,FAIL,Limit Exceeded
+ TXN40396 ,CUST5925,T Nagar ,Chennai,Deposit,47323.78,2024-10-07,FAIL,Account Closed
+ TXN71451 ,CUST7810,T Nagar ,Chennai,Withdrawal,62886.69,2025-03-16,FAIL,Account Closed
+ TXN10283 ,CUST3365,T Nagar ,Chennai,Deposit,33229.1,2024-12-24,pending,
+ TXN69962 ,CUST6489,T Nagar ,Chennai,Transfer,70461.75,2024-09-12,Failed,Insufficient Funds
+ TXN38574 ,CUST1141,T Nagar ,Chennai,Withdrawal,47646.97,2025-02-27,Pending,
+ TXN32039 ,CUST8668,T Nagar ,Chennai,Withdrawal,39980.11,2025-03-11,FAIL,Insufficient Funds
+ TXN10044 ,CUST5100,T Nagar ,Chennai,Transfer,44092.63,2025-04-25,Success,
+ TXN18938 ,CUST7701,T Nagar ,Chennai,Transfer,67511.35,2024-11-12,FAIL,Technical Error
+ TXN35380 ,CUST9230,T Nagar ,Chennai,Withdrawal,98911.88,2024-12-08,Success,

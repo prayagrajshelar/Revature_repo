@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN50238 ,CUST7525,Fort ,Mumbai,Transfer,92093.67,2024-05-24,pending,
+ TXN52243 ,CUST6761,Fort ,Mumbai,Withdrawal,96078.22,2024-05-10,Pending,
+ TXN49955 ,CUST2334,Fort ,Mumbai,Deposit,60578.52,2025-05-02,FAIL,Network Issue
+ TXN84419 ,CUST3780,Fort ,Mumbai,Deposit,55796.22,2025-05-07,pending,
+ TXN94277 ,CUST4570,Fort ,Mumbai,Withdrawal,49370.24,2024-09-24,pending,
+ TXN67027 ,CUST9044,Fort ,Mumbai,Deposit,52263.11,2024-07-25,FAIL,Limit Exceeded
+ TXN64848 ,CUST6182,Fort ,Mumbai,Transfer,22209.18,2024-09-29,pending,
+ TXN63972 ,CUST9120,Fort ,Mumbai,Withdrawal,70001.33,2024-07-31,Success,
+ TXN44137 ,CUST3780,Fort ,Mumbai,Deposit,17980.25,2024-06-02,pending,
+ TXN49381 ,CUST5877,Fort ,Mumbai,Transfer,20552.45,2024-06-04,Failed,Insufficient Funds
+ TXN41240 ,CUST3758,Fort ,Mumbai,Transfer,84797.41,2024-07-03,Success,
+ TXN57462 ,CUST8766,Fort ,Mumbai,Withdrawal,76581.23,2025-03-10,success,
+ TXN83777 ,CUST8988,Fort ,Mumbai,Transfer,3778.72,2024-09-07,pending,
+ TXN10050 ,CUST5978,Fort ,Mumbai,Transfer,50477.91,2024-12-01,FAIL,Technical Error
+ TXN22777 ,CUST2249,Fort ,Mumbai,Deposit,34628.95,2025-03-26,Pending,
+ TXN90698 ,CUST5072,Fort ,Mumbai,Deposit,90840.07,2025-03-17,Success,
+ TXN45581 ,CUST4382,Fort ,Mumbai,Withdrawal,44077.56,2025-03-12,Pending,
+ TXN59630 ,CUST1839,Fort ,Mumbai,Withdrawal,49751.29,2025-02-07,success,
+ TXN49884 ,CUST1897,Fort ,Mumbai,Transfer,94545.74,2024-07-30,Success,
+ TXN17697 ,CUST3988,Fort ,Mumbai,Transfer,77776.44,2024-10-04,FAIL,Insufficient Funds
+ TXN51768 ,CUST1276,Fort ,Mumbai,Deposit,46178.84,2024-11-28,success,
+ TXN76484 ,CUST1431,Fort ,Mumbai,Deposit,22889.23,2024-10-18,pending,
+ TXN79547 ,CUST2234,Fort ,Mumbai,Transfer,82608.64,2025-02-09,FAIL,Technical Error
+ TXN83439 ,CUST7801,Fort ,Mumbai,Withdrawal,35080.82,2024-09-28,pending,
+ TXN94689 ,CUST7291,Fort ,Mumbai,Withdrawal,2988.43,2024-07-12,Success,
+ TXN99409 ,CUST9524,Fort ,Mumbai,Deposit,30613.13,2024-09-03,Failed,Limit Exceeded
+ TXN65349 ,CUST2047,Fort ,Mumbai,Withdrawal,37143.33,2025-02-17,Failed,Network Issue
+ TXN74611 ,CUST6772,Fort ,Mumbai,Deposit,10089.66,2024-11-30,Failed,Account Closed
+ TXN49973 ,CUST9652,Fort ,Mumbai,Withdrawal,80396.23,2025-05-05,Success,
+ TXN53571 ,CUST5403,Fort ,Mumbai,Transfer,34594.68,2025-03-17,success,
+ TXN99675 ,CUST9075,Fort ,Mumbai,Deposit,54418.4,2024-07-25,Pending,
+ TXN65743 ,CUST1448,Fort ,Mumbai,Transfer,51131.92,2024-11-25,Success,
+ TXN86397 ,CUST1162,Fort ,Mumbai,Deposit,74761.61,2025-04-15,Success,
+ TXN73022 ,CUST7702,Fort ,Mumbai,Deposit,27935.92,2025-03-04,Pending,
+ TXN67466 ,CUST4010,Fort ,Mumbai,Deposit,16921.89,2024-10-27,Pending,
+ TXN39357 ,CUST4170,Fort ,Mumbai,Withdrawal,86589.67,2024-08-20,Success,
+ TXN14184 ,CUST9350,Fort ,Mumbai,Transfer,33671.46,2024-11-12,FAIL,Account Closed
+ TXN76957 ,CUST2400,Fort ,Mumbai,Withdrawal,97011.88,2024-10-10,FAIL,Network Issue
+ TXN99095 ,CUST1738,Fort ,Mumbai,Deposit,97680.89,2025-04-02,Failed,Limit Exceeded
+ TXN78342 ,CUST2900,Fort ,Mumbai,Withdrawal,78566.99,2024-11-05,Pending,
+ TXN85218 ,CUST7252,Fort ,Mumbai,Withdrawal,67143.58,2024-05-24,Success,
+ TXN27052 ,CUST1808,Fort ,Mumbai,Transfer,15638.36,2024-08-08,pending,
+ TXN15629 ,CUST6760,Fort ,Mumbai,Deposit,29044.26,2024-10-13,Failed,Account Closed
+ TXN51232 ,CUST7401,Fort ,Mumbai,Transfer,54516.24,2024-11-22,success,
+ TXN75990 ,CUST4158,Fort ,Mumbai,Withdrawal,97920.64,2025-02-27,Pending,
+ TXN18369 ,CUST2405,Fort ,Mumbai,Deposit,52801.2,2024-11-28,FAIL,Network Issue
+ TXN47574 ,CUST2138,Fort ,Mumbai,Withdrawal,23812.64,2025-03-02,Pending,
+ TXN10266 ,CUST5798,Fort ,Mumbai,Transfer,5987.12,2025-04-03,Pending,
+ TXN58340 ,CUST5920,Fort ,Mumbai,Withdrawal,23459.35,2025-01-29,pending,
+ TXN21299 ,CUST7379,Fort ,Mumbai,Withdrawal,2522.2,2024-08-31,pending,
+ TXN97893 ,CUST3642,Fort ,Mumbai,Withdrawal,31520.43,2024-09-06,FAIL,Account Closed
+ TXN21014 ,CUST8159,Fort ,Mumbai,Transfer,25507.36,2025-01-27,Failed,Insufficient Funds
+ TXN48818 ,CUST5268,Fort ,Mumbai,Transfer,84211.32,2024-12-08,Pending,
+ TXN13037 ,CUST7248,Fort ,Mumbai,Transfer,88396.51,2024-11-24,FAIL,Network Issue
+ TXN57991 ,CUST8134,Fort ,Mumbai,Transfer,76995.62,2024-07-02,Success,
+ TXN77387 ,CUST1509,Fort ,Mumbai,Transfer,81525.14,2025-04-03,Success,
+ TXN46360 ,CUST9256,Fort ,Mumbai,Withdrawal,24886.68,2024-10-03,Success,
+ TXN73254 ,CUST6497,Fort ,Mumbai,Transfer,86267.36,2024-12-23,FAIL,Account Closed
+ TXN94083 ,CUST2613,Fort ,Mumbai,Withdrawal,26896.34,2024-06-15,success,
+ TXN56721 ,CUST4406,Fort ,Mumbai,Transfer,55470.38,2025-03-08,Success,
+ TXN19168 ,CUST6608,Fort ,Mumbai,Transfer,310.82,2025-01-18,Failed,Insufficient Funds
+ TXN80280 ,CUST6892,Fort ,Mumbai,Transfer,23052.87,2024-08-26,FAIL,Network Issue
+ TXN69806 ,CUST3677,Fort ,Mumbai,Transfer,49640.59,2024-07-03,Failed,Insufficient Funds
+ TXN87298 ,CUST2039,Fort ,Mumbai,Transfer,23597.78,2024-07-05,pending,
+ TXN19760 ,CUST9591,Fort ,Mumbai,Deposit,88766.87,2024-11-29,success,
+ TXN86909 ,CUST2463,Fort ,Mumbai,Deposit,83573.07,2025-03-25,pending,
+ TXN38252 ,CUST7282,Fort ,Mumbai,Transfer,26423.96,2025-02-28,FAIL,Account Closed
+ TXN45221 ,CUST1472,Fort ,Mumbai,Transfer,81935.97,2024-10-03,success,
+ TXN26879 ,CUST7308,Fort ,Mumbai,Transfer,40339.47,2025-04-22,FAIL,Insufficient Funds
+ TXN51489 ,CUST4480,Fort ,Mumbai,Deposit,26478.96,2024-05-21,Success,
+ TXN31813 ,CUST7334,Fort ,Mumbai,Deposit,28488.52,2025-01-01,success,
+ TXN72243 ,CUST9400,Fort ,Mumbai,Deposit,33111.79,2024-07-14,Failed,Network Issue
+ TXN80077 ,CUST9505,Fort ,Mumbai,Withdrawal,4097.65,2024-08-25,Success,
+ TXN96264 ,CUST5869,Fort ,Mumbai,Transfer,57317.04,2025-03-18,pending,
+ TXN80693 ,CUST1560,Fort ,Mumbai,Withdrawal,60441.83,2024-06-02,Failed,Insufficient Funds
+ TXN94234 ,CUST7442,Fort ,Mumbai,Transfer,24503.25,2024-09-04,success,
+ TXN39066 ,CUST3303,Fort ,Mumbai,Withdrawal,80046.48,2024-06-23,pending,
+ TXN34474 ,CUST2816,Fort ,Mumbai,Withdrawal,93984.22,2024-06-22,Success,
+ TXN26283 ,CUST2616,Fort ,Mumbai,Deposit,72568.39,2024-05-19,FAIL,Limit Exceeded
+ TXN89051 ,CUST1986,Fort ,Mumbai,Deposit,46473.13,2024-10-24,success,
+ TXN96429 ,CUST9210,Fort ,Mumbai,Withdrawal,40332.81,2025-04-11,pending,
+ TXN56032 ,CUST1486,Fort ,Mumbai,Withdrawal,44190.08,2024-07-07,Pending,
+ TXN19543 ,CUST9337,Fort ,Mumbai,Transfer,1366.28,2025-02-28,success,
+ TXN28846 ,CUST2565,Fort ,Mumbai,Withdrawal,51301.82,2024-10-22,FAIL,Network Issue
+ TXN58576 ,CUST4787,Fort ,Mumbai,Withdrawal,45490.3,2024-10-06,Failed,Limit Exceeded
+ TXN43523 ,CUST2589,Fort ,Mumbai,Withdrawal,75394.41,2025-04-21,success,
+ TXN22835 ,CUST4400,Fort ,Mumbai,Withdrawal,88604.05,2025-02-27,FAIL,Limit Exceeded
+ TXN58938 ,CUST5534,Fort ,Mumbai,Transfer,10025.61,2024-08-05,Failed,Technical Error
+ TXN72233 ,CUST5611,Fort ,Mumbai,Transfer,37037.41,2024-11-29,success,
+ TXN26478 ,CUST9576,Fort ,Mumbai,Withdrawal,43383.27,2024-05-15,Failed,Insufficient Funds
+ TXN62129 ,CUST2099,Fort ,Mumbai,Deposit,95790.17,2024-12-02,Pending,
+ TXN46747 ,CUST8374,Fort ,Mumbai,Transfer,33770.48,2024-07-21,Success,
+ TXN78660 ,CUST2022,Fort ,Mumbai,Withdrawal,75184.53,2024-12-08,Failed,Network Issue
+ TXN81035 ,CUST5005,Fort ,Mumbai,Transfer,36595.86,2024-06-25,FAIL,Account Closed
+ TXN59205 ,CUST7215,Fort ,Mumbai,Deposit,99086.41,2024-12-13,Failed,Account Closed
+ TXN37899 ,CUST8834,Fort ,Mumbai,Transfer,17043.6,2025-04-29,Success,
+ TXN10162 ,CUST1502,Fort ,Mumbai,Transfer,56208.45,2024-07-15,Failed,Network Issue
+ TXN59798 ,CUST3605,Fort ,Mumbai,Deposit,59750.98,2024-11-24,success,
+ TXN13118 ,CUST3519,Fort ,Mumbai,Withdrawal,11716.16,2024-12-04,success,
+ TXN14623 ,CUST4596,Fort ,Mumbai,Deposit,63351.03,2024-06-22,pending,

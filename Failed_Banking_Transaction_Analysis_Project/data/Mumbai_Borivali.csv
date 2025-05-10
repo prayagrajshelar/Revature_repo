@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN51369 ,CUST5357,Borivali ,Mumbai,Transfer,47892.65,2024-05-16,success,
+ TXN53698 ,CUST9980,Borivali ,Mumbai,Deposit,4897.88,2025-03-30,Failed,Technical Error
+ TXN33000 ,CUST9083,Borivali ,Mumbai,Transfer,72057.11,2025-01-18,Failed,Insufficient Funds
+ TXN59256 ,CUST6278,Borivali ,Mumbai,Transfer,30858.78,2025-03-01,Pending,
+ TXN48844 ,CUST4654,Borivali ,Mumbai,Deposit,96805.84,2025-04-10,pending,
+ TXN69409 ,CUST2225,Borivali ,Mumbai,Transfer,39961.33,2025-03-04,Success,
+ TXN70388 ,CUST8047,Borivali ,Mumbai,Withdrawal,10686.29,2024-08-15,success,
+ TXN77172 ,CUST5953,Borivali ,Mumbai,Withdrawal,78690.21,2024-10-18,Pending,
+ TXN53135 ,CUST4465,Borivali ,Mumbai,Deposit,94114.64,2024-11-26,Success,
+ TXN81484 ,CUST1528,Borivali ,Mumbai,Transfer,86392.24,2024-11-27,Pending,
+ TXN61504 ,CUST8769,Borivali ,Mumbai,Deposit,60104.19,2024-07-04,FAIL,Network Issue
+ TXN81385 ,CUST5139,Borivali ,Mumbai,Deposit,7743.9,2025-03-08,Pending,
+ TXN58318 ,CUST2212,Borivali ,Mumbai,Withdrawal,33823.36,2025-04-24,Pending,
+ TXN20158 ,CUST6739,Borivali ,Mumbai,Transfer,3465.11,2025-03-07,success,
+ TXN35809 ,CUST9920,Borivali ,Mumbai,Withdrawal,65413.63,2025-01-17,pending,
+ TXN80244 ,CUST5129,Borivali ,Mumbai,Withdrawal,45703.51,2024-12-14,Success,
+ TXN11908 ,CUST1322,Borivali ,Mumbai,Withdrawal,41998.82,2024-07-10,Failed,Account Closed
+ TXN12251 ,CUST7454,Borivali ,Mumbai,Withdrawal,21555.46,2024-06-25,success,
+ TXN21539 ,CUST7331,Borivali ,Mumbai,Withdrawal,11454.09,2024-06-12,Pending,
+ TXN31364 ,CUST9857,Borivali ,Mumbai,Transfer,47028.33,2024-09-29,Pending,
+ TXN72880 ,CUST3512,Borivali ,Mumbai,Transfer,86556.27,2025-03-17,Failed,Account Closed
+ TXN63397 ,CUST6954,Borivali ,Mumbai,Transfer,49696.11,2024-07-15,success,
+ TXN78147 ,CUST9106,Borivali ,Mumbai,Deposit,78356.12,2024-08-01,pending,
+ TXN48767 ,CUST6406,Borivali ,Mumbai,Transfer,16292.52,2024-11-19,Failed,Insufficient Funds
+ TXN88938 ,CUST2547,Borivali ,Mumbai,Deposit,25866.51,2024-12-21,Success,
+ TXN20754 ,CUST5318,Borivali ,Mumbai,Transfer,2215.02,2024-06-26,Pending,
+ TXN59565 ,CUST3717,Borivali ,Mumbai,Withdrawal,64112.98,2024-05-14,FAIL,Limit Exceeded
+ TXN21742 ,CUST2704,Borivali ,Mumbai,Transfer,75173.8,2025-01-29,success,
+ TXN20949 ,CUST7017,Borivali ,Mumbai,Deposit,78374.05,2024-12-09,pending,
+ TXN67390 ,CUST6613,Borivali ,Mumbai,Transfer,54146.32,2024-06-29,Success,
+ TXN91360 ,CUST4229,Borivali ,Mumbai,Transfer,44757.11,2024-05-08,FAIL,Technical Error
+ TXN21966 ,CUST1466,Borivali ,Mumbai,Withdrawal,94942.3,2024-07-09,Failed,Insufficient Funds
+ TXN34532 ,CUST2991,Borivali ,Mumbai,Deposit,53549.02,2025-01-27,Success,
+ TXN81780 ,CUST6526,Borivali ,Mumbai,Transfer,94450.22,2024-05-24,FAIL,Network Issue
+ TXN89007 ,CUST8639,Borivali ,Mumbai,Transfer,11865.74,2025-04-06,Failed,Technical Error
+ TXN26200 ,CUST9449,Borivali ,Mumbai,Transfer,27956.04,2024-07-23,FAIL,Account Closed
+ TXN13404 ,CUST7500,Borivali ,Mumbai,Withdrawal,95691.21,2024-10-02,Success,
+ TXN83823 ,CUST7032,Borivali ,Mumbai,Transfer,119.82,2025-04-05,FAIL,Limit Exceeded
+ TXN47943 ,CUST5167,Borivali ,Mumbai,Deposit,81918.62,2024-09-10,Failed,Network Issue
+ TXN87813 ,CUST9836,Borivali ,Mumbai,Deposit,46052.58,2024-10-06,success,
+ TXN92797 ,CUST3205,Borivali ,Mumbai,Transfer,46591.33,2024-09-01,FAIL,Limit Exceeded
+ TXN62067 ,CUST8990,Borivali ,Mumbai,Withdrawal,66095.78,2024-10-01,Pending,
+ TXN48279 ,CUST2499,Borivali ,Mumbai,Deposit,95850.76,2024-12-05,pending,
+ TXN94708 ,CUST7417,Borivali ,Mumbai,Deposit,27245.79,2024-08-12,pending,
+ TXN51342 ,CUST3510,Borivali ,Mumbai,Deposit,37202.31,2024-07-03,Pending,
+ TXN81241 ,CUST2759,Borivali ,Mumbai,Transfer,62932.16,2024-06-04,FAIL,Technical Error
+ TXN16524 ,CUST1117,Borivali ,Mumbai,Withdrawal,96586.97,2024-07-22,success,
+ TXN42759 ,CUST2424,Borivali ,Mumbai,Deposit,39816.83,2025-03-07,success,
+ TXN32110 ,CUST3386,Borivali ,Mumbai,Withdrawal,33654.19,2024-09-06,Failed,Account Closed
+ TXN76554 ,CUST1695,Borivali ,Mumbai,Withdrawal,33737.32,2024-10-17,FAIL,Network Issue
+ TXN46988 ,CUST6667,Borivali ,Mumbai,Transfer,78120.58,2025-01-23,Failed,Technical Error
+ TXN77136 ,CUST5941,Borivali ,Mumbai,Withdrawal,47739.86,2024-11-04,success,
+ TXN37948 ,CUST7948,Borivali ,Mumbai,Withdrawal,22480.2,2025-02-04,FAIL,Technical Error
+ TXN25011 ,CUST1559,Borivali ,Mumbai,Deposit,49131.69,2024-12-02,Failed,Account Closed
+ TXN91532 ,CUST7816,Borivali ,Mumbai,Deposit,10452.92,2025-02-24,Success,
+ TXN97264 ,CUST3878,Borivali ,Mumbai,Deposit,13033.61,2025-02-04,Failed,Network Issue
+ TXN63371 ,CUST8946,Borivali ,Mumbai,Withdrawal,21330.0,2025-01-29,FAIL,Insufficient Funds
+ TXN70291 ,CUST6196,Borivali ,Mumbai,Withdrawal,79430.67,2024-11-23,Pending,
+ TXN58921 ,CUST3127,Borivali ,Mumbai,Deposit,57630.17,2025-01-10,success,
+ TXN78104 ,CUST5227,Borivali ,Mumbai,Withdrawal,44683.94,2025-03-04,FAIL,Account Closed
+ TXN74794 ,CUST2298,Borivali ,Mumbai,Deposit,15166.73,2024-07-13,Failed,Insufficient Funds
+ TXN46696 ,CUST2545,Borivali ,Mumbai,Transfer,62162.27,2024-09-10,Pending,
+ TXN25143 ,CUST2461,Borivali ,Mumbai,Deposit,96555.06,2024-12-25,Failed,Account Closed
+ TXN99064 ,CUST2377,Borivali ,Mumbai,Transfer,79462.28,2024-12-04,success,
+ TXN77288 ,CUST5796,Borivali ,Mumbai,Withdrawal,39704.7,2024-06-02,FAIL,Technical Error
+ TXN86091 ,CUST1109,Borivali ,Mumbai,Deposit,93904.46,2025-02-13,Failed,Insufficient Funds
+ TXN67440 ,CUST9781,Borivali ,Mumbai,Withdrawal,9002.72,2024-12-12,FAIL,Technical Error
+ TXN64713 ,CUST8414,Borivali ,Mumbai,Transfer,14338.14,2024-12-09,Failed,Insufficient Funds
+ TXN31840 ,CUST5018,Borivali ,Mumbai,Transfer,13278.76,2024-08-02,success,
+ TXN32497 ,CUST6350,Borivali ,Mumbai,Deposit,81168.21,2024-07-19,pending,
+ TXN66262 ,CUST3646,Borivali ,Mumbai,Withdrawal,63483.42,2024-08-15,FAIL,Technical Error
+ TXN81814 ,CUST7420,Borivali ,Mumbai,Deposit,93678.3,2024-09-17,Pending,
+ TXN64728 ,CUST8238,Borivali ,Mumbai,Withdrawal,97940.56,2024-12-20,Pending,
+ TXN95911 ,CUST3519,Borivali ,Mumbai,Transfer,72565.04,2024-08-17,Success,
+ TXN77889 ,CUST1769,Borivali ,Mumbai,Deposit,50014.95,2025-04-14,pending,
+ TXN73967 ,CUST6162,Borivali ,Mumbai,Deposit,84597.05,2025-02-13,Success,
+ TXN92990 ,CUST7537,Borivali ,Mumbai,Deposit,11134.23,2024-05-09,pending,
+ TXN33257 ,CUST9397,Borivali ,Mumbai,Transfer,56739.08,2024-08-08,Failed,Insufficient Funds
+ TXN97309 ,CUST4531,Borivali ,Mumbai,Withdrawal,10791.91,2024-10-11,success,
+ TXN17920 ,CUST6595,Borivali ,Mumbai,Deposit,27831.94,2024-10-21,FAIL,Technical Error
+ TXN46921 ,CUST1396,Borivali ,Mumbai,Withdrawal,31998.02,2024-09-23,Success,
+ TXN28329 ,CUST4082,Borivali ,Mumbai,Deposit,4869.65,2024-07-26,Pending,
+ TXN43324 ,CUST3196,Borivali ,Mumbai,Withdrawal,79032.73,2025-03-16,pending,
+ TXN74491 ,CUST9830,Borivali ,Mumbai,Deposit,57820.58,2024-09-15,pending,
+ TXN74927 ,CUST6529,Borivali ,Mumbai,Deposit,51741.96,2024-08-09,success,
+ TXN97275 ,CUST9960,Borivali ,Mumbai,Transfer,34315.39,2025-05-02,Failed,Limit Exceeded
+ TXN99703 ,CUST9278,Borivali ,Mumbai,Deposit,77750.07,2024-07-30,Pending,
+ TXN56182 ,CUST4446,Borivali ,Mumbai,Transfer,6443.68,2024-06-21,Failed,Network Issue
+ TXN85641 ,CUST9943,Borivali ,Mumbai,Transfer,76712.52,2024-05-28,Success,
+ TXN58710 ,CUST9873,Borivali ,Mumbai,Transfer,85365.25,2024-09-26,success,
+ TXN59247 ,CUST3051,Borivali ,Mumbai,Withdrawal,85441.64,2024-10-14,Failed,Account Closed
+ TXN86869 ,CUST1790,Borivali ,Mumbai,Deposit,97297.51,2024-12-25,pending,
+ TXN22404 ,CUST7736,Borivali ,Mumbai,Transfer,66317.18,2024-09-15,Failed,Technical Error
+ TXN53477 ,CUST5031,Borivali ,Mumbai,Transfer,59640.15,2024-06-23,Pending,
+ TXN34665 ,CUST1653,Borivali ,Mumbai,Withdrawal,36628.09,2025-02-23,success,
+ TXN54025 ,CUST1840,Borivali ,Mumbai,Deposit,64548.01,2025-01-14,Success,
+ TXN96867 ,CUST8905,Borivali ,Mumbai,Transfer,41995.83,2024-09-29,Success,
+ TXN71798 ,CUST9898,Borivali ,Mumbai,Transfer,48323.83,2024-06-10,pending,
+ TXN36756 ,CUST6162,Borivali ,Mumbai,Transfer,76108.32,2024-10-18,FAIL,Insufficient Funds
+ TXN69664 ,CUST8373,Borivali ,Mumbai,Transfer,28966.78,2025-03-02,success,

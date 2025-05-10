@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN78378 ,CUST6464,Andheri East ,Mumbai,Deposit,35818.48,2024-12-27,FAIL,Technical Error
+ TXN71169 ,CUST9893,Andheri East ,Mumbai,Transfer,62887.35,2024-09-13,pending,
+ TXN42721 ,CUST7377,Andheri East ,Mumbai,Deposit,10505.67,2025-05-05,success,
+ TXN83184 ,CUST6390,Andheri East ,Mumbai,Transfer,33014.38,2024-09-02,pending,
+ TXN30587 ,CUST8743,Andheri East ,Mumbai,Withdrawal,34765.84,2025-01-04,success,
+ TXN14337 ,CUST1360,Andheri East ,Mumbai,Transfer,29301.9,2024-06-22,FAIL,Technical Error
+ TXN16378 ,CUST7918,Andheri East ,Mumbai,Deposit,88313.33,2025-02-07,Success,
+ TXN42599 ,CUST2632,Andheri East ,Mumbai,Deposit,65840.63,2024-09-24,Pending,
+ TXN82205 ,CUST7701,Andheri East ,Mumbai,Transfer,31800.66,2024-06-01,Pending,
+ TXN98815 ,CUST6869,Andheri East ,Mumbai,Deposit,34252.62,2024-07-26,Failed,Account Closed
+ TXN34435 ,CUST3014,Andheri East ,Mumbai,Deposit,75687.31,2024-10-24,Success,
+ TXN16460 ,CUST6585,Andheri East ,Mumbai,Withdrawal,17130.64,2024-08-01,pending,
+ TXN37824 ,CUST9046,Andheri East ,Mumbai,Withdrawal,58508.84,2024-05-09,Pending,
+ TXN11450 ,CUST2424,Andheri East ,Mumbai,Withdrawal,38318.54,2024-12-21,Pending,
+ TXN62553 ,CUST2433,Andheri East ,Mumbai,Transfer,17236.68,2024-07-07,FAIL,Limit Exceeded
+ TXN52017 ,CUST7815,Andheri East ,Mumbai,Deposit,47536.44,2024-06-18,Failed,Account Closed
+ TXN11073 ,CUST8332,Andheri East ,Mumbai,Deposit,92729.01,2024-12-13,pending,
+ TXN26271 ,CUST9615,Andheri East ,Mumbai,Deposit,2012.37,2024-12-17,pending,
+ TXN37362 ,CUST1558,Andheri East ,Mumbai,Transfer,206.0,2024-05-27,Pending,
+ TXN45762 ,CUST7980,Andheri East ,Mumbai,Transfer,29927.56,2025-01-21,Failed,Account Closed
+ TXN41574 ,CUST2151,Andheri East ,Mumbai,Deposit,7031.77,2025-01-11,success,
+ TXN25340 ,CUST5723,Andheri East ,Mumbai,Deposit,53090.85,2025-02-19,success,
+ TXN89572 ,CUST8727,Andheri East ,Mumbai,Transfer,76488.54,2025-02-17,success,
+ TXN90948 ,CUST2882,Andheri East ,Mumbai,Withdrawal,96757.27,2024-12-27,pending,
+ TXN52849 ,CUST6864,Andheri East ,Mumbai,Deposit,98014.38,2024-12-13,Pending,
+ TXN62504 ,CUST1987,Andheri East ,Mumbai,Transfer,10144.99,2024-10-21,Pending,
+ TXN78905 ,CUST9471,Andheri East ,Mumbai,Withdrawal,42638.74,2024-07-16,Pending,
+ TXN79032 ,CUST3381,Andheri East ,Mumbai,Deposit,13493.05,2024-05-22,Failed,Account Closed
+ TXN38322 ,CUST3399,Andheri East ,Mumbai,Transfer,96671.87,2024-11-24,Pending,
+ TXN44576 ,CUST7879,Andheri East ,Mumbai,Deposit,66136.99,2024-08-13,Success,
+ TXN89973 ,CUST3094,Andheri East ,Mumbai,Transfer,76117.24,2024-12-15,pending,
+ TXN77215 ,CUST5205,Andheri East ,Mumbai,Withdrawal,5224.91,2025-03-04,FAIL,Limit Exceeded
+ TXN57039 ,CUST8908,Andheri East ,Mumbai,Withdrawal,94122.54,2024-10-22,success,
+ TXN80749 ,CUST2370,Andheri East ,Mumbai,Transfer,68170.72,2025-05-03,success,
+ TXN66797 ,CUST2895,Andheri East ,Mumbai,Deposit,22441.14,2024-06-28,pending,
+ TXN15979 ,CUST9472,Andheri East ,Mumbai,Deposit,97460.57,2024-12-12,Failed,Technical Error
+ TXN97520 ,CUST7771,Andheri East ,Mumbai,Transfer,18838.99,2024-10-10,Pending,
+ TXN13392 ,CUST3801,Andheri East ,Mumbai,Transfer,39350.4,2025-03-03,FAIL,Account Closed
+ TXN81177 ,CUST4680,Andheri East ,Mumbai,Deposit,76814.24,2024-09-04,pending,
+ TXN10020 ,CUST4436,Andheri East ,Mumbai,Deposit,3747.85,2024-06-12,Success,
+ TXN20101 ,CUST2321,Andheri East ,Mumbai,Withdrawal,5671.57,2025-03-05,FAIL,Account Closed
+ TXN45375 ,CUST2880,Andheri East ,Mumbai,Transfer,14985.49,2025-04-15,FAIL,Network Issue
+ TXN94927 ,CUST1025,Andheri East ,Mumbai,Deposit,65314.22,2024-10-23,Pending,
+ TXN95307 ,CUST4498,Andheri East ,Mumbai,Withdrawal,24131.64,2024-10-23,success,
+ TXN87146 ,CUST7118,Andheri East ,Mumbai,Withdrawal,48765.4,2024-06-29,Pending,
+ TXN36353 ,CUST7067,Andheri East ,Mumbai,Transfer,80390.25,2025-01-22,success,
+ TXN22211 ,CUST7005,Andheri East ,Mumbai,Deposit,36348.76,2025-01-09,pending,
+ TXN20751 ,CUST1591,Andheri East ,Mumbai,Deposit,43587.4,2025-01-24,Failed,Account Closed
+ TXN74784 ,CUST8658,Andheri East ,Mumbai,Deposit,88761.9,2024-08-22,Failed,Network Issue
+ TXN28447 ,CUST8101,Andheri East ,Mumbai,Deposit,78272.86,2025-04-23,Failed,Insufficient Funds
+ TXN31136 ,CUST6788,Andheri East ,Mumbai,Transfer,62737.49,2025-03-29,Pending,
+ TXN27442 ,CUST6578,Andheri East ,Mumbai,Deposit,15079.11,2024-11-29,success,
+ TXN83753 ,CUST2142,Andheri East ,Mumbai,Withdrawal,29676.58,2025-01-01,FAIL,Network Issue
+ TXN52639 ,CUST9008,Andheri East ,Mumbai,Deposit,22251.64,2024-08-07,Success,
+ TXN82889 ,CUST9512,Andheri East ,Mumbai,Deposit,58367.03,2024-09-21,Pending,
+ TXN47952 ,CUST6397,Andheri East ,Mumbai,Deposit,94730.25,2025-01-11,Pending,
+ TXN25300 ,CUST1192,Andheri East ,Mumbai,Deposit,99615.64,2025-02-13,FAIL,Insufficient Funds
+ TXN54539 ,CUST9654,Andheri East ,Mumbai,Deposit,79954.23,2025-02-11,pending,
+ TXN52979 ,CUST8635,Andheri East ,Mumbai,Withdrawal,10993.65,2024-08-10,Success,
+ TXN32102 ,CUST6243,Andheri East ,Mumbai,Transfer,69072.67,2025-05-06,pending,
+ TXN88605 ,CUST5252,Andheri East ,Mumbai,Deposit,69944.43,2025-04-19,FAIL,Insufficient Funds
+ TXN78473 ,CUST6287,Andheri East ,Mumbai,Deposit,19145.97,2024-05-17,FAIL,Technical Error
+ TXN18219 ,CUST5953,Andheri East ,Mumbai,Deposit,99687.82,2025-01-19,Pending,
+ TXN20892 ,CUST6191,Andheri East ,Mumbai,Withdrawal,59671.05,2024-12-07,Failed,Limit Exceeded
+ TXN77019 ,CUST6313,Andheri East ,Mumbai,Deposit,49611.54,2024-08-18,Success,
+ TXN72223 ,CUST7029,Andheri East ,Mumbai,Withdrawal,77347.68,2025-04-28,Success,
+ TXN23350 ,CUST6479,Andheri East ,Mumbai,Transfer,37386.61,2025-01-09,Pending,
+ TXN49785 ,CUST8424,Andheri East ,Mumbai,Withdrawal,50890.29,2024-07-12,Failed,Account Closed
+ TXN20495 ,CUST9124,Andheri East ,Mumbai,Transfer,44579.93,2024-08-03,FAIL,Insufficient Funds
+ TXN63870 ,CUST7281,Andheri East ,Mumbai,Transfer,22470.03,2024-10-27,success,
+ TXN87451 ,CUST6765,Andheri East ,Mumbai,Deposit,66153.25,2024-11-04,Failed,Technical Error
+ TXN82786 ,CUST6260,Andheri East ,Mumbai,Transfer,55580.46,2025-01-20,Pending,
+ TXN73847 ,CUST4878,Andheri East ,Mumbai,Transfer,79292.6,2025-01-18,Failed,Technical Error
+ TXN80512 ,CUST8046,Andheri East ,Mumbai,Withdrawal,20793.03,2024-06-27,success,
+ TXN86989 ,CUST4101,Andheri East ,Mumbai,Withdrawal,2518.91,2024-06-04,Pending,
+ TXN85591 ,CUST3376,Andheri East ,Mumbai,Transfer,39641.14,2024-06-24,FAIL,Limit Exceeded
+ TXN43682 ,CUST9907,Andheri East ,Mumbai,Transfer,27378.0,2024-07-05,success,
+ TXN16962 ,CUST5370,Andheri East ,Mumbai,Withdrawal,8239.54,2025-03-25,success,
+ TXN44286 ,CUST3479,Andheri East ,Mumbai,Withdrawal,16112.31,2024-12-03,Success,
+ TXN73360 ,CUST5970,Andheri East ,Mumbai,Transfer,27663.61,2025-01-10,Failed,Account Closed
+ TXN32747 ,CUST3322,Andheri East ,Mumbai,Withdrawal,60701.43,2024-07-12,Failed,Technical Error
+ TXN35351 ,CUST3452,Andheri East ,Mumbai,Withdrawal,64887.02,2025-01-24,Failed,Network Issue
+ TXN48415 ,CUST7558,Andheri East ,Mumbai,Deposit,45756.09,2025-02-07,Success,
+ TXN74498 ,CUST1750,Andheri East ,Mumbai,Withdrawal,65411.52,2024-07-17,Failed,Network Issue
+ TXN66433 ,CUST7977,Andheri East ,Mumbai,Transfer,53770.17,2025-02-16,pending,
+ TXN23200 ,CUST6499,Andheri East ,Mumbai,Withdrawal,9330.46,2025-03-11,Failed,Limit Exceeded
+ TXN99206 ,CUST7064,Andheri East ,Mumbai,Withdrawal,5800.58,2024-05-08,Failed,Network Issue
+ TXN11813 ,CUST5509,Andheri East ,Mumbai,Transfer,22742.44,2025-01-22,Success,
+ TXN97744 ,CUST7401,Andheri East ,Mumbai,Transfer,69747.39,2024-06-11,success,
+ TXN49488 ,CUST4607,Andheri East ,Mumbai,Deposit,48564.47,2024-11-19,Pending,
+ TXN23927 ,CUST2328,Andheri East ,Mumbai,Transfer,15137.46,2024-11-15,FAIL,Insufficient Funds
+ TXN11197 ,CUST5380,Andheri East ,Mumbai,Transfer,48194.84,2025-04-03,Failed,Technical Error
+ TXN54638 ,CUST1381,Andheri East ,Mumbai,Deposit,51270.26,2024-07-02,Success,
+ TXN26711 ,CUST5662,Andheri East ,Mumbai,Deposit,18328.99,2025-02-28,Failed,Insufficient Funds
+ TXN37571 ,CUST6200,Andheri East ,Mumbai,Withdrawal,78791.65,2025-02-23,Pending,
+ TXN10674 ,CUST1055,Andheri East ,Mumbai,Withdrawal,1665.63,2025-01-06,Failed,Network Issue
+ TXN21929 ,CUST4499,Andheri East ,Mumbai,Withdrawal,27258.19,2025-01-18,pending,
+ TXN97977 ,CUST1508,Andheri East ,Mumbai,Deposit,54936.99,2024-08-28,FAIL,Account Closed
+ TXN88927 ,CUST4513,Andheri East ,Mumbai,Transfer,62397.8,2024-09-09,Failed,Network Issue
+ TXN74442 ,CUST6120,Andheri East ,Mumbai,Withdrawal,68569.74,2024-11-07,Pending,

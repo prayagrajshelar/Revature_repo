@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN20128 ,CUST6471,Adyar ,Chennai,Withdrawal,79433.61,2024-07-27,Pending,
+ TXN31224 ,CUST5134,Adyar ,Chennai,Deposit,6773.95,2024-10-07,success,
+ TXN58951 ,CUST5059,Adyar ,Chennai,Deposit,85265.86,2024-05-16,Pending,
+ TXN58686 ,CUST9530,Adyar ,Chennai,Deposit,45985.13,2024-07-09,success,
+ TXN88800 ,CUST5173,Adyar ,Chennai,Deposit,16825.52,2024-09-03,pending,
+ TXN19359 ,CUST8000,Adyar ,Chennai,Transfer,21315.08,2024-06-22,success,
+ TXN48355 ,CUST4458,Adyar ,Chennai,Deposit,15821.77,2024-12-05,Pending,
+ TXN25778 ,CUST1150,Adyar ,Chennai,Transfer,86834.27,2024-08-21,pending,
+ TXN24727 ,CUST4206,Adyar ,Chennai,Transfer,27673.01,2024-07-15,success,
+ TXN84282 ,CUST9321,Adyar ,Chennai,Deposit,66004.4,2024-12-08,Pending,
+ TXN99769 ,CUST1661,Adyar ,Chennai,Deposit,88865.0,2024-06-24,Pending,
+ TXN11129 ,CUST3769,Adyar ,Chennai,Deposit,6951.34,2024-12-17,FAIL,Account Closed
+ TXN30436 ,CUST6672,Adyar ,Chennai,Withdrawal,85760.96,2025-02-12,Success,
+ TXN70383 ,CUST4225,Adyar ,Chennai,Withdrawal,42678.18,2024-05-26,Failed,Network Issue
+ TXN93623 ,CUST8573,Adyar ,Chennai,Withdrawal,59405.01,2025-02-25,Failed,Network Issue
+ TXN92010 ,CUST1433,Adyar ,Chennai,Deposit,13099.76,2024-07-05,Success,
+ TXN20797 ,CUST1770,Adyar ,Chennai,Transfer,77284.04,2025-03-05,success,
+ TXN51390 ,CUST3851,Adyar ,Chennai,Transfer,12605.63,2025-02-02,Pending,
+ TXN58745 ,CUST1611,Adyar ,Chennai,Deposit,35250.16,2025-01-07,success,
+ TXN48157 ,CUST6342,Adyar ,Chennai,Deposit,70247.42,2025-03-22,FAIL,Technical Error
+ TXN53014 ,CUST6043,Adyar ,Chennai,Withdrawal,67668.32,2024-10-16,FAIL,Insufficient Funds
+ TXN82822 ,CUST9904,Adyar ,Chennai,Withdrawal,4710.07,2025-04-10,success,
+ TXN28331 ,CUST6095,Adyar ,Chennai,Deposit,78888.48,2024-08-04,Success,
+ TXN11987 ,CUST7388,Adyar ,Chennai,Withdrawal,52466.52,2025-05-06,Pending,
+ TXN33151 ,CUST7670,Adyar ,Chennai,Withdrawal,59573.77,2025-01-28,pending,
+ TXN53446 ,CUST2422,Adyar ,Chennai,Transfer,77046.95,2024-10-02,Success,
+ TXN88919 ,CUST6962,Adyar ,Chennai,Transfer,23057.04,2024-11-05,Pending,
+ TXN62402 ,CUST9769,Adyar ,Chennai,Transfer,34243.81,2025-02-15,FAIL,Network Issue
+ TXN43205 ,CUST3715,Adyar ,Chennai,Deposit,12686.18,2024-10-10,Pending,
+ TXN24936 ,CUST4845,Adyar ,Chennai,Transfer,63570.38,2024-07-14,Failed,Network Issue
+ TXN94105 ,CUST5449,Adyar ,Chennai,Transfer,4867.0,2024-11-28,FAIL,Network Issue
+ TXN10820 ,CUST7586,Adyar ,Chennai,Transfer,47715.53,2024-11-25,Failed,Insufficient Funds
+ TXN98967 ,CUST2785,Adyar ,Chennai,Withdrawal,40242.9,2025-01-21,pending,
+ TXN14916 ,CUST9630,Adyar ,Chennai,Withdrawal,39713.83,2025-03-03,success,
+ TXN53631 ,CUST3068,Adyar ,Chennai,Transfer,81179.99,2024-11-09,FAIL,Insufficient Funds
+ TXN39492 ,CUST3938,Adyar ,Chennai,Transfer,33766.19,2025-03-25,Success,
+ TXN89517 ,CUST5219,Adyar ,Chennai,Deposit,18191.35,2024-12-04,pending,
+ TXN79827 ,CUST2227,Adyar ,Chennai,Deposit,57070.78,2024-07-21,Failed,Technical Error
+ TXN27821 ,CUST8129,Adyar ,Chennai,Deposit,445.81,2024-06-13,pending,
+ TXN77876 ,CUST2679,Adyar ,Chennai,Deposit,84384.22,2024-07-17,Pending,
+ TXN56877 ,CUST5618,Adyar ,Chennai,Transfer,98691.85,2024-12-03,Pending,
+ TXN72388 ,CUST4081,Adyar ,Chennai,Deposit,80196.88,2024-10-27,Success,
+ TXN31548 ,CUST3531,Adyar ,Chennai,Deposit,52404.47,2024-07-26,Pending,
+ TXN37835 ,CUST5213,Adyar ,Chennai,Withdrawal,68864.44,2024-06-27,Success,
+ TXN77113 ,CUST5725,Adyar ,Chennai,Deposit,48721.12,2024-09-05,Success,
+ TXN22978 ,CUST9210,Adyar ,Chennai,Withdrawal,76051.16,2025-01-15,Pending,
+ TXN98138 ,CUST5401,Adyar ,Chennai,Withdrawal,17778.89,2024-06-08,FAIL,Account Closed
+ TXN11537 ,CUST6051,Adyar ,Chennai,Transfer,64826.7,2024-10-31,success,
+ TXN82479 ,CUST9422,Adyar ,Chennai,Transfer,52925.79,2024-09-19,success,
+ TXN41079 ,CUST9549,Adyar ,Chennai,Withdrawal,90604.79,2025-02-27,Failed,Account Closed
+ TXN16357 ,CUST6629,Adyar ,Chennai,Deposit,97240.91,2025-04-25,Pending,
+ TXN38379 ,CUST7730,Adyar ,Chennai,Deposit,17163.52,2024-11-28,pending,
+ TXN43353 ,CUST9115,Adyar ,Chennai,Transfer,39074.15,2024-07-10,Failed,Insufficient Funds
+ TXN84461 ,CUST4702,Adyar ,Chennai,Transfer,55377.9,2025-02-01,Failed,Limit Exceeded
+ TXN23619 ,CUST7902,Adyar ,Chennai,Withdrawal,1686.35,2024-08-24,Pending,
+ TXN83933 ,CUST1545,Adyar ,Chennai,Deposit,95551.86,2025-01-07,Success,
+ TXN17674 ,CUST4760,Adyar ,Chennai,Transfer,98125.86,2024-09-13,pending,
+ TXN42455 ,CUST9307,Adyar ,Chennai,Withdrawal,89950.66,2024-11-17,Success,
+ TXN34081 ,CUST4306,Adyar ,Chennai,Withdrawal,34879.79,2024-05-09,pending,
+ TXN56368 ,CUST3267,Adyar ,Chennai,Withdrawal,980.25,2024-05-13,pending,
+ TXN42214 ,CUST8117,Adyar ,Chennai,Withdrawal,17591.28,2024-10-07,Failed,Network Issue
+ TXN86204 ,CUST6050,Adyar ,Chennai,Transfer,25027.35,2025-01-15,FAIL,Technical Error
+ TXN55518 ,CUST7452,Adyar ,Chennai,Withdrawal,73693.2,2025-04-04,Failed,Account Closed
+ TXN94647 ,CUST5373,Adyar ,Chennai,Transfer,99676.01,2024-07-02,success,
+ TXN65437 ,CUST6866,Adyar ,Chennai,Deposit,38520.84,2024-10-20,Success,
+ TXN94821 ,CUST9142,Adyar ,Chennai,Deposit,32479.57,2024-07-18,Pending,
+ TXN19601 ,CUST8313,Adyar ,Chennai,Deposit,45824.27,2025-01-17,Failed,Insufficient Funds
+ TXN10826 ,CUST3862,Adyar ,Chennai,Withdrawal,20122.85,2024-08-02,FAIL,Technical Error
+ TXN28427 ,CUST6172,Adyar ,Chennai,Withdrawal,75520.55,2025-02-06,Pending,
+ TXN74724 ,CUST1085,Adyar ,Chennai,Withdrawal,47560.44,2024-05-30,pending,
+ TXN95428 ,CUST5332,Adyar ,Chennai,Withdrawal,37110.41,2024-08-19,Success,
+ TXN91230 ,CUST7956,Adyar ,Chennai,Withdrawal,34716.77,2025-03-11,success,
+ TXN32740 ,CUST7510,Adyar ,Chennai,Transfer,80691.74,2024-06-13,success,
+ TXN51933 ,CUST8783,Adyar ,Chennai,Deposit,77203.3,2025-03-28,Success,
+ TXN65648 ,CUST5055,Adyar ,Chennai,Withdrawal,36619.25,2024-12-30,FAIL,Account Closed
+ TXN50666 ,CUST8334,Adyar ,Chennai,Transfer,45664.41,2024-06-06,Success,
+ TXN54177 ,CUST2774,Adyar ,Chennai,Deposit,77628.06,2025-04-12,pending,
+ TXN74588 ,CUST3379,Adyar ,Chennai,Deposit,64058.64,2024-12-12,Pending,
+ TXN28372 ,CUST4119,Adyar ,Chennai,Withdrawal,66133.65,2024-06-22,Success,
+ TXN74720 ,CUST2617,Adyar ,Chennai,Deposit,79387.16,2024-09-30,Pending,
+ TXN38538 ,CUST7956,Adyar ,Chennai,Transfer,16933.71,2025-02-23,Success,
+ TXN42738 ,CUST3903,Adyar ,Chennai,Withdrawal,56870.4,2024-07-29,success,
+ TXN19101 ,CUST4411,Adyar ,Chennai,Withdrawal,40874.02,2024-05-31,Pending,
+ TXN66818 ,CUST7686,Adyar ,Chennai,Withdrawal,23760.47,2024-11-07,pending,
+ TXN46377 ,CUST9879,Adyar ,Chennai,Transfer,45858.22,2025-01-14,success,
+ TXN40117 ,CUST1146,Adyar ,Chennai,Deposit,41707.63,2025-04-10,success,
+ TXN51511 ,CUST9733,Adyar ,Chennai,Deposit,33703.69,2025-01-27,Failed,Limit Exceeded
+ TXN75588 ,CUST1683,Adyar ,Chennai,Withdrawal,2754.97,2024-11-10,FAIL,Account Closed
+ TXN46893 ,CUST4155,Adyar ,Chennai,Deposit,98582.01,2025-04-28,Success,
+ TXN65113 ,CUST4702,Adyar ,Chennai,Transfer,41669.69,2024-11-26,FAIL,Limit Exceeded
+ TXN45962 ,CUST1954,Adyar ,Chennai,Deposit,81607.0,2024-09-03,success,
+ TXN60290 ,CUST2634,Adyar ,Chennai,Deposit,65031.49,2024-10-02,success,
+ TXN15157 ,CUST9840,Adyar ,Chennai,Withdrawal,17687.62,2024-08-28,Pending,
+ TXN62581 ,CUST5108,Adyar ,Chennai,Transfer,91708.55,2024-06-17,Success,
+ TXN56542 ,CUST9467,Adyar ,Chennai,Transfer,44125.4,2025-02-05,Failed,Technical Error
+ TXN89915 ,CUST9221,Adyar ,Chennai,Withdrawal,6114.79,2024-11-03,pending,
+ TXN26842 ,CUST1051,Adyar ,Chennai,Deposit,43956.09,2024-10-01,Pending,
+ TXN39351 ,CUST3633,Adyar ,Chennai,Deposit,7906.83,2025-05-08,pending,
+ TXN60725 ,CUST7152,Adyar ,Chennai,Deposit,27066.54,2024-08-09,FAIL,Limit Exceeded
+ TXN71853 ,CUST9201,Adyar ,Chennai,Transfer,53188.38,2024-10-15,success,
