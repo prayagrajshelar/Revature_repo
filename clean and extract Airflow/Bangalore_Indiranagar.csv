@@ -1,0 +1,101 @@
+ TransactionID ,CustomerID, BranchName,City ,TransactionType,Amount ,Date,Status,FailureReason
+ TXN21070 ,CUST3177,Indiranagar ,Bangalore,Withdrawal,50215.6,13-10-2024,FAIL,Limit Exceeded
+ TXN17946 ,CUST4829,Indiranagar ,Bangalore,Transfer,93308.2,02-07-2024,FAIL,Account Closed
+ TXN30768 ,CUST7102,Indiranagar ,Bangalore,Deposit,2511.87,15-05-2024,Pending,
+ TXN94197 ,CUST8585,Indiranagar ,Bangalore,Transfer,90958.86,17-01-2025,success,
+ TXN28286 ,CUST5670,Indiranagar ,Bangalore,Deposit,28233.35,30-06-2024,Failed,Limit Exceeded
+ TXN83723 ,CUST9207,Indiranagar ,Bangalore,Transfer,3889.04,29-04-2025,Pending,
+ TXN11328 ,CUST9576,Indiranagar ,Bangalore,Withdrawal,82984.02,24-02-2025,Pending,
+ TXN55919 ,CUST7708,Indiranagar ,Bangalore,Transfer,29471.08,02-10-2024,pending,
+ TXN74783 ,CUST8107,Indiranagar ,Bangalore,Deposit,91409.25,08-10-2024,Failed,Technical Error
+ TXN55079 ,CUST4653,Indiranagar ,Bangalore,Transfer,40785.04,21-08-2024,success,
+ TXN79221 ,CUST7165,Indiranagar ,Bangalore,Transfer,24691.25,21-05-2024,success,
+ TXN96805 ,CUST7523,Indiranagar ,Bangalore,Transfer,93506.59,13-09-2024,Pending,
+ TXN97050 ,CUST3264,Indiranagar ,Bangalore,Deposit,58441.22,16-09-2024,success,
+ TXN59017 ,CUST4909,Indiranagar ,Bangalore,Transfer,79629.54,29-07-2024,pending,
+ TXN18087 ,CUST7833,Indiranagar ,Bangalore,Transfer,46347.45,05-06-2024,FAIL,Network Issue
+ TXN58294 ,CUST3288,Indiranagar ,Bangalore,Transfer,47941.85,23-06-2024,success,
+ TXN72821 ,CUST4921,Indiranagar ,Bangalore,Deposit,65107.48,17-06-2024,Pending,
+ TXN62270 ,CUST8732,Indiranagar ,Bangalore,Transfer,56153.65,14-12-2024,success,
+ TXN29125 ,CUST1483,Indiranagar ,Bangalore,Withdrawal,28302.07,02-03-2025,success,
+ TXN69979 ,CUST5642,Indiranagar ,Bangalore,Transfer,51612.29,06-03-2025,pending,
+ TXN42277 ,CUST4895,Indiranagar ,Bangalore,Withdrawal,18373.87,30-03-2025,pending,
+ TXN33626 ,CUST6283,Indiranagar ,Bangalore,Deposit,35788.16,26-06-2024,Success,
+ TXN10742 ,CUST8381,Indiranagar ,Bangalore,Withdrawal,83518.21,15-07-2024,FAIL,Insufficient Funds
+ TXN26383 ,CUST2064,Indiranagar ,Bangalore,Withdrawal,65870.21,15-04-2025,Success,
+ TXN16383 ,CUST9663,Indiranagar ,Bangalore,Transfer,85498.46,19-09-2024,Failed,Technical Error
+ TXN35916 ,CUST4180,Indiranagar ,Bangalore,Withdrawal,12084.2,05-09-2024,success,
+ TXN29557 ,CUST6575,Indiranagar ,Bangalore,Transfer,27254.21,14-09-2024,success,
+ TXN52713 ,CUST6563,Indiranagar ,Bangalore,Transfer,66667.81,31-05-2024,Success,
+ TXN35086 ,CUST3147,Indiranagar ,Bangalore,Transfer,389.28,14-09-2024,Failed,Account Closed
+ TXN11107 ,CUST4066,Indiranagar ,Bangalore,Withdrawal,87638.94,18-02-2025,FAIL,Technical Error
+ TXN10750 ,CUST2362,Indiranagar ,Bangalore,Withdrawal,9675.51,22-04-2025,Failed,Account Closed
+ TXN51480 ,CUST1233,Indiranagar ,Bangalore,Deposit,11004.71,01-02-2025,success,
+ TXN65526 ,CUST3110,Indiranagar ,Bangalore,Deposit,1806.84,08-12-2024,Failed,Limit Exceeded
+ TXN93360 ,CUST7425,Indiranagar ,Bangalore,Transfer,3271.2,14-07-2024,success,
+ TXN36745 ,CUST2615,Indiranagar ,Bangalore,Withdrawal,99159.28,16-08-2024,pending,
+ TXN19313 ,CUST9481,Indiranagar ,Bangalore,Withdrawal,50297.07,23-02-2025,Failed,Account Closed
+ TXN26974 ,CUST6031,Indiranagar ,Bangalore,Deposit,26770.36,14-02-2025,Failed,Insufficient Funds
+ TXN12855 ,CUST8122,Indiranagar ,Bangalore,Transfer,69556.73,05-05-2025,Pending,
+ TXN81180 ,CUST1842,Indiranagar ,Bangalore,Withdrawal,97709.27,06-09-2024,FAIL,Network Issue
+ TXN36711 ,CUST2786,Indiranagar ,Bangalore,Deposit,24677.15,11-07-2024,FAIL,Network Issue
+ TXN40390 ,CUST2948,Indiranagar ,Bangalore,Deposit,20420.01,25-10-2024,Pending,
+ TXN88263 ,CUST5113,Indiranagar ,Bangalore,Withdrawal,38082.66,10-08-2024,Pending,
+ TXN35502 ,CUST2408,Indiranagar ,Bangalore,Transfer,50220.3,10-01-2025,Failed,Network Issue
+ TXN92603 ,CUST6112,Indiranagar ,Bangalore,Transfer,15308.75,28-07-2024,Failed,Account Closed
+ TXN85693 ,CUST2165,Indiranagar ,Bangalore,Transfer,51433.1,11-11-2024,Pending,
+ TXN52098 ,CUST1376,Indiranagar ,Bangalore,Withdrawal,1855.55,05-07-2024,success,
+ TXN92127 ,CUST7526,Indiranagar ,Bangalore,Deposit,1322.32,10-09-2024,Pending,
+ TXN59174 ,CUST5291,Indiranagar ,Bangalore,Transfer,10604.38,28-03-2025,Failed,Network Issue
+ TXN32362 ,CUST8204,Indiranagar ,Bangalore,Transfer,31087.69,23-04-2025,FAIL,Technical Error
+ TXN84462 ,CUST3421,Indiranagar ,Bangalore,Transfer,61667.52,25-10-2024,Failed,Insufficient Funds
+ TXN67735 ,CUST3597,Indiranagar ,Bangalore,Withdrawal,57068.96,31-10-2024,pending,
+ TXN34230 ,CUST6182,Indiranagar ,Bangalore,Withdrawal,50845.89,27-11-2024,FAIL,Insufficient Funds
+ TXN45313 ,CUST5788,Indiranagar ,Bangalore,Transfer,42148.59,31-07-2024,pending,
+ TXN12235 ,CUST1715,Indiranagar ,Bangalore,Withdrawal,63527.64,19-06-2024,pending,
+ TXN78211 ,CUST2748,Indiranagar ,Bangalore,Withdrawal,84774.58,11-08-2024,Pending,
+ TXN69863 ,CUST7301,Indiranagar ,Bangalore,Transfer,56171.25,27-09-2024,pending,
+ TXN64905 ,CUST3876,Indiranagar ,Bangalore,Withdrawal,85096.49,07-10-2024,Failed,Account Closed
+ TXN38113 ,CUST9773,Indiranagar ,Bangalore,Deposit,77080.06,05-09-2024,Failed,Account Closed
+ TXN17382 ,CUST4629,Indiranagar ,Bangalore,Deposit,63450.91,01-07-2024,Success,
+ TXN20192 ,CUST2559,Indiranagar ,Bangalore,Deposit,34357.34,01-06-2024,Pending,
+ TXN57892 ,CUST8443,Indiranagar ,Bangalore,Withdrawal,17410.91,12-01-2025,Pending,
+ TXN20794 ,CUST3546,Indiranagar ,Bangalore,Withdrawal,32153.64,01-08-2024,success,
+ TXN22788 ,CUST6194,Indiranagar ,Bangalore,Deposit,36944.73,27-09-2024,success,
+ TXN22239 ,CUST8167,Indiranagar ,Bangalore,Transfer,36801.62,22-02-2025,FAIL,Account Closed
+ TXN18276 ,CUST9649,Indiranagar ,Bangalore,Deposit,54430.22,13-12-2024,Failed,Insufficient Funds
+ TXN45742 ,CUST5087,Indiranagar ,Bangalore,Transfer,63852.19,31-12-2024,pending,
+ TXN29890 ,CUST2463,Indiranagar ,Bangalore,Deposit,36734.84,13-06-2024,Success,
+ TXN77587 ,CUST7313,Indiranagar ,Bangalore,Deposit,58016.43,06-02-2025,Failed,Technical Error
+ TXN19426 ,CUST8188,Indiranagar ,Bangalore,Deposit,42200.09,13-09-2024,success,
+ TXN22446 ,CUST5395,Indiranagar ,Bangalore,Deposit,11671.19,24-07-2024,Failed,Limit Exceeded
+ TXN67002 ,CUST5384,Indiranagar ,Bangalore,Withdrawal,9712.88,28-11-2024,Success,
+ TXN64386 ,CUST5989,Indiranagar ,Bangalore,Transfer,89342.57,26-03-2025,Failed,Technical Error
+ TXN30012 ,CUST3044,Indiranagar ,Bangalore,Transfer,88197.57,21-07-2024,FAIL,Technical Error
+ TXN31422 ,CUST9142,Indiranagar ,Bangalore,Deposit,46968.58,17-07-2024,success,
+ TXN56636 ,CUST4712,Indiranagar ,Bangalore,Transfer,30800.92,22-06-2024,Failed,Technical Error
+ TXN16212 ,CUST7484,Indiranagar ,Bangalore,Transfer,42787.8,28-05-2024,Failed,Account Closed
+ TXN92723 ,CUST4392,Indiranagar ,Bangalore,Transfer,95442.69,14-03-2025,FAIL,Network Issue
+ TXN58268 ,CUST2465,Indiranagar ,Bangalore,Transfer,63709.97,21-04-2025,Failed,Account Closed
+ TXN70439 ,CUST7968,Indiranagar ,Bangalore,Withdrawal,3747.55,15-03-2025,pending,
+ TXN23109 ,CUST3438,Indiranagar ,Bangalore,Deposit,95117.5,07-11-2024,Pending,
+ TXN60040 ,CUST6998,Indiranagar ,Bangalore,Transfer,63430.2,30-12-2024,FAIL,Limit Exceeded
+ TXN46845 ,CUST8564,Indiranagar ,Bangalore,Transfer,87493.8,14-02-2025,pending,
+ TXN67383 ,CUST9910,Indiranagar ,Bangalore,Transfer,78334.26,13-07-2024,FAIL,Technical Error
+ TXN30444 ,CUST3422,Indiranagar ,Bangalore,Transfer,69143.87,20-02-2025,pending,
+ TXN61659 ,CUST6969,Indiranagar ,Bangalore,Deposit,84920.21,23-09-2024,pending,
+ TXN99117 ,CUST6721,Indiranagar ,Bangalore,Transfer,14755.66,08-11-2024,pending,
+ TXN45694 ,CUST5416,Indiranagar ,Bangalore,Withdrawal,88925.31,06-11-2024,Success,
+ TXN65825 ,CUST3310,Indiranagar ,Bangalore,Transfer,12813.29,09-03-2025,FAIL,Account Closed
+ TXN14833 ,CUST5356,Indiranagar ,Bangalore,Transfer,71307.8,10-09-2024,success,
+ TXN70274 ,CUST2937,Indiranagar ,Bangalore,Withdrawal,28893.09,08-10-2024,success,
+ TXN42844 ,CUST5259,Indiranagar ,Bangalore,Transfer,46168.83,06-03-2025,success,
+ TXN78232 ,CUST4986,Indiranagar ,Bangalore,Withdrawal,77939.08,21-04-2025,Pending,
+ TXN43970 ,CUST5175,Indiranagar ,Bangalore,Transfer,25161,08-04-2025,Failed,Network Issue
+ TXN82556 ,CUST3731,Indiranagar ,Bangalore,Transfer,48049.09,10-07-2024,FAIL,Account Closed
+ TXN92735 ,CUST8133,Indiranagar ,Bangalore,Deposit,64249.47,09-01-2025,Pending,
+ TXN46965 ,CUST2959,Indiranagar ,Bangalore,Transfer,45258.56,11-06-2024,pending,
+ TXN81217 ,CUST4148,Indiranagar ,Bangalore,Withdrawal,55330.06,17-05-2024,FAIL,Network Issue
+ TXN46586 ,CUST8984,Indiranagar ,Bangalore,Deposit,16756.38,06-05-2025,pending,
+ TXN30446 ,CUST9938,Indiranagar ,Bangalore,Transfer,81571.66,10-04-2025,Pending,
+ TXN99519 ,CUST4584,Indiranagar ,Bangalore,Transfer,30406.81,03-12-2024,success,
