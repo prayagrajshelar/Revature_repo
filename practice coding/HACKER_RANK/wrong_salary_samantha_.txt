@@ -1,0 +1,23 @@
+Samantha was tasked with calculating the average monthly salaries for all employees in the EMPLOYEES table, but did not realize her keyboard's  key was broken until after completing the calculation. She wants your help finding the difference between her miscalculation (using salaries with any zeros removed), and the actual average salary.
+
+Write a query calculating the amount of error (i.e.: actual - miscalculated  average monthly salaries), and round it up to the next integer.
+
+
+
+
+SELECT 
+    CEIL(AVG(Salary) - AVG(CAST(REPLACE(Salary, '0', '') AS UNSIGNED))) AS Error
+FROM 
+    EMPLOYEES;
+
+
+
+
+
+AVG(Salary): Computes the correct average salary.
+REPLACE(Salary, '0', ''): Removes all 0s from the salary (Samantha's mistake).
+CAST(... AS UNSIGNED): Converts the modified salary string to a number for averaging.
+AVG(...): Averages the incorrect salaries.
+AVG(correct) - AVG(mistake): Gives the error in average.
+CEIL(...): Rounds the error up to the next integer, as required.
+This will output a single column Error with the rounded-up difference.

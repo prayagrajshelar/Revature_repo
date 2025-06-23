@@ -1,0 +1,19 @@
+SELECT e.FIRST_NAME, e.LAST_NAME
+FROM employees e
+JOIN departments d ON e.DEPARTMENT_ID = d.DEPARTMENT_ID
+JOIN locations loc ON d.LOCATION_ID = loc.LOCATION_ID
+WHERE e.MANAGER_ID IS NOT NULL
+  AND loc.COUNTRY_ID = 'US';
+  
+SELECT FIRST_NAME, LAST_NAME
+FROM employees
+WHERE MANAGER_ID IS NOT NULL
+  AND DEPARTMENT_ID IN (
+      SELECT DEPARTMENT_ID
+      FROM departments
+      WHERE LOCATION_ID = (
+      SELECT LOCATION_ID 
+      FROM locations
+      WHERE country_id = 'US'
+      )
+  );

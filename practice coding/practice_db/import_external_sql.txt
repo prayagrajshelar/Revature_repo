@@ -1,0 +1,16 @@
+mysql -u root -p practice_db < C:/Users/Prayagraj/Desktop/Revature/2_Database/practice_db/sample_ecommerce_db.sql
+Enter password: root
+
+Find customers who placed orders in the last 30 days.
+Which 5 products generated the highest total revenue?
+Find customers who have never placed an order.
+List products where stock is below 10.
+What is the average order value for each customer?
+Calculate total sales for each day in the past week.
+Who are the top 3 customers by number of orders?
+Show how many times each product was sold.
+Total revenue grouped by product category.
+Which customers haven't ordered in the last 6 months
+
+
+also export the .sql file
