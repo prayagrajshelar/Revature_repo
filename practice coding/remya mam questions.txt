@@ -1,0 +1,50 @@
+In this Python challenge, you need to write a function that accepts an encoded string as a parameter. This string will contain a first name, last name, and an id.
+
+Values in the string can be separated by any number of zeros. The id is a numeric value but will contain no zeros. The function should parse the string and return a Python dictionary that contains the first name, last name, and id values.
+
+An example input would be “Robert000Smith000123”. The function should return the following using that input:
+
+{ “first_name”: “Robert”, “last_name”: “Smith”, “id”: “123” }
+
+=========================================================
+
+Write a function in Python that accepts two string parameters. The first parameter will be a string of characters, and the second parameter will be the same string of characters, but they’ll be in a different order and have one extra character. The function should return that extra character.
+
+For example, if the first parameter is “eueiieo” and the second is “iieoedue,” then the function should return “d.”
+
+=====================================================
+
+For the purpose of this challenge, shadow sentences are sentences where every word is the same length and order but without any of the same letters. Write a function that accepts two parameters that may or may not be shadows of each other. The function should return True if they are and False if they aren’t.
+
+An example would be “they are round” and “fold two times,” which are shadow sentences, while “his friends” and “our company” are not because both contain an r.
+
+=======================================================
+
+Create a function in Python that accepts one parameter: a string that’s a sentence. This function should return True if any word in that sentence contains duplicate letters and False if not.
+
+=====================================================
+
+For this challenge, you need to write a function in Python that accepts a string of ASCII characters. It should return each character’s value as a hexadecimal string. Separate each byte by a space, and return all alpha hexadecimal characters as lowercase.
+
+===========================================================
+
+In this Python challenge, write a function that’ll accept two numbers. These numbers will represent a position on a tic-tac-toe board. They can be 0 through 8, where 0 is the top-left spot, and 8 is the bottom-right spot.
+
+These parameters are two marks on the tic-tac-toe board. The function should return the number of the spot that can block these two spots from winning the game.
+
+==========================================================
+
+We no longer use Morse code to transfer information, but that doesn’t mean you can’t use it in a code challenge. Write a function in Python that takes in a string that can have alphanumeric characters in lower or upper case.
+
+The string can also contain any special characters handled in Morse code, including commas, colons, apostrophes, periods, exclamation marks, and question marks. The function should return the Morse code equivalent for the string.
+
+============================================================
+
+Create a function in Python that accepts two parameters. They’ll both be numbers. The first will be the month as a number, and the second will be the four-digit year. The function should parse the parameters and return True if the month contains a Friday the 13th and False if it doesn’t.
+
+========================================================
+https://www.hackerrank.com/challenges/the-minion-game/problem
+
+The Minion Game | HackerRank
+Given a string, judge the winner of the minion game.
+ 
